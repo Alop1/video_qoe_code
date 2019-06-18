@@ -1,0 +1,157 @@
+Stats on testing data: (SRCC: nan, PCC: nan, RMSE: 0.100)
+Italy_switz_cif_0_0_foreman_352x288_vs_foreman_352x288_q_352x288
+Aggregate (mean): PSNR_score:60.000000
+Italy_switz_cif_0_1_foreman_352x288_vs_foreman_plr0.1_5462_352x288_q_352x288
+Aggregate (mean): PSNR_score:59.797370
+Italy_switz_cif_0_2_foreman_352x288_vs_foreman_plr0.1_8552_352x288_q_352x288
+Aggregate (mean): PSNR_score:59.781091
+Italy_switz_cif_0_3_foreman_352x288_vs_foreman_plr0.4_4374_352x288_q_352x288
+Aggregate (mean): PSNR_score:50.799662
+Italy_switz_cif_0_4_foreman_352x288_vs_foreman_plr0.4_89_352x288_q_352x288
+Aggregate (mean): PSNR_score:54.181539
+Italy_switz_cif_0_5_foreman_352x288_vs_foreman_plr10_4374_352x288_q_352x288
+Aggregate (mean): PSNR_score:27.241522
+Italy_switz_cif_0_6_foreman_352x288_vs_foreman_plr10_8022_352x288_q_352x288
+Aggregate (mean): PSNR_score:27.474870
+Italy_switz_cif_0_7_foreman_352x288_vs_foreman_plr1_4374_352x288_q_352x288
+Aggregate (mean): PSNR_score:41.773194
+Italy_switz_cif_0_8_foreman_352x288_vs_foreman_plr1_6859_352x288_q_352x288
+Aggregate (mean): PSNR_score:41.078901
+Italy_switz_cif_0_9_foreman_352x288_vs_foreman_plr3_3652_352x288_q_352x288
+Aggregate (mean): PSNR_score:35.042505
+Italy_switz_cif_0_10_foreman_352x288_vs_foreman_plr3_8022_352x288_q_352x288
+Aggregate (mean): PSNR_score:36.111258
+Italy_switz_cif_0_11_foreman_352x288_vs_foreman_plr5_4109_352x288_q_352x288
+Aggregate (mean): PSNR_score:31.293216
+Italy_switz_cif_0_12_foreman_352x288_vs_foreman_plr5_7128_352x288_q_352x288
+Aggregate (mean): PSNR_score:31.566451
+Italy_switz_cif_1_13_hall_352x288_vs_hall_352x288_q_352x288
+Aggregate (mean): PSNR_score:60.000000
+Italy_switz_cif_1_14_hall_352x288_vs_hall_plr0.1_2081_352x288_q_352x288
+Aggregate (mean): PSNR_score:57.821748
+Italy_switz_cif_1_15_hall_352x288_vs_hall_plr0.1_6644_352x288_q_352x288
+Aggregate (mean): PSNR_score:56.258252
+Italy_switz_cif_1_16_hall_352x288_vs_hall_plr0.4_522_352x288_q_352x288
+Aggregate (mean): PSNR_score:50.791948
+Italy_switz_cif_1_17_hall_352x288_vs_hall_plr0.4_7393_352x288_q_352x288
+Aggregate (mean): PSNR_score:48.041245
+Italy_switz_cif_1_18_hall_352x288_vs_hall_plr10_3693_352x288_q_352x288
+Aggregate (mean): PSNR_score:26.174675
+Italy_switz_cif_1_19_hall_352x288_vs_hall_plr10_8420_352x288_q_352x288
+Aggregate (mean): PSNR_score:27.385396
+Italy_switz_cif_1_20_hall_352x288_vs_hall_plr1_8552_352x288_q_352x288
+Aggregate (mean): PSNR_score:41.668382
+Italy_switz_cif_1_21_hall_352x288_vs_hall_plr1_89_352x288_q_352x288
+Aggregate (mean): PSNR_score:35.877723
+Italy_switz_cif_1_22_hall_352x288_vs_hall_plr3_1825_352x288_q_352x288
+Aggregate (mean): PSNR_score:30.775209
+Italy_switz_cif_1_23_hall_352x288_vs_hall_plr3_3176_352x288_q_352x288
+Aggregate (mean): PSNR_score:28.770728
+Italy_switz_cif_1_24_hall_352x288_vs_hall_plr5_3652_352x288_q_352x288
+Aggregate (mean): PSNR_score:31.270551
+Italy_switz_cif_1_25_hall_352x288_vs_hall_plr5_8253_352x288_q_352x288
+Aggregate (mean): PSNR_score:32.581423
+Italy_switz_cif_2_26_mobile_352x288_vs_mobile_352x288_q_352x288
+Aggregate (mean): PSNR_score:60.000000
+Italy_switz_cif_2_27_mobile_352x288_vs_mobile_plr0.1_8022_352x288_q_352x288
+Aggregate (mean): PSNR_score:51.248519
+Italy_switz_cif_2_28_mobile_352x288_vs_mobile_plr0.1_8253_352x288_q_352x288
+Aggregate (mean): PSNR_score:47.847289
+Italy_switz_cif_2_29_mobile_352x288_vs_mobile_plr0.4_2081_352x288_q_352x288
+Aggregate (mean): PSNR_score:46.565930
+Italy_switz_cif_2_30_mobile_352x288_vs_mobile_plr0.4_8043_352x288_q_352x288
+Aggregate (mean): PSNR_score:52.037737
+Italy_switz_cif_2_31_mobile_352x288_vs_mobile_plr10_167_352x288_q_352x288
+Aggregate (mean): PSNR_score:23.204358
+Italy_switz_cif_2_32_mobile_352x288_vs_mobile_plr10_2081_352x288_q_352x288
+Aggregate (mean): PSNR_score:22.438587
+Italy_switz_cif_2_33_mobile_352x288_vs_mobile_plr1_5462_352x288_q_352x288
+Aggregate (mean): PSNR_score:39.921331
+Italy_switz_cif_2_34_mobile_352x288_vs_mobile_plr1_8022_352x288_q_352x288
+Aggregate (mean): PSNR_score:40.603132
+Italy_switz_cif_2_35_mobile_352x288_vs_mobile_plr3_5539_352x288_q_352x288
+Aggregate (mean): PSNR_score:28.971487
+Italy_switz_cif_2_36_mobile_352x288_vs_mobile_plr3_7128_352x288_q_352x288
+Aggregate (mean): PSNR_score:29.143143
+Italy_switz_cif_2_37_mobile_352x288_vs_mobile_plr5_1251_352x288_q_352x288
+Aggregate (mean): PSNR_score:26.739276
+Italy_switz_cif_2_38_mobile_352x288_vs_mobile_plr5_7393_352x288_q_352x288
+Aggregate (mean): PSNR_score:26.772223
+Italy_switz_cif_3_39_mother_352x288_vs_mother_352x288_q_352x288
+Aggregate (mean): PSNR_score:60.000000
+Italy_switz_cif_3_40_mother_352x288_vs_mother_plr0.1_3176_352x288_q_352x288
+Aggregate (mean): PSNR_score:57.480066
+Italy_switz_cif_3_41_mother_352x288_vs_mother_plr0.1_522_352x288_q_352x288
+Aggregate (mean): PSNR_score:56.111866
+Italy_switz_cif_3_42_mother_352x288_vs_mother_plr0.4_1587_352x288_q_352x288
+Aggregate (mean): PSNR_score:52.838547
+Italy_switz_cif_3_43_mother_352x288_vs_mother_plr0.4_5435_352x288_q_352x288
+Aggregate (mean): PSNR_score:49.935906
+Italy_switz_cif_3_44_mother_352x288_vs_mother_plr10_1587_352x288_q_352x288
+Aggregate (mean): PSNR_score:35.291888
+Italy_switz_cif_3_45_mother_352x288_vs_mother_plr10_8420_352x288_q_352x288
+Aggregate (mean): PSNR_score:31.651295
+Italy_switz_cif_3_46_mother_352x288_vs_mother_plr1_2081_352x288_q_352x288
+Aggregate (mean): PSNR_score:49.747069
+Italy_switz_cif_3_47_mother_352x288_vs_mother_plr1_522_352x288_q_352x288
+Aggregate (mean): PSNR_score:48.820559
+Italy_switz_cif_3_48_mother_352x288_vs_mother_plr3_167_352x288_q_352x288
+Aggregate (mean): PSNR_score:43.893310
+Italy_switz_cif_3_49_mother_352x288_vs_mother_plr3_8253_352x288_q_352x288
+Aggregate (mean): PSNR_score:45.159853
+Italy_switz_cif_3_50_mother_352x288_vs_mother_plr5_5452_352x288_q_352x288
+Aggregate (mean): PSNR_score:36.623678
+Italy_switz_cif_3_51_mother_352x288_vs_mother_plr5_8420_352x288_q_352x288
+Aggregate (mean): PSNR_score:39.090559
+Italy_switz_cif_4_52_news_352x288_vs_news_352x288_q_352x288
+Aggregate (mean): PSNR_score:60.000000
+Italy_switz_cif_4_53_news_352x288_vs_news_plr0.1_2081_352x288_q_352x288
+Aggregate (mean): PSNR_score:57.766642
+Italy_switz_cif_4_54_news_352x288_vs_news_plr0.1_8022_352x288_q_352x288
+Aggregate (mean): PSNR_score:59.155430
+Italy_switz_cif_4_55_news_352x288_vs_news_plr0.4_8253_352x288_q_352x288
+Aggregate (mean): PSNR_score:55.878851
+Italy_switz_cif_4_56_news_352x288_vs_news_plr0.4_8297_352x288_q_352x288
+Aggregate (mean): PSNR_score:54.070412
+Italy_switz_cif_4_57_news_352x288_vs_news_plr10_1790_352x288_q_352x288
+Aggregate (mean): PSNR_score:28.278980
+Italy_switz_cif_4_58_news_352x288_vs_news_plr10_8297_352x288_q_352x288
+Aggregate (mean): PSNR_score:28.091168
+Italy_switz_cif_4_59_news_352x288_vs_news_plr1_8022_352x288_q_352x288
+Aggregate (mean): PSNR_score:46.465332
+Italy_switz_cif_4_60_news_352x288_vs_news_plr1_8297_352x288_q_352x288
+Aggregate (mean): PSNR_score:47.094278
+Italy_switz_cif_4_61_news_352x288_vs_news_plr3_2081_352x288_q_352x288
+Aggregate (mean): PSNR_score:36.478927
+Italy_switz_cif_4_62_news_352x288_vs_news_plr3_8022_352x288_q_352x288
+Aggregate (mean): PSNR_score:35.961526
+Italy_switz_cif_4_63_news_352x288_vs_news_plr5_1587_352x288_q_352x288
+Aggregate (mean): PSNR_score:32.486981
+Italy_switz_cif_4_64_news_352x288_vs_news_plr5_8022_352x288_q_352x288
+Aggregate (mean): PSNR_score:32.549479
+Italy_switz_cif_5_65_paris_352x288_vs_paris_352x288_q_352x288
+Aggregate (mean): PSNR_score:60.000000
+Italy_switz_cif_5_66_paris_352x288_vs_paris_plr0.1_1825_352x288_q_352x288
+Aggregate (mean): PSNR_score:56.998457
+Italy_switz_cif_5_67_paris_352x288_vs_paris_plr0.1_3176_352x288_q_352x288
+Aggregate (mean): PSNR_score:54.671833
+Italy_switz_cif_5_68_paris_352x288_vs_paris_plr0.4_2081_352x288_q_352x288
+Aggregate (mean): PSNR_score:48.478866
+Italy_switz_cif_5_69_paris_352x288_vs_paris_plr0.4_3176_352x288_q_352x288
+Aggregate (mean): PSNR_score:51.550077
+Italy_switz_cif_5_70_paris_352x288_vs_paris_plr10_3652_352x288_q_352x288
+Aggregate (mean): PSNR_score:23.663915
+Italy_switz_cif_5_71_paris_352x288_vs_paris_plr10_5462_352x288_q_352x288
+Aggregate (mean): PSNR_score:24.105136
+Italy_switz_cif_5_72_paris_352x288_vs_paris_plr1_3176_352x288_q_352x288
+Aggregate (mean): PSNR_score:36.074724
+Italy_switz_cif_5_73_paris_352x288_vs_paris_plr1_8043_352x288_q_352x288
+Aggregate (mean): PSNR_score:42.775793
+Italy_switz_cif_5_74_paris_352x288_vs_paris_plr3_522_352x288_q_352x288
+Aggregate (mean): PSNR_score:30.997866
+Italy_switz_cif_5_75_paris_352x288_vs_paris_plr3_7393_352x288_q_352x288
+Aggregate (mean): PSNR_score:29.157726
+Italy_switz_cif_5_76_paris_352x288_vs_paris_plr5_3652_352x288_q_352x288
+Aggregate (mean): PSNR_score:27.950512
+Italy_switz_cif_5_77_paris_352x288_vs_paris_plr5_8253_352x288_q_352x288
+Aggregate (mean): PSNR_score:28.612820

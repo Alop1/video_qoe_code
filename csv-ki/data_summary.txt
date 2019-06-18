@@ -1,0 +1,70 @@
+-----------------------------------------------------------
+Genaral
+-----------------------------------------------------------
+6 databases in working directories:
+		DB1				http://ivc.univ-nantes.fr/en/databases/SVC4QoE_QP0_QP1/?article769	
+		India			http://www.iith.ac.in/~lfovia/downloads.html
+		Italy_switz		http://vqa.como.polimi.it
+		Netflix1		http://live.ece.utexas.edu/research/LIVE_NFLXStudy/nflx_index.html
+		Netflix2		http://live.ece.utexas.edu/research/LIVE_NFLX_II/live_nflx_plus.html
+		Tonii			http://www.helsinki.fi/~tiovirta/Resources/CVD2014/
+		------
+total   1 150	videos
+	
+------------------------------------
+DB1	
+------------------------------------
+	-* 300 videos *-
+- resolution : VGA (640x480)
+- color encoding : 422
+- time duration for single video : 10-12s
+
+------------------------------------
+India
+------------------------------------
+	-* 40 videos *-
+- resolution : 1920x1080, 3840x2160
+- color encoding : most 420, some 422
+- time duration for single video : 120s
+
+
+------------------------------------
+Italy_switz
+------------------------------------
+	-* ~150 videos *-
+- resolution : cif(352x288), cif4(704x576)
+- color encoding : 420
+- time duration for single video : 10s
+
+
+------------------------------------
+Netflix1
+------------------------------------
+	-* ~25 videos *-
+- resolution : 1920x1080
+- color encoding : 420 (mismatch 422)
+- time duration for single video : 120s
+- despite wrong color encoding, vmaf score seems legit
+- strange subject score range
+- other metrics available (PSNR, SSIM, ST-RRED, GMSD)
+
+------------------------------------
+Netflix2
+------------------------------------
+	-* 420 videos *-
+- resolution : 1920x1080
+- color encoding : 420 
+- time duration for single video : 40s
+- strange subject score range
+-  other metrics available (PSNR, SSIM, ST-RRED)
+
+
+------------------------------------
+Tonii	
+------------------------------------
+	-* 220 videos *-
+- resolution : 1920x1080
+- color encoding : 640x480, 1280x720
+- time duration for single video : 15s
+- big mismatch in subject score and vmaf => diffrent fps ?
+

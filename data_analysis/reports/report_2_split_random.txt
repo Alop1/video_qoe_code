@@ -1,0 +1,1432 @@
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('PSNR', 'Aggregate_vmaf')
+coefficients: [0.03584991 0.01653538]
+r2 : 0.518675209684
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('PSNR', 'SSIM')
+coefficients: [ 0.09764768 -2.23579937]
+r2 : 0.393012979207
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('Aggregate_vmaf', 'SSIM')
+coefficients: [ 0.03735131 -2.90079364]
+r2 : 0.5704269364
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('Aggregate_vmaf',)
+coefficients: [0.02672735]
+r2 : 0.517918412787
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('PSNR',)
+coefficients: [0.07479002]
+r2 : 0.398115809055
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('SSIM',)
+coefficients: [2.68701876]
+r2 : 0.139770741783
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('MS_SSIM',)
+coefficients: [2.50707012]
+r2 : 0.114414434381
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('blockiness',)
+coefficients: [0.24257468]
+r2 : 0.0191954186875
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('frame',)
+coefficients: [-7.47095453e-05]
+r2 : 0.000557362558294
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('spatialactivity',)
+coefficients: [0.00122085]
+r2 : 0.00214768418447
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('pillarbox',)
+coefficients: [-0.70911443]
+r2 : -0.00254662415666
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('blockloss',)
+coefficients: [-0.04627481]
+r2 : 0.122832162512
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('blur',)
+coefficients: [-0.01555027]
+r2 : 0.024360624912
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('temporalact',)
+coefficients: [-0.00454464]
+r2 : -0.0458415997398
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('blockout',)
+coefficients: [59.83039205]
+r2 : 0.0149302407855
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('exposure',)
+coefficients: [-0.00084984]
+r2 : -0.00169440000722
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('contrast',)
+coefficients: [0.00031588]
+r2 : -0.00256790218514
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('brightness',)
+coefficients: [-0.08532611]
+r2 : -0.0136540111015
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('interlace',)
+coefficients: [-0.00204477]
+r2 : -0.0195054105371
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('slice',)
+coefficients: [1.67446591]
+r2 : -0.0255886544968
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('fps',)
+coefficients: [0.01928846]
+r2 : 0.0138887906926
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+coefficients: [ 5.84158058e-02  2.92927603e-02  1.90854691e+00 -7.06482312e+00
+  5.32258871e-01 -6.53163302e-03 -2.40799613e+01 -3.24707016e-02
+ -1.88874595e-02  9.55555059e-04  3.02480740e+01  7.65939914e-03
+ -1.54218867e-03  2.66719739e-01 -1.10541039e-02  8.37770266e-01
+ -3.37865008e-02]
+r2 : 0.707611283431
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('frame', 'PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness')
+coefficients: [ 2.21702515e-04  5.45402753e-02  2.17768317e-02  3.00305108e+00
+ -5.58233718e+00  1.09328952e+00]
+r2 : 0.654514436106
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('frame', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+coefficients: [-8.17099096e-05 -2.25560896e-01 -1.43604289e-03 -1.07536431e+01
+ -7.86875527e-02 -2.33213496e-03 -2.34705159e-03  6.81530332e+01
+  1.78492834e-03 -6.18778436e-03 -3.58504466e-01 -5.74416386e-03
+  6.67485524e-01  1.07371161e-02]
+r2 : 0.0957675434036
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (664, 153)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM')
+coefficients: [ 0.05363046  0.02436924  0.40929938 -4.44908274]
+r2 : 0.590330191071
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('PSNR', 'Aggregate_vmaf')
+nr2 : 0.624219122111
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('PSNR', 'SSIM')
+nr2 : 0.490513531994
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('Aggregate_vmaf', 'SSIM')
+nr2 : 0.459155221127
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('Aggregate_vmaf',)
+nr2 : 0.326010641653
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('PSNR',)
+nr2 : 0.471884797099
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('SSIM',)
+nr2 : 0.336678544422
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('MS_SSIM',)
+nr2 : 0.287382256894
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('blockiness',)
+nr2 : 0.0287257118038
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('frame',)
+nr2 : 0.059833203404
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('spatialactivity',)
+nr2 : -0.335074258304
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('pillarbox',)
+nr2 : -0.000144807050726
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('blockloss',)
+nr2 : -0.00841648715211
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('blur',)
+nr2 : -0.0795449648306
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('temporalact',)
+nr2 : -0.434668739023
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('blockout',)
+nr2 : 1.45922391005e-05
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('exposure',)
+nr2 : -0.0989441693165
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('contrast',)
+nr2 : -0.120572621227
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('brightness',)
+nr2 : -0.0825902301483
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('interlace',)
+nr2 : -0.596711155593
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('slice',)
+nr2 : -0.0340457280175
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('fps',)
+nr2 : 0.0423333271817
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+nr2 : 0.147255435291
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('frame', 'PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness')
+nr2 : 0.734013951332
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('frame', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+nr2 : 0.10668243879
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (664, 153)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM')
+nr2 : 0.664700982495
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('PSNR', 'Aggregate_vmaf')
+coefficients: [0.03633343 0.01663635]
+r2 : 0.567430966204
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('PSNR', 'SSIM')
+coefficients: [ 0.1040127  -2.65774368]
+r2 : 0.380528266723
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('Aggregate_vmaf', 'SSIM')
+coefficients: [ 0.0379632  -3.12100131]
+r2 : 0.575432798969
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('Aggregate_vmaf',)
+coefficients: [0.02666764]
+r2 : 0.563055447381
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('PSNR',)
+coefficients: [0.07611445]
+r2 : 0.45457536087
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('SSIM',)
+coefficients: [2.49425359]
+r2 : 0.205625221038
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('MS_SSIM',)
+coefficients: [2.3318621]
+r2 : 0.160152193673
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('blockiness',)
+coefficients: [0.58024244]
+r2 : 0.00588348038358
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('frame',)
+coefficients: [-7.62229085e-05]
+r2 : 0.00464342999228
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('spatialactivity',)
+coefficients: [0.00161719]
+r2 : -0.00593648135192
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('pillarbox',)
+coefficients: [13.6717124]
+r2 : -0.0703775108007
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('blockloss',)
+coefficients: [-0.0516394]
+r2 : 0.0323986901608
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('blur',)
+coefficients: [-0.02174532]
+r2 : 0.010478476956
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('temporalact',)
+coefficients: [-0.0022979]
+r2 : -0.00350365564682
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('blockout',)
+coefficients: [57.62922956]
+r2 : 0.00468251837706
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('exposure',)
+coefficients: [-0.00019831]
+r2 : 0.000392841244006
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('contrast',)
+coefficients: [-0.00063187]
+r2 : -0.000752426107243
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('brightness',)
+coefficients: [-0.00217942]
+r2 : -4.98579443995e-05
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('interlace',)
+coefficients: [-0.00027689]
+r2 : -0.000873045352202
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('slice',)
+coefficients: [0.93965972]
+r2 : -0.00410082131728
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('fps',)
+coefficients: [0.01962243]
+r2 : 0.0161111741176
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+coefficients: [ 6.18084267e-02  2.88794656e-02  3.50222243e+00 -9.33797781e+00
+  6.83994796e-01 -6.70001864e-03 -9.31524664e+01 -3.33169550e-02
+ -2.34418520e-03  8.94347833e-03  6.78964380e+01  7.11038535e-03
+ -3.88649782e-03  4.57395437e-01 -9.83397148e-03  6.42866274e+00
+ -2.92611969e-02]
+r2 : -0.837991013679
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('frame', 'PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness')
+coefficients: [ 2.81500979e-04  5.79072901e-02  2.23915096e-02  3.53921420e+00
+ -6.30207752e+00  1.05288498e+00]
+r2 : 0.573412017397
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('frame', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+coefficients: [-8.37200173e-05  9.59466863e-01 -1.01272474e-03 -3.90403575e+01
+ -7.51229186e-02  1.67583978e-02  1.89645580e-03  9.19649159e+01
+  2.43333696e-03 -1.46410460e-02 -3.91060091e-01 -9.72736431e-03
+  2.57794543e+00  1.43750805e-02]
+r2 : -0.262486662263
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (666, 151)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM')
+coefficients: [ 0.05687328  0.02523268  1.23651421 -5.75064359]
+r2 : 0.538946603715
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('PSNR', 'Aggregate_vmaf')
+nr2 : 0.532257232484
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('PSNR', 'SSIM')
+nr2 : 0.475385479948
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('Aggregate_vmaf', 'SSIM')
+nr2 : 0.527087974274
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('Aggregate_vmaf',)
+nr2 : 0.483345662764
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('PSNR',)
+nr2 : 0.448524825139
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('SSIM',)
+nr2 : 0.489100808882
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('MS_SSIM',)
+nr2 : 0.401911904853
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('blockiness',)
+nr2 : 0.00125963463954
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('frame',)
+nr2 : 0.132518289474
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('spatialactivity',)
+nr2 : -0.252418816206
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('pillarbox',)
+nr2 : -0.00379686409585
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('blockloss',)
+nr2 : -0.0444829247289
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('blur',)
+nr2 : 0.0300377950295
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('temporalact',)
+nr2 : -0.440678904453
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('blockout',)
+nr2 : -0.00368527949057
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('exposure',)
+nr2 : -0.114761036836
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('contrast',)
+nr2 : -0.306715627117
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('brightness',)
+nr2 : -0.0155079488041
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('interlace',)
+nr2 : -0.415294268012
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('slice',)
+nr2 : -0.0103664372167
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('fps',)
+nr2 : 0.0388740925938
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+nr2 : 0.202086931121
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('frame', 'PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness')
+nr2 : 0.629285651822
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('frame', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+nr2 : 0.18013135194
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (666, 151)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM')
+nr2 : 0.569650566574
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('PSNR', 'Aggregate_vmaf')
+coefficients: [0.03309508 0.01978716]
+r2 : 0.145085129009
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('PSNR', 'SSIM')
+coefficients: [ 0.09797287 -1.80048557]
+r2 : 0.386639773909
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('Aggregate_vmaf', 'SSIM')
+coefficients: [ 0.0384692  -3.00871384]
+r2 : 0.310461582577
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('Aggregate_vmaf',)
+coefficients: [0.02863638]
+r2 : 0.113962469634
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('PSNR',)
+coefficients: [0.08092188]
+r2 : 0.227264241668
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('SSIM',)
+coefficients: [3.57244134]
+r2 : -0.29670057244
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('MS_SSIM',)
+coefficients: [3.27725461]
+r2 : -0.181913286254
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('blockiness',)
+coefficients: [0.45103958]
+r2 : 0.00890518652696
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('frame',)
+coefficients: [-7.49366163e-05]
+r2 : -0.0166425437787
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('spatialactivity',)
+coefficients: [0.00145265]
+r2 : -0.0307542081753
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('pillarbox',)
+coefficients: [0.18445442]
+r2 : -0.0247056064056
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('blockloss',)
+coefficients: [-0.04711435]
+r2 : 0.157795367908
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('blur',)
+coefficients: [-0.02378947]
+r2 : -0.0307791698247
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('temporalact',)
+coefficients: [-0.00100075]
+r2 : -0.0174205153412
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('blockout',)
+coefficients: [68.46147529]
+r2 : -0.0190965333801
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('exposure',)
+coefficients: [-0.00133138]
+r2 : -0.024735871829
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('contrast',)
+coefficients: [-0.00109099]
+r2 : -0.0290786334595
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('brightness',)
+coefficients: [0.04056484]
+r2 : -0.0281897963603
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('interlace',)
+coefficients: [0.00128094]
+r2 : -0.0286585633895
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('slice',)
+coefficients: [0.13370018]
+r2 : -0.0228592833862
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('fps',)
+coefficients: [0.0270587]
+r2 : -0.0218253607287
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+coefficients: [ 5.94522209e-02  3.13648502e-02  3.38453014e+00 -9.04523109e+00
+  7.46679456e-01 -8.09034685e-03 -2.46471307e+01 -2.50052312e-02
+ -4.85974406e-02  6.83887344e-03  4.22197673e+01  6.29203511e-03
+ -9.16578322e-05 -9.81089806e-02 -8.98827268e-03  2.94358916e+00
+ -3.65180417e-02]
+r2 : 0.462720204599
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('frame', 'PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness')
+coefficients: [ 2.41428975e-04  5.09105450e-02  2.40076182e-02  3.52944226e+00
+ -6.02088203e+00  1.13988446e+00]
+r2 : 0.440353027502
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('frame', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+coefficients: [-5.08394154e-05  1.65567673e-01 -2.57103187e-04 -7.99465275e+00
+ -7.01505800e-02  9.50313629e-03  1.64958592e-03  8.89830985e+01
+  6.63900308e-04 -9.84336659e-03 -3.88267112e-01 -3.10739683e-03
+  1.76181937e+00  1.92313439e-02]
+r2 : 0.285045583494
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (731, 86)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM')
+coefficients: [ 0.04907223  0.02751018  0.61304039 -4.81681537]
+r2 : 0.388750164051
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('PSNR', 'Aggregate_vmaf')
+nr2 : 0.443040558391
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('PSNR', 'SSIM')
+nr2 : 0.395485115685
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('Aggregate_vmaf', 'SSIM')
+nr2 : 0.141112976332
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('Aggregate_vmaf',)
+nr2 : 0.14430464592
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('PSNR',)
+nr2 : 0.375695413336
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('SSIM',)
+nr2 : 0.120274457214
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('MS_SSIM',)
+nr2 : 0.0571230846005
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('blockiness',)
+nr2 : 0.0391769326361
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('frame',)
+nr2 : 0.0686300964762
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('spatialactivity',)
+nr2 : -0.264876673821
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('pillarbox',)
+nr2 : -0.0152061729455
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('blockloss',)
+nr2 : 0.235617620947
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('blur',)
+nr2 : 0.115800246338
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('temporalact',)
+nr2 : 0.0282767284899
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('blockout',)
+nr2 : -0.0150986979609
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('exposure',)
+nr2 : -0.0043278239829
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('contrast',)
+nr2 : -0.414723614699
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('brightness',)
+nr2 : -0.00932708334899
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('interlace',)
+nr2 : 0.0333470938014
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('slice',)
+nr2 : -0.00622871803642
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('fps',)
+nr2 : -0.0198832854736
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+nr2 : 0.216634629751
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('frame', 'PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness')
+nr2 : 0.319397856698
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('frame', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+nr2 : 0.179520181599
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (731, 86)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM')
+nr2 : 0.441168039011
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('PSNR', 'Aggregate_vmaf')
+coefficients: [0.03526272 0.01790814]
+r2 : 0.456499601275
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('PSNR', 'SSIM')
+coefficients: [ 0.09291052 -1.72812524]
+r2 : 0.458507494734
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('Aggregate_vmaf', 'SSIM')
+coefficients: [ 0.03744173 -2.78122835]
+r2 : 0.578851451677
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('Aggregate_vmaf',)
+coefficients: [0.02782654]
+r2 : 0.453656829106
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('PSNR',)
+coefficients: [0.07660526]
+r2 : 0.378479005515
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('SSIM',)
+coefficients: [3.24078634]
+r2 : 0.00141425740653
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('MS_SSIM',)
+coefficients: [3.0143026]
+r2 : 0.00671302775071
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('blockiness',)
+coefficients: [0.76020749]
+r2 : -0.0437492802977
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('frame',)
+coefficients: [-9.82963979e-05]
+r2 : -0.0288500615465
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('spatialactivity',)
+coefficients: [0.00145883]
+r2 : -0.0242304470747
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('pillarbox',)
+coefficients: [-1.54045267]
+r2 : -0.0225630874542
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('blockloss',)
+coefficients: [-0.0582003]
+r2 : -0.0365149166993
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('blur',)
+coefficients: [-0.02394616]
+r2 : -0.0229177089118
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('temporalact',)
+coefficients: [-0.00146943]
+r2 : -0.0192667515289
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('blockout',)
+coefficients: [57.33955065]
+r2 : -0.0142566353018
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('exposure',)
+coefficients: [0.00143267]
+r2 : -0.0301002051043
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('contrast',)
+coefficients: [0.00140153]
+r2 : -0.0233502136237
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('brightness',)
+coefficients: [0.02087453]
+r2 : -0.0217726258853
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('interlace',)
+coefficients: [0.00066163]
+r2 : -0.0211082496022
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('slice',)
+coefficients: [0.65408687]
+r2 : -0.0223329563346
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('fps',)
+coefficients: [0.04822295]
+r2 : -0.0890481583685
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+coefficients: [ 5.41084638e-02  2.94787625e-02  3.67873586e+00 -8.42092228e+00
+  4.43905910e-01 -8.86644858e-03 -2.41692682e+01 -3.84618233e-02
+ -5.11866612e-02  3.31627546e-03  1.71181574e+01  9.31444154e-03
+  4.15340233e-03 -7.76949475e-04 -1.33628025e-02 -1.89778260e-01
+ -4.46148259e-02]
+r2 : 0.66298735367
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('frame', 'PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness')
+coefficients: [ 2.49135826e-04  4.96972021e-02  2.31873199e-02  2.15290803e+00
+ -4.49191217e+00  1.11537217e+00]
+r2 : 0.67531669934
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('frame', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+coefficients: [-1.27153229e-04  9.67336340e-01 -1.47269749e-03 -1.07448240e+01
+ -8.65446987e-02  2.00369820e-02  4.75270625e-03  6.52255678e+01
+  3.47518390e-03 -8.37061986e-03 -6.65997291e-01 -1.06938475e-02
+  8.03220879e-01  3.81210348e-02]
+r2 : -0.100769764679
+;
+model : LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None,
+         normalize=False)
+used records(training, testing): (681, 136)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM')
+coefficients: [ 0.04913668  0.025779   -0.06978139 -3.77508711]
+r2 : 0.646401922152
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('PSNR', 'Aggregate_vmaf')
+nr2 : 0.643818186465
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('PSNR', 'SSIM')
+nr2 : 0.497262462729
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('Aggregate_vmaf', 'SSIM')
+nr2 : 0.542207741261
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('Aggregate_vmaf',)
+nr2 : 0.51431270395
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('PSNR',)
+nr2 : 0.481694860502
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('SSIM',)
+nr2 : 0.226988424099
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('MS_SSIM',)
+nr2 : 0.106378864525
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('blockiness',)
+nr2 : -0.119405462863
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('frame',)
+nr2 : 0.13194075808
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('spatialactivity',)
+nr2 : -0.460958583542
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('pillarbox',)
+nr2 : -0.0413392010194
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('blockloss',)
+nr2 : -0.190725788661
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('blur',)
+nr2 : -0.0818361547562
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('temporalact',)
+nr2 : 0.0932689885284
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('blockout',)
+nr2 : -0.0407870963273
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('exposure',)
+nr2 : -0.0258501734589
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('contrast',)
+nr2 : -0.775017443005
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('brightness',)
+nr2 : -0.0336300023746
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('interlace',)
+nr2 : -0.0793418513691
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('slice',)
+nr2 : -0.0363178046386
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('fps',)
+nr2 : 0.0485556851833
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+nr2 : 0.202275484127
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('frame', 'PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM', 'blockiness')
+nr2 : 0.738983113318
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('frame', 'blockiness', 'spatialactivity', 'pillarbox', 'blockloss', 'blur', 'temporalact', 'blockout', 'exposure', 'contrast', 'brightness', 'interlace', 'slice', 'fps')
+nr2 : 0.178234258067
+;
+model : SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.1,
+  gamma='auto_deprecated', kernel='rbf', max_iter=-1, shrinking=True,
+  tol=0.001, verbose=False)
+used records(training, testing): (681, 136)
+features : ('PSNR', 'Aggregate_vmaf', 'SSIM', 'MS_SSIM')
+nr2 : 0.6609376189
+;

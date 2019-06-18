@@ -1,0 +1,159 @@
+Stats on testing data: (SRCC: nan, PCC: nan, RMSE: 0.100)
+Italy_switz_cif4_0_0_CROWDRUN_704x576_vs_CROWDRUN_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+Italy_switz_cif4_0_1_CROWDRUN_704x576_vs_CROWDRUN_plr0.1_4_4374.264_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999584, SSIM_feature_ssim_l_score:0.999730, SSIM_feature_ssim_s_score:0.998020, SSIM_score:0.997808
+Italy_switz_cif4_0_2_CROWDRUN_704x576_vs_CROWDRUN_plr0.1_4_4374_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999584, SSIM_feature_ssim_l_score:0.999730, SSIM_feature_ssim_s_score:0.998020, SSIM_score:0.997808
+Italy_switz_cif4_0_3_CROWDRUN_704x576_vs_CROWDRUN_plr0.1_6_6859_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999182, SSIM_feature_ssim_l_score:0.999693, SSIM_feature_ssim_s_score:0.996697, SSIM_score:0.996099
+Italy_switz_cif4_0_4_CROWDRUN_704x576_vs_CROWDRUN_plr0.4_5_8022_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999395, SSIM_feature_ssim_l_score:0.999626, SSIM_feature_ssim_s_score:0.995584, SSIM_score:0.995081
+Italy_switz_cif4_0_5_CROWDRUN_704x576_vs_CROWDRUN_plr0.4_6_6859_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998686, SSIM_feature_ssim_l_score:0.999055, SSIM_feature_ssim_s_score:0.990969, SSIM_score:0.989945
+Italy_switz_cif4_0_6_CROWDRUN_704x576_vs_CROWDRUN_plr10_4_4374_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.976700, SSIM_feature_ssim_l_score:0.986921, SSIM_feature_ssim_s_score:0.860284, SSIM_score:0.845335
+Italy_switz_cif4_0_7_CROWDRUN_704x576_vs_CROWDRUN_plr10_7_4109_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.980735, SSIM_feature_ssim_l_score:0.989511, SSIM_feature_ssim_s_score:0.878480, SSIM_score:0.865987
+Italy_switz_cif4_0_8_CROWDRUN_704x576_vs_CROWDRUN_plr1_10_4003_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995062, SSIM_feature_ssim_l_score:0.998165, SSIM_feature_ssim_s_score:0.979040, SSIM_score:0.975541
+Italy_switz_cif4_0_9_CROWDRUN_704x576_vs_CROWDRUN_plr1_8_167_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997751, SSIM_feature_ssim_l_score:0.999101, SSIM_feature_ssim_s_score:0.986351, SSIM_score:0.984853
+Italy_switz_cif4_0_10_CROWDRUN_704x576_vs_CROWDRUN_plr3_13_8297_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995543, SSIM_feature_ssim_l_score:0.997342, SSIM_feature_ssim_s_score:0.967083, SSIM_score:0.964033
+Italy_switz_cif4_0_11_CROWDRUN_704x576_vs_CROWDRUN_plr3_9_7393_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.992102, SSIM_feature_ssim_l_score:0.996022, SSIM_feature_ssim_s_score:0.954462, SSIM_score:0.949216
+Italy_switz_cif4_0_12_CROWDRUN_704x576_vs_CROWDRUN_plr5_2_2081_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982995, SSIM_feature_ssim_l_score:0.992311, SSIM_feature_ssim_s_score:0.915932, SSIM_score:0.904369
+Italy_switz_cif4_0_13_CROWDRUN_704x576_vs_CROWDRUN_plr5_4_4374_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990910, SSIM_feature_ssim_l_score:0.995799, SSIM_feature_ssim_s_score:0.941690, SSIM_score:0.935654
+Italy_switz_cif4_1_14_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+Italy_switz_cif4_1_15_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr0.1_3_5462_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999603, SSIM_feature_ssim_l_score:0.999844, SSIM_feature_ssim_s_score:0.996578, SSIM_score:0.996273
+Italy_switz_cif4_1_16_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr0.1_5_8022_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999950, SSIM_feature_ssim_l_score:0.999989, SSIM_feature_ssim_s_score:0.999626, SSIM_score:0.999586
+Italy_switz_cif4_1_17_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr0.4_2_2081_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999274, SSIM_feature_ssim_l_score:0.999724, SSIM_feature_ssim_s_score:0.995254, SSIM_score:0.994722
+Italy_switz_cif4_1_18_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr0.4_9_7393_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998954, SSIM_feature_ssim_l_score:0.999522, SSIM_feature_ssim_s_score:0.992848, SSIM_score:0.991989
+Italy_switz_cif4_1_19_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr10_1_8552_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.975269, SSIM_feature_ssim_l_score:0.989052, SSIM_feature_ssim_s_score:0.846271, SSIM_score:0.829858
+Italy_switz_cif4_1_20_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr10_7_4109_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.979424, SSIM_feature_ssim_l_score:0.991051, SSIM_feature_ssim_s_score:0.863932, SSIM_score:0.849550
+Italy_switz_cif4_1_21_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr1_10_4003_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996570, SSIM_feature_ssim_l_score:0.998531, SSIM_feature_ssim_s_score:0.982844, SSIM_score:0.980065
+Italy_switz_cif4_1_22_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr1_3_5462_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997991, SSIM_feature_ssim_l_score:0.999186, SSIM_feature_ssim_s_score:0.988243, SSIM_score:0.986625
+Italy_switz_cif4_1_23_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr3_26_1825_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995388, SSIM_feature_ssim_l_score:0.998337, SSIM_feature_ssim_s_score:0.968317, SSIM_score:0.964920
+Italy_switz_cif4_1_24_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr3_4_4374_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991345, SSIM_feature_ssim_l_score:0.996303, SSIM_feature_ssim_s_score:0.945870, SSIM_score:0.939132
+Italy_switz_cif4_1_25_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr5_19_3693_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982796, SSIM_feature_ssim_l_score:0.992755, SSIM_feature_ssim_s_score:0.909273, SSIM_score:0.897014
+Italy_switz_cif4_1_26_DUCKSTAKEOFF_704x576_vs_DUCKSTAKEOFF_plr5_9_7393_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989603, SSIM_feature_ssim_l_score:0.995897, SSIM_feature_ssim_s_score:0.929103, SSIM_score:0.921551
+Italy_switz_cif4_2_27_HARBOUR_704x576_vs_HARBOUR_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999998, SSIM_score:0.999998
+Italy_switz_cif4_2_28_HARBOUR_704x576_vs_HARBOUR_plr0.1_1_8552_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999879, SSIM_feature_ssim_l_score:0.999988, SSIM_feature_ssim_s_score:0.999385, SSIM_score:0.999323
+Italy_switz_cif4_2_29_HARBOUR_704x576_vs_HARBOUR_plr0.1_9_7393_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999514, SSIM_feature_ssim_l_score:0.999961, SSIM_feature_ssim_s_score:0.998133, SSIM_score:0.997835
+Italy_switz_cif4_2_30_HARBOUR_704x576_vs_HARBOUR_plr0.4_1_8552_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999841, SSIM_feature_ssim_l_score:0.999987, SSIM_feature_ssim_s_score:0.998608, SSIM_score:0.998474
+Italy_switz_cif4_2_31_HARBOUR_704x576_vs_HARBOUR_plr0.4_9_7393_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999711, SSIM_feature_ssim_l_score:0.999971, SSIM_feature_ssim_s_score:0.997544, SSIM_score:0.997318
+Italy_switz_cif4_2_32_HARBOUR_704x576_vs_HARBOUR_plr10_5_8022_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.979190, SSIM_feature_ssim_l_score:0.997998, SSIM_feature_ssim_s_score:0.919454, SSIM_score:0.906810
+Italy_switz_cif4_2_33_HARBOUR_704x576_vs_HARBOUR_plr10_7_4109_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.988586, SSIM_feature_ssim_l_score:0.998979, SSIM_feature_ssim_s_score:0.941488, SSIM_score:0.934117
+Italy_switz_cif4_2_34_HARBOUR_704x576_vs_HARBOUR_plr1_3_5462_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998401, SSIM_feature_ssim_l_score:0.999869, SSIM_feature_ssim_s_score:0.993759, SSIM_score:0.992754
+Italy_switz_cif4_2_35_HARBOUR_704x576_vs_HARBOUR_plr1_8_167_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998507, SSIM_feature_ssim_l_score:0.999855, SSIM_feature_ssim_s_score:0.993176, SSIM_score:0.992187
+Italy_switz_cif4_2_36_HARBOUR_704x576_vs_HARBOUR_plr3_3_5462_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996520, SSIM_feature_ssim_l_score:0.999728, SSIM_feature_ssim_s_score:0.981344, SSIM_score:0.978937
+Italy_switz_cif4_2_37_HARBOUR_704x576_vs_HARBOUR_plr3_5_8022_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995442, SSIM_feature_ssim_l_score:0.999603, SSIM_feature_ssim_s_score:0.975898, SSIM_score:0.972812
+Italy_switz_cif4_2_38_HARBOUR_704x576_vs_HARBOUR_plr5_7_4109_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990569, SSIM_feature_ssim_l_score:0.999063, SSIM_feature_ssim_s_score:0.957739, SSIM_score:0.951787
+Italy_switz_cif4_2_39_HARBOUR_704x576_vs_HARBOUR_plr5_9_7393_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.994475, SSIM_feature_ssim_l_score:0.999499, SSIM_feature_ssim_s_score:0.970804, SSIM_score:0.967179
+Italy_switz_cif4_3_40_ICE_704x576_vs_ICE_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999555, SSIM_score:0.999555
+Italy_switz_cif4_3_41_ICE_704x576_vs_ICE_plr0.1_1_8552_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999609, SSIM_feature_ssim_l_score:0.999958, SSIM_feature_ssim_s_score:0.999238, SSIM_score:0.998948
+Italy_switz_cif4_3_42_ICE_704x576_vs_ICE_plr0.1_7_4109_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999877, SSIM_feature_ssim_l_score:0.999989, SSIM_feature_ssim_s_score:0.999255, SSIM_score:0.999169
+Italy_switz_cif4_3_43_ICE_704x576_vs_ICE_plr0.4_2_2081_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999549, SSIM_feature_ssim_l_score:0.999937, SSIM_feature_ssim_s_score:0.998727, SSIM_score:0.998428
+Italy_switz_cif4_3_44_ICE_704x576_vs_ICE_plr0.4_5_8022_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999049, SSIM_feature_ssim_l_score:0.999844, SSIM_feature_ssim_s_score:0.998141, SSIM_score:0.997496
+Italy_switz_cif4_3_45_ICE_704x576_vs_ICE_plr10_3_5462_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.972093, SSIM_feature_ssim_l_score:0.995602, SSIM_feature_ssim_s_score:0.961191, SSIM_score:0.941280
+Italy_switz_cif4_3_46_ICE_704x576_vs_ICE_plr10_5_8022_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.968494, SSIM_feature_ssim_l_score:0.994002, SSIM_feature_ssim_s_score:0.957929, SSIM_score:0.935323
+Italy_switz_cif4_3_47_ICE_704x576_vs_ICE_plr1_5_8022_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998000, SSIM_feature_ssim_l_score:0.999619, SSIM_feature_ssim_s_score:0.995865, SSIM_score:0.994512
+Italy_switz_cif4_3_48_ICE_704x576_vs_ICE_plr1_8_167_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996401, SSIM_feature_ssim_l_score:0.999406, SSIM_feature_ssim_s_score:0.993874, SSIM_score:0.991231
+Italy_switz_cif4_3_49_ICE_704x576_vs_ICE_plr3_2_2081_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.994447, SSIM_feature_ssim_l_score:0.999061, SSIM_feature_ssim_s_score:0.990681, SSIM_score:0.986705
+Italy_switz_cif4_3_50_ICE_704x576_vs_ICE_plr3_3_5462_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990835, SSIM_feature_ssim_l_score:0.998296, SSIM_feature_ssim_s_score:0.985870, SSIM_score:0.979404
+Italy_switz_cif4_3_51_ICE_704x576_vs_ICE_plr5_3_5462_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.986313, SSIM_feature_ssim_l_score:0.997745, SSIM_feature_ssim_s_score:0.981093, SSIM_score:0.971516
+Italy_switz_cif4_3_52_ICE_704x576_vs_ICE_plr5_5_8022_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982529, SSIM_feature_ssim_l_score:0.996499, SSIM_feature_ssim_s_score:0.976273, SSIM_score:0.963213
+Italy_switz_cif4_4_53_PARKJOY_704x576_vs_PARKJOY_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+Italy_switz_cif4_4_54_PARKJOY_704x576_vs_PARKJOY_plr0.1_4_4374_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999603, SSIM_feature_ssim_l_score:0.999810, SSIM_feature_ssim_s_score:0.998596, SSIM_score:0.998248
+Italy_switz_cif4_4_55_PARKJOY_704x576_vs_PARKJOY_plr0.1_7_4109_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999847, SSIM_feature_ssim_l_score:0.999950, SSIM_feature_ssim_s_score:0.999061, SSIM_score:0.998953
+Italy_switz_cif4_4_56_PARKJOY_704x576_vs_PARKJOY_plr0.4_5_8022_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999533, SSIM_feature_ssim_l_score:0.999842, SSIM_feature_ssim_s_score:0.996159, SSIM_score:0.995843
+Italy_switz_cif4_4_57_PARKJOY_704x576_vs_PARKJOY_plr0.4_6_6859_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998899, SSIM_feature_ssim_l_score:0.999543, SSIM_feature_ssim_s_score:0.994021, SSIM_score:0.993384
+Italy_switz_cif4_4_58_PARKJOY_704x576_vs_PARKJOY_plr10_7_4109_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.975107, SSIM_feature_ssim_l_score:0.989805, SSIM_feature_ssim_s_score:0.889021, SSIM_score:0.873316
+Italy_switz_cif4_4_59_PARKJOY_704x576_vs_PARKJOY_plr10_8_167_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.965438, SSIM_feature_ssim_l_score:0.985995, SSIM_feature_ssim_s_score:0.859407, SSIM_score:0.838124
+Italy_switz_cif4_4_60_PARKJOY_704x576_vs_PARKJOY_plr1_10_4003_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.994263, SSIM_feature_ssim_l_score:0.997941, SSIM_feature_ssim_s_score:0.980687, SSIM_score:0.977139
+Italy_switz_cif4_4_61_PARKJOY_704x576_vs_PARKJOY_plr1_5_8022_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997484, SSIM_feature_ssim_l_score:0.999016, SSIM_feature_ssim_s_score:0.989793, SSIM_score:0.988024
+Italy_switz_cif4_4_62_PARKJOY_704x576_vs_PARKJOY_plr3_3_5462_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990614, SSIM_feature_ssim_l_score:0.995782, SSIM_feature_ssim_s_score:0.960445, SSIM_score:0.953916
+Italy_switz_cif4_4_63_PARKJOY_704x576_vs_PARKJOY_plr3_7_4109_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991218, SSIM_feature_ssim_l_score:0.996810, SSIM_feature_ssim_s_score:0.964576, SSIM_score:0.958788
+Italy_switz_cif4_4_64_PARKJOY_704x576_vs_PARKJOY_plr5_10_4003_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982666, SSIM_feature_ssim_l_score:0.993288, SSIM_feature_ssim_s_score:0.923881, SSIM_score:0.912515
+Italy_switz_cif4_4_65_PARKJOY_704x576_vs_PARKJOY_plr5_9_7393_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987122, SSIM_feature_ssim_l_score:0.994305, SSIM_feature_ssim_s_score:0.945974, SSIM_score:0.937132
+Italy_switz_cif4_5_66_SOCCER_704x576_vs_SOCCER_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999999, SSIM_score:0.999999
+Italy_switz_cif4_5_67_SOCCER_704x576_vs_SOCCER_plr0.1_4_4374_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999529, SSIM_feature_ssim_l_score:0.999931, SSIM_feature_ssim_s_score:0.998239, SSIM_score:0.997933
+Italy_switz_cif4_5_68_SOCCER_704x576_vs_SOCCER_plr0.1_9_7393_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999583, SSIM_feature_ssim_l_score:0.999951, SSIM_feature_ssim_s_score:0.999147, SSIM_score:0.998889
+Italy_switz_cif4_5_69_SOCCER_704x576_vs_SOCCER_plr0.4_4_4374_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997907, SSIM_feature_ssim_l_score:0.999771, SSIM_feature_ssim_s_score:0.995559, SSIM_score:0.994203
+Italy_switz_cif4_5_70_SOCCER_704x576_vs_SOCCER_plr0.4_8_167_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999181, SSIM_feature_ssim_l_score:0.999856, SSIM_feature_ssim_s_score:0.997759, SSIM_score:0.997333
+Italy_switz_cif4_5_71_SOCCER_704x576_vs_SOCCER_plr10_2_2081_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.964770, SSIM_feature_ssim_l_score:0.994626, SSIM_feature_ssim_s_score:0.904836, SSIM_score:0.884378
+Italy_switz_cif4_5_72_SOCCER_704x576_vs_SOCCER_plr10_6_6859_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.964298, SSIM_feature_ssim_l_score:0.993560, SSIM_feature_ssim_s_score:0.902986, SSIM_score:0.882545
+Italy_switz_cif4_5_73_SOCCER_704x576_vs_SOCCER_plr1_3_5462_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997466, SSIM_feature_ssim_l_score:0.999611, SSIM_feature_ssim_s_score:0.991762, SSIM_score:0.990090
+Italy_switz_cif4_5_74_SOCCER_704x576_vs_SOCCER_plr1_7_4109_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995983, SSIM_feature_ssim_l_score:0.999323, SSIM_feature_ssim_s_score:0.989870, SSIM_score:0.987598
+Italy_switz_cif4_5_75_SOCCER_704x576_vs_SOCCER_plr3_10_4003_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989697, SSIM_feature_ssim_l_score:0.998193, SSIM_feature_ssim_s_score:0.971359, SSIM_score:0.965474
+Italy_switz_cif4_5_76_SOCCER_704x576_vs_SOCCER_plr3_2_2081_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.986052, SSIM_feature_ssim_l_score:0.997027, SSIM_feature_ssim_s_score:0.964792, SSIM_score:0.956723
+Italy_switz_cif4_5_77_SOCCER_704x576_vs_SOCCER_plr5_7_4109_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.976268, SSIM_feature_ssim_l_score:0.996200, SSIM_feature_ssim_s_score:0.939084, SSIM_score:0.925549
+Italy_switz_cif4_5_78_SOCCER_704x576_vs_SOCCER_plr5_9_7393_704x576_q_704x576
+Aggregate (mean): SSIM_feature_ssim_c_score:0.983833, SSIM_feature_ssim_l_score:0.997469, SSIM_feature_ssim_s_score:0.953791, SSIM_score:0.944135

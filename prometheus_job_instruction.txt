@@ -1,0 +1,12 @@
+#joby Prometeusz
+module load plgrid/tools/python/2.7.14
+cd /net/archive/groups/plggvideo/vmaf
+export PATH="$PATH:$HOME/.local/bin"
+echo export PYTHONPATH="$(pwd)/python/src:$PYTHONPATH" >> ~/.bashrc
+source ~/.bashrc
+cd ..
+sbatch test_job.sh
+
+
+Uzupełniona albo konfiguracja dla typu 2 i 3, albo dla typu 4 | Drugi hop w SS7 zabroniony | Sprawdzanie parametrów RegExp-em | Albo VRRP albo BFD
+ tar -cvf B39MB0X0100_A.tar *

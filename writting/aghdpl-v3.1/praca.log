@@ -1,0 +1,3269 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  22 APR 2019 15:59
+entering extended mode
+**C:/Users/elacpol/Desktop/VMAF/writting/aghdpl-v3.1/praca.tex
+(C:/Users/elacpol/Desktop/VMAF/writting/aghdpl-v3.1/praca.tex
+LaTeX2e <2018-12-01>
+(C:/Users/elacpol/Desktop/VMAF/writting/aghdpl-v3.1\aghdpl.cls
+*** [aghdpl.cls] --- (MSz, GJN, PK) v3.1.0 <16.02.2016> ***
+Document Class: aghdpl 
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times.sty
+"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
+"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ ("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+tex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
+y.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
+.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvte
+x.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxete
+x.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
+y.cfg"))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.s
+ty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
+or.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhd
+r.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlese
+c.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box27
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen113
+\ttl@minus=\dimen114
+\ttl@toksa=\toks16
+\titlewidth=\dimen115
+\titlewidthlast=\dimen116
+\titlewidthfirst=\dimen117
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocloft\tocloft.
+sty"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip54
+\cftbeforetoctitleskip=\skip55
+\cftaftertoctitleskip=\skip56
+\cftbeforepartskip=\skip57
+\cftpartnumwidth=\skip58
+\cftpartindent=\skip59
+\cftbeforechapskip=\skip60
+\cftchapindent=\skip61
+\cftchapnumwidth=\skip62
+\cftbeforesecskip=\skip63
+\cftsecindent=\skip64
+\cftsecnumwidth=\skip65
+\cftbeforesubsecskip=\skip66
+\cftsubsecindent=\skip67
+\cftsubsecnumwidth=\skip68
+\cftbeforesubsubsecskip=\skip69
+\cftsubsubsecindent=\skip70
+\cftsubsubsecnumwidth=\skip71
+\cftbeforeparaskip=\skip72
+\cftparaindent=\skip73
+\cftparanumwidth=\skip74
+\cftbeforesubparaskip=\skip75
+\cftsubparaindent=\skip76
+\cftsubparanumwidth=\skip77
+\cftbeforeloftitleskip=\skip78
+\cftafterloftitleskip=\skip79
+\cftbeforefigskip=\skip80
+\cftfigindent=\skip81
+\cftfignumwidth=\skip82
+\c@lofdepth=\count92
+\c@lotdepth=\count93
+\cftbeforelottitleskip=\skip83
+\cftafterlottitleskip=\skip84
+\cftbeforetabskip=\skip85
+\cfttabindent=\skip86
+\cfttabnumwidth=\skip87
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.
+sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3
+.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen118
+\captionmargin@=\dimen119
+\captionwidth=\dimen120
+\caption@tempdima=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+)
+\c@caption@flags=\count94
+\c@ContinuedFloat=\count95
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcapti
+on.sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count96
+\c@subtable=\count97
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx.
+sty"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.s
+ty"
+Package: expl3 2019-04-06 L3 programming layer (loader) 
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-c
+ode.tex"
+Package: expl3 2019-04-06 L3 programming layer (code)
+\c_max_int=\count98
+\l_tmpa_int=\count99
+\l_tmpb_int=\count100
+\g_tmpa_int=\count101
+\g_tmpb_int=\count102
+\g__kernel_prg_map_int=\count103
+\c__ior_term_ior=\count104
+\c_log_iow=\count105
+\l_iow_line_count_int=\count106
+\l__iow_line_target_int=\count107
+\l__iow_one_indent_int=\count108
+\l__iow_indent_int=\count109
+\c_zero_dim=\dimen125
+\c_max_dim=\dimen126
+\l_tmpa_dim=\dimen127
+\l_tmpb_dim=\dimen128
+\g_tmpa_dim=\dimen129
+\g_tmpb_dim=\dimen130
+\c_zero_skip=\skip88
+\c_max_skip=\skip89
+\l_tmpa_skip=\skip90
+\l_tmpb_skip=\skip91
+\g_tmpa_skip=\skip92
+\g_tmpb_skip=\skip93
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count110
+\l__intarray_loop_int=\count111
+\c__intarray_sp_dim=\dimen131
+\g__intarray_font_int=\count112
+\c__fp_leading_shift_int=\count113
+\c__fp_middle_shift_int=\count114
+\c__fp_trailing_shift_int=\count115
+\c__fp_big_leading_shift_int=\count116
+\c__fp_big_middle_shift_int=\count117
+\c__fp_big_trailing_shift_int=\count118
+\c__fp_Bigg_leading_shift_int=\count119
+\c__fp_Bigg_middle_shift_int=\count120
+\c__fp_Bigg_trailing_shift_int=\count121
+\c__kernel_randint_max_int=\count122
+\g__fp_array_int=\count123
+\l__fp_array_loop_int=\count124
+\l__sort_length_int=\count125
+\l__sort_min_int=\count126
+\l__sort_top_int=\count127
+\l__sort_max_int=\count128
+\l__sort_true_max_int=\count129
+\l__sort_block_int=\count130
+\l__sort_begin_int=\count131
+\l__sort_end_int=\count132
+\l__sort_A_int=\count133
+\l__sort_B_int=\count134
+\l__sort_C_int=\count135
+\l__tl_analysis_normal_int=\count136
+\l__tl_analysis_index_int=\count137
+\l__tl_analysis_nesting_int=\count138
+\l__tl_analysis_type_int=\count139
+\l__regex_internal_a_int=\count140
+\l__regex_internal_b_int=\count141
+\l__regex_internal_c_int=\count142
+\l__regex_balance_int=\count143
+\l__regex_group_level_int=\count144
+\l__regex_mode_int=\count145
+\c__regex_cs_in_class_mode_int=\count146
+\c__regex_cs_mode_int=\count147
+\l__regex_catcodes_int=\count148
+\l__regex_default_catcodes_int=\count149
+\c__regex_catcode_D_int=\count150
+\c__regex_catcode_S_int=\count151
+\c__regex_catcode_L_int=\count152
+\c__regex_catcode_O_int=\count153
+\c__regex_catcode_A_int=\count154
+\c__regex_all_catcodes_int=\count155
+\l__regex_show_lines_int=\count156
+\l__regex_min_state_int=\count157
+\l__regex_max_state_int=\count158
+\l__regex_left_state_int=\count159
+\l__regex_right_state_int=\count160
+\l__regex_capturing_group_int=\count161
+\l__regex_min_pos_int=\count162
+\l__regex_max_pos_int=\count163
+\l__regex_curr_pos_int=\count164
+\l__regex_start_pos_int=\count165
+\l__regex_success_pos_int=\count166
+\l__regex_curr_char_int=\count167
+\l__regex_curr_catcode_int=\count168
+\l__regex_last_char_int=\count169
+\l__regex_case_changed_char_int=\count170
+\l__regex_curr_state_int=\count171
+\l__regex_step_int=\count172
+\l__regex_min_active_int=\count173
+\l__regex_max_active_int=\count174
+\l__regex_replacement_csnames_int=\count175
+\l__regex_match_count_int=\count176
+\l__regex_min_submatch_int=\count177
+\l__regex_submatch_int=\count178
+\l__regex_zeroth_submatch_int=\count179
+\g__regex_trace_regex_int=\count180
+\c_empty_box=\box28
+\l_tmpa_box=\box29
+\l_tmpb_box=\box30
+\g_tmpa_box=\box31
+\g_tmpb_box=\box32
+\l__box_top_dim=\dimen132
+\l__box_bottom_dim=\dimen133
+\l__box_left_dim=\dimen134
+\l__box_right_dim=\dimen135
+\l__box_top_new_dim=\dimen136
+\l__box_bottom_new_dim=\dimen137
+\l__box_left_new_dim=\dimen138
+\l__box_right_new_dim=\dimen139
+\l__box_internal_box=\box33
+\l__coffin_internal_box=\box34
+\l__coffin_internal_dim=\dimen140
+\l__coffin_offset_x_dim=\dimen141
+\l__coffin_offset_y_dim=\dimen142
+\l__coffin_x_dim=\dimen143
+\l__coffin_y_dim=\dimen144
+\l__coffin_x_prime_dim=\dimen145
+\l__coffin_y_prime_dim=\dimen146
+\c_empty_coffin=\box35
+\l__coffin_aligned_coffin=\box36
+\l__coffin_aligned_internal_coffin=\box37
+\l_tmpa_coffin=\box38
+\l_tmpb_coffin=\box39
+\g_tmpa_coffin=\box40
+\g_tmpb_coffin=\box41
+\l__coffin_bounding_shift_dim=\dimen147
+\l__coffin_left_corner_dim=\dimen148
+\l__coffin_right_corner_dim=\dimen149
+\l__coffin_bottom_corner_dim=\dimen150
+\l__coffin_top_corner_dim=\dimen151
+\l__coffin_scaled_total_height_dim=\dimen152
+\l__coffin_scaled_width_dim=\dimen153
+\c__coffin_empty_coffin=\box42
+\l__coffin_display_coffin=\box43
+\l__coffin_display_coord_coffin=\box44
+\l__coffin_display_pole_coffin=\box45
+\l__coffin_display_offset_dim=\dimen154
+\l__coffin_display_x_dim=\dimen155
+\l__coffin_display_y_dim=\dimen156
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count181
+\l__seq_internal_b_int=\count182
+\c__deprecation_minus_one=\count183
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmo
+de.def"
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count184
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpars
+e\xparse.sty"
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count185
+\g__xparse_grabber_int=\count186
+\l__xparse_m_args_int=\count187
+\l__xparse_v_nesting_int=\count188
+)
+Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
+sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
+ty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen157
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen158
+\ar@mcellbox=\box46
+\extrarowheight=\dimen159
+\NC@list=\toks18
+\extratabsurround=\skip94
+\backup@length=\skip95
+\ar@cellbox=\box47
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3key
+s2e\l3keys2e.sty"
+Package: l3keys2e 2019-03-05 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box48
+\l__siunitx_tmp_dim=\dimen160
+\l__siunitx_tmp_int=\count189
+\l__siunitx_number_mantissa_length_int=\count190
+\l__siunitx_number_uncert_length_int=\count191
+\l__siunitx_round_int=\count192
+\l__siunitx_process_decimal_int=\count193
+\l__siunitx_process_uncertainty_int=\count194
+\l__siunitx_process_fixed_int=\count195
+\l__siunitx_process_integer_min_int=\count196
+\l__siunitx_process_precision_int=\count197
+\l__siunitx_group_min_int=\count198
+\l__siunitx_angle_marker_box=\box49
+\l__siunitx_angle_unit_box=\box50
+\l__siunitx_angle_marker_dim=\dimen161
+\l__siunitx_angle_unit_dim=\dimen162
+\l__siunitx_unit_int=\count199
+\l__siunitx_unit_denominator_int=\count266
+\l__siunitx_unit_numerator_int=\count267
+\l__siunitx_unit_prefix_int=\count268
+\l__siunitx_unit_prefix_base_int=\count269
+\l__siunitx_unit_prefix_gram_int=\count270
+\l__siunitx_number_product_int=\count271
+\c__siunitx_one_fill_skip=\skip96
+\l__siunitx_table_unit_align_skip=\skip97
+\l__siunitx_table_exponent_dim=\dimen163
+\l__siunitx_table_integer_dim=\dimen164
+\l__siunitx_table_mantissa_dim=\dimen165
+\l__siunitx_table_marker_dim=\dimen166
+\l__siunitx_table_result_dim=\dimen167
+\l__siunitx_table_uncert_dim=\dimen168
+\l__siunitx_table_fill_pre_dim=\dimen169
+\l__siunitx_table_fill_post_dim=\dimen170
+\l__siunitx_table_fill_mid_dim=\dimen171
+\l__siunitx_table_pre_box=\box51
+\l__siunitx_table_post_box=\box52
+\l__siunitx_table_mantissa_box=\box53
+\l__siunitx_table_result_box=\box54
+\l__siunitx_table_number_align_skip=\skip98
+\l__siunitx_table_text_align_skip=\skip99
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
+lator.sty"
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.
+sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks19
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumite
+m.sty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip100
+\enit@outerparindent=\dimen172
+\enit@toks=\toks20
+\enit@inbox=\box55
+\enit@count@id=\count272
+\enitdp@description=\count273
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/nowidow\nowidow.
+sty"
+Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
+Package: nowidow 
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
+ns.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
+ds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
+keys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
+rerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
+mds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflua
+tex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)))))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\block.t
+ss"
+File: block.tss 2016/03/15
+)
+\descriptiondashgap=\skip101
+\eqwheremargin=\skip102
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
+y"
+Package: babel 2019/04/01 3.28 The Babel package
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
+ef"
+File: switch.def 2019/04/01 3.28 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
+g"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\en
+glish.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
+f"
+File: babel.def 2019/04/01 3.28 Babel common definitions
+\babel@savecnt=\count274
+\U@D=\dimen173
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
+.def")
+\bbl@dirlevel=\count275
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-polish\pol
+ish.ldf"
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen174
+\pl@down=\dimen175
+\pl@right=\dimen176
+\pl@temp=\dimen177
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/polski\polski.st
+y"
+Package: polski 2017/05/04 v1.3.4 Polish language package
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathto
+ols.sty"
+Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count276
+\calc@Bcount=\count277
+\calc@Adimen=\dimen178
+\calc@Bdimen=\dimen179
+\calc@Askip=\skip103
+\calc@Bskip=\skip104
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count278
+\calc@Cskip=\skip105
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetu
+p.sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
+sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip106
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
+ty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
+ty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count279
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count280
+\leftroot@=\count281
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count282
+\DOTSCASE@=\count283
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count284
+\c@MaxMatrixCols=\count285
+\dotsspace@=\muskip17
+\c@parentequation=\count286
+\dspbrk@lvl=\count287
+\tag@help=\toks23
+\row@=\count288
+\column@=\count289
+\maxfields@=\count290
+\andhelp@=\toks24
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks25
+\multlinegap=\skip107
+\multlinetaggap=\skip108
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count291
+\l_MT_multwidth_dim=\dimen188
+\origjot=\skip109
+\l_MT_shortvdotswithinadjustabove_dim=\dimen189
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen190
+\l_MT_above_intertext_sep=\dimen191
+\l_MT_below_intertext_sep=\dimen192
+\l_MT_above_shortintertext_sep=\dimen193
+\l_MT_below_shortintertext_sep=\dimen194
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
+s.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.st
+y"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks27
+\thm@bodyfont=\toks28
+\thm@headfont=\toks29
+\thm@notefont=\toks30
+\thm@headpunct=\toks31
+\thm@preskip=\skip110
+\thm@postskip=\skip111
+\thm@headsep=\skip112
+\dth@everypar=\toks32
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/todonotes\todono
+tes.sty"
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.
+sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyva
+l.tex"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvuti
+ls.tex"
+\XKV@toks=\toks33
+\XKV@tempa@toks=\toks34
+)
+\XKV@depth=\count292
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
+y"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
+or.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlaye
+r\tikz.sty"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\p
+gf.sty"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
+frcs.sty"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfutil-common.tex"
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen195
+\pgfutil@tempdimb=\dimen196
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfutil-common-lists.tex"))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfutil-latex.def"
+\pgfutil@abb=\box58
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfrcs.code.tex"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revisi
+on.tex")
+Package: pgfrcs 2019/04/04 v3.1.2 (3.1.2)
+))
+Package: pgf 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\p
+gfcore.sty"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\
+pgfsys.sty"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgfsys.code.tex"
+Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks38
+))
+\pgf@x=\dimen197
+\pgf@y=\dimen198
+\pgf@xa=\dimen199
+\pgf@ya=\dimen256
+\pgf@xb=\dimen257
+\pgf@yb=\dimen258
+\pgf@xc=\dimen259
+\pgf@yc=\dimen260
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count293
+\c@pgf@countb=\count294
+\c@pgf@countc=\count295
+\c@pgf@countd=\count296
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+\pgf@sys@id@count=\count297
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgf.cfg"
+File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfsyssoftpath@smallbuffer@items=\count298
+\pgfsyssoftpath@bigbuffer@items=\count299
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcore.code.tex"
+Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+th.code.tex"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thcalc.code.tex"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thutil.code.tex")
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thparser.code.tex"
+\pgfmath@dimen=\dimen261
+\pgfmath@count=\count300
+\pgfmath@box=\box59
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.code.tex"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.basic.code.tex")
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.trigonometric.code.tex")
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.random.code.tex")
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.comparison.code.tex")
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.base.code.tex")
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.round.code.tex")
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.misc.code.tex")
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.integerarithmetics.code.tex")))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count301
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@picminx=\dimen262
+\pgf@picmaxx=\dimen263
+\pgf@picminy=\dimen264
+\pgf@picmaxy=\dimen265
+\pgf@pathminx=\dimen266
+\pgf@pathmaxx=\dimen267
+\pgf@pathminy=\dimen268
+\pgf@pathmaxy=\dimen269
+\pgf@xx=\dimen270
+\pgf@xy=\dimen271
+\pgf@yx=\dimen272
+\pgf@yy=\dimen273
+\pgf@zx=\dimen274
+\pgf@zy=\dimen275
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@path@lastx=\dimen276
+\pgf@path@lasty=\dimen277
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@shorten@end@additional=\dimen278
+\pgf@shorten@start@additional=\dimen279
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count302
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgflinewidth=\dimen280
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@pt@x=\dimen281
+\pgf@pt@y=\dimen282
+\pgf@pt@temp=\dimen283
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfarrowsep=\dimen284
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@max=\dimen285
+\pgf@sys@shading@range@num=\count303
+\pgf@shadingcount=\count304
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfexternal@startupbox=\box63
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
+fmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfnodeparttextbox=\box64
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
+fmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibilit
+y\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
+\pgf@nodesepstart=\dimen286
+\pgf@nodesepend=\dimen287
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibilit
+y\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
+ffor.sty"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
+fkeys.sty"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfkeys.code.tex"))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath
+.sty"
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+th.code.tex"))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgffor.code.tex"
+Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+th.code.tex")
+\pgffor@iter=\dimen288
+\pgffor@skip=\dimen289
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
+yer/tikz\tikz.code.tex"
+Package: tikz 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\
+pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@plot@mark@count=\count305
+\pgfplotmarksize=\dimen290
+)
+\tikz@lastx=\dimen291
+\tikz@lasty=\dimen292
+\tikz@lastxsaved=\dimen293
+\tikz@lastysaved=\dimen294
+\tikzleveldistance=\dimen295
+\tikzsiblingdistance=\dimen296
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count306
+\tikznumberofchildren=\count307
+\tikznumberofcurrentchild=\count308
+\tikz@fig@count=\count309
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
+fmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfmatrixcurrentrow=\count310
+\pgfmatrixcurrentcolumn=\count311
+\pgf@matrix@numberofcolumns=\count312
+)
+\tikz@expandcount=\count313
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
+yer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
+yer/tikz/libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
+yer/tikz/libraries\tikzlibraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
+yer/tikz/libraries\tikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\
+pgflibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+\c@@todonotes@numberoftodonotes=\count314
+)
+! Undefined control sequence.
+<recently read> \newcommandx 
+                             
+l.20 \newcommandx
+                 {\unsure}[2][1=]{\todo[linecolor=red,backgroundcolor=red!25...
+
+? 
+! Undefined control sequence.
+l.20 \newcommandx{\unsure
+                         }[2][1=]{\todo[linecolor=red,backgroundcolor=red!25...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \newcommandx{\unsure}[
+                           2][1=]{\todo[linecolor=red,backgroundcolor=red!25...
+
+? 
+! Illegal parameter number in definition of \@todonotes@text.
+<to be read again> 
+                   2
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \@todonotes@caption.
+<to be read again> 
+                   2
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tempa.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tempa.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@naa.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@na.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tkey.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tkey.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+
+! Package xkeyval Error: `##1' undefined in families `todonotes'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@na.
+<to be read again> 
+                   1
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \@todonotes@caption.
+<to be read again> 
+                   2
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 20.
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+! You can't use `macro parameter character #' in horizontal mode.
+\@todonotes@text ->##
+                     2
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+\@todonotes@text ->##
+                     2
+l.20 ...groundcolor=red!25,bordercolor=red,#1]{#2}
+                                                  }
+? 
+! Undefined control sequence.
+l.21 \newcommandx
+                 {\change}[2][1=]{\todo[linecolor=blue,backgroundcolor=blue!...
+
+? 
+! Undefined control sequence.
+l.21 \newcommandx{\change
+                         }[2][1=]{\todo[linecolor=blue,backgroundcolor=blue!...
+
+? 
+! Illegal parameter number in definition of \@todonotes@text.
+<to be read again> 
+                   2
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \@todonotes@caption.
+<to be read again> 
+                   2
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tempa.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tempa.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@naa.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@na.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tkey.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tkey.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+
+! Package xkeyval Error: `##1' undefined in families `todonotes'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@na.
+<to be read again> 
+                   1
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \@todonotes@caption.
+<to be read again> 
+                   2
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+\@todonotes@text ->##
+                     2
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+\@todonotes@text ->##
+                     2
+l.21 ...oundcolor=blue!25,bordercolor=blue,#1]{#2}
+                                                  }
+? 
+! Undefined control sequence.
+l.22 \newcommandx
+                 {\info}[2][1=]{\todo[linecolor=OliveGreen,backgroundcolor=O...
+
+? 
+! Undefined control sequence.
+l.22 \newcommandx{\info
+                       }[2][1=]{\todo[linecolor=OliveGreen,backgroundcolor=O...
+
+? 
+! Illegal parameter number in definition of \@todonotes@text.
+<to be read again> 
+                   2
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \@todonotes@caption.
+<to be read again> 
+                   2
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tempa.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tempa.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@naa.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@na.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tkey.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tkey.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xkeyval Error: `##1' undefined in families `todonotes'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@na.
+<to be read again> 
+                   1
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \@todonotes@caption.
+<to be read again> 
+                   2
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+\@todonotes@text ->##
+                     2
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `OliveGreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `OliveGreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `OliveGreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `OliveGreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `OliveGreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+\@todonotes@text ->##
+                     2
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `OliveGreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `OliveGreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `OliveGreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `OliveGreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `OliveGreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...iveGreen!25,bordercolor=OliveGreen,#1]{#2}
+                                                  }
+? 
+! Undefined control sequence.
+l.23 \newcommandx
+                 {\improvement}[2][1=]{\todo[linecolor=Plum,backgroundcolor=...
+
+? 
+! Undefined control sequence.
+l.23 \newcommandx{\improvement
+                              }[2][1=]{\todo[linecolor=Plum,backgroundcolor=...
+
+? 
+! Illegal parameter number in definition of \@todonotes@text.
+<to be read again> 
+                   2
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \@todonotes@caption.
+<to be read again> 
+                   2
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tempa.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tempa.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@naa.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@na.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tkey.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tkey.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xkeyval Error: `##1' undefined in families `todonotes'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@na.
+<to be read again> 
+                   1
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \@todonotes@caption.
+<to be read again> 
+                   2
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+\@todonotes@text ->##
+                     2
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `Plum'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `Plum'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `Plum'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `Plum'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `Plum'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+\@todonotes@text ->##
+                     2
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `Plum'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `Plum'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `Plum'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `Plum'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+
+! Package xcolor Error: Undefined color `Plum'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...oundcolor=Plum!25,bordercolor=Plum,#1]{#2}
+                                                  }
+? 
+! Undefined control sequence.
+l.24 \newcommandx
+                 {\thiswillnotshow}[2][1=]{\todo[disable,#1]{#2}}
+? 
+! Undefined control sequence.
+l.24 \newcommandx{\thiswillnotshow
+                                  }[2][1=]{\todo[disable,#1]{#2}}
+? 
+! Illegal parameter number in definition of \@todonotes@text.
+<to be read again> 
+                   2
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \@todonotes@caption.
+<to be read again> 
+                   2
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tempa.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tempa.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@naa.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@na.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tkey.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@tkey.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+
+! Package xkeyval Error: `##1' undefined in families `todonotes'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+! Illegal parameter number in definition of \XKV@na.
+<to be read again> 
+                   1
+l.24 ...swillnotshow}[2][1=]{\todo[disable,#1]{#2}
+                                                  }
+? 
+
+LaTeX Warning: Marginpar on page 1 moved.
+
+
+LaTeX Warning: Marginpar on page 1 moved.
+
+
+LaTeX Warning: Marginpar on page 1 moved.
+
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
+x.sty"
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfte
+xcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbo
+x.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count315
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.st
+y"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count316
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.de
+f"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count317
+\c@listtotal=\count318
+\c@listcount=\count319
+\c@liststart=\count320
+\c@liststop=\count321
+\c@citecount=\count322
+\c@citetotal=\count323
+\c@multicitecount=\count324
+\c@multicitetotal=\count325
+\c@instcount=\count326
+\c@maxnames=\count327
+\c@minnames=\count328
+\c@maxitems=\count329
+\c@minitems=\count330
+\c@citecounter=\count331
+\c@maxcitecounter=\count332
+\c@savedcitecounter=\count333
+\c@uniquelist=\count334
+\c@uniquename=\count335
+\c@refsection=\count336
+\c@refsegment=\count337
+\c@maxextratitle=\count338
+\c@maxextratitleyear=\count339
+\c@maxextraname=\count340
+\c@maxextradate=\count341
+\c@maxextraalpha=\count342
+\c@abbrvpenalty=\count343
+\c@highnamepenalty=\count344
+\c@lownamepenalty=\count345
+\c@maxparens=\count346
+\c@parenlevel=\count347
+\blx@tempcnta=\count348
+\blx@tempcntb=\count349
+\blx@tempcntc=\count350
+\blx@maxsection=\count351
+\blx@maxsegment@0=\count352
+\blx@notetype=\count353
+\blx@parenlevel@text=\count354
+\blx@parenlevel@foot=\count355
+\blx@sectionciteorder@0=\count356
+\blx@entrysetcounter=\count357
+\labelnumberwidth=\skip113
+\labelalphawidth=\skip114
+\biblabelsep=\skip115
+\bibitemsep=\skip116
+\bibnamesep=\skip117
+\bibinitsep=\skip118
+\bibparsep=\skip119
+\bibhang=\skip120
+\blx@bcfin=\read3
+\blx@bcfout=\write4
+\c@mincomprange=\count358
+\c@maxcomprange=\count359
+\c@mincompwidth=\count360
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.
+def"
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count361
+\c@savedafterword=\count362
+\c@annotator=\count363
+\c@savedannotator=\count364
+\c@author=\count365
+\c@savedauthor=\count366
+\c@bookauthor=\count367
+\c@savedbookauthor=\count368
+\c@commentator=\count369
+\c@savedcommentator=\count370
+\c@editor=\count371
+\c@savededitor=\count372
+\c@editora=\count373
+\c@savededitora=\count374
+\c@editorb=\count375
+\c@savededitorb=\count376
+\c@editorc=\count377
+\c@savededitorc=\count378
+\c@foreword=\count379
+\c@savedforeword=\count380
+\c@holder=\count381
+\c@savedholder=\count382
+\c@introduction=\count383
+\c@savedintroduction=\count384
+\c@namea=\count385
+\c@savednamea=\count386
+\c@nameb=\count387
+\c@savednameb=\count388
+\c@namec=\count389
+\c@savednamec=\count390
+\c@translator=\count391
+\c@savedtranslator=\count392
+\c@shortauthor=\count393
+\c@savedshortauthor=\count394
+\c@shorteditor=\count395
+\c@savedshorteditor=\count396
+\c@labelname=\count397
+\c@savedlabelname=\count398
+\c@institution=\count399
+\c@savedinstitution=\count400
+\c@lista=\count401
+\c@savedlista=\count402
+\c@listb=\count403
+\c@savedlistb=\count404
+\c@listc=\count405
+\c@savedlistc=\count406
+\c@listd=\count407
+\c@savedlistd=\count408
+\c@liste=\count409
+\c@savedliste=\count410
+\c@listf=\count411
+\c@savedlistf=\count412
+\c@location=\count413
+\c@savedlocation=\count414
+\c@organization=\count415
+\c@savedorganization=\count416
+\c@origlocation=\count417
+\c@savedoriglocation=\count418
+\c@origpublisher=\count419
+\c@savedorigpublisher=\count420
+\c@publisher=\count421
+\c@savedpublisher=\count422
+\c@language=\count423
+\c@savedlanguage=\count424
+\c@origlanguage=\count425
+\c@savedoriglanguage=\count426
+\c@pageref=\count427
+\c@savedpageref=\count428
+\shorthandwidth=\skip121
+\shortjournalwidth=\skip122
+\shortserieswidth=\skip123
+\shorttitlewidth=\skip124
+\shortauthorwidth=\skip125
+\shorteditorwidth=\skip126
+\locallabelnumberwidth=\skip127
+\locallabelalphawidth=\skip128
+\localshorthandwidth=\skip129
+\localshortjournalwidth=\skip130
+\localshortserieswidth=\skip131
+\localshorttitlewidth=\skip132
+\localshortauthorwidth=\skip133
+\localshorteditorwidth=\skip134
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-com
+pat.def"
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-bib
+tex.def"
+File: blx-bibtex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
+x.def"
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+\c@textcitecount=\count429
+\c@textcitetotal=\count430
+\c@textcitemaxnames=\count431
+\c@biburlnumpenalty=\count432
+\c@biburlucpenalty=\count433
+\c@biburllcpenalty=\count434
+\c@smartand=\count435
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\num
+eric.bbx"
+File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\sta
+ndard.bbx"
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count436
+\c@bbx:relatedtotal=\count437
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\num
+eric.cbx"
+File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
+x.cfg"
+File: biblatex.cfg 
+)
+
+Package biblatex Warning: 'iso8601' date format specifier is deprecated.
+(biblatex)                Use 'iso' instead.
+
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquote
+s.sty"
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
+\csq@reset=\count438
+\csq@gtype=\count439
+\csq@glevel=\count440
+\csq@qlevel=\count441
+\csq@maxlvl=\count442
+\csq@tshold=\count443
+\csq@ltx@everypar=\toks47
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquote
+s.def"
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquote
+s.cfg"
+File: csquotes.cfg 
+))
+Package csquotes Info: Redefining alias 'polish' -> 'croatian'.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\courier.s
+ty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listing
+s.sty"
+\lst@mode=\count444
+\lst@gtempboxa=\box69
+\lst@token=\toks48
+\lst@length=\count445
+\lst@currlwidth=\dimen297
+\lst@column=\count446
+\lst@pos=\count447
+\lst@lostspace=\dimen298
+\lst@width=\dimen299
+\lst@newlines=\count448
+\lst@lineno=\count449
+\lst@maxwidth=\dimen300
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc
+.sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count450
+\lst@skipnumbers=\count451
+\lst@framebox=\box70
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listing
+s.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang
+1.sty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang
+2.sty"
+File: lstlang2.sty 2019/02/27 1.8b listings language file
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang
+3.sty"
+File: lstlang3.sty 2019/02/27 1.8b listings language file
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.s
+ty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen301
+\TX@old@table=\dimen302
+\TX@old@col=\dimen303
+\TX@target=\dimen304
+\TX@delta=\dimen305
+\TX@cols=\count452
+\TX@ftn=\toks49
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multiro
+w.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip135
+\multirow@cntb=\count453
+\multirow@dima=\skip136
+\bigstrutjot=\dimen306
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktab
+s.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen307
+\lightrulewidth=\dimen308
+\cmidrulewidth=\dimen309
+\belowrulesep=\dimen310
+\belowbottomsep=\dimen311
+\aboverulesep=\dimen312
+\abovetopsep=\dimen313
+\cmidrulesep=\dimen314
+\cmidrulekern=\dimen315
+\defaultaddspace=\dimen316
+\@cmidla=\count454
+\@cmidlb=\count455
+\@aboverulesep=\dimen317
+\@belowrulesep=\dimen318
+\@thisruleclass=\count456
+\@lastruleclass=\count457
+\@thisrulewidth=\dimen319
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/makecell\makecel
+l.sty"
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen320
+\c@nlinenum=\count458
+\TeXr@lab=\toks50
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/threeparttable\t
+hreeparttable.sty"
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box71
+)
+Package biblatex Info: Trying to load language 'polish'...
+Package biblatex Info: ... file 'polish.lbx' found.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\pol
+ish.lbx"
+File: polish.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\eng
+lish.lbx"
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+
+Package biblatex Warning: Conflicting options.
+(biblatex)                'urldate=iso' requires 'seconds=true'.
+(biblatex)                Setting 'seconds=true' on input line 153.
+
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'polish'.
+
+LaTeX Warning: Unused global option(s):
+    [11pt].
+
+No file praca.aux.
+\openout1 = `praca.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
+-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count459
+\scratchdimen=\dimen321
+\scratchbox=\box72
+\nofMPsegments=\count460
+\nofMParguments=\count461
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count462
+\MPscratchDim=\dimen322
+\MPnumerator=\count463
+\makeMPintoPDFobject=\count464
+\everyMPtoPDFconversion=\toks52
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
+f-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
+sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdef
+inekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-40.36447pt
+* \headheight=28.45274pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=28.45274pt
+* \marginparwidth=103.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
+lator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx-
+abbreviations.cfg"
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+) ABD: EveryShipout initializing macros
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout4 = `praca-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'praca.bbl' not found.
+
+No file praca.bbl.
+Package biblatex Info: Reference section=0 on input line 153.
+Package biblatex Info: Reference segment=0 on input line 153.
+\c@lstlisting=\count465
+LaTeX Font Info:    Try loading font information for U+msa on input line 153.
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
+"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 153.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 155.
+ [1{C:/Users/elacpol/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+]
+<agh.jpg, id=36, 146.4672pt x 284.7438pt>
+File: agh.jpg Graphic file (type jpg)
+<use agh.jpg>
+Package pdftex.def Info: agh.jpg  used on input line 155.
+(pdftex.def)             Requested size: 87.88098pt x 170.8476pt.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 155.
+
+("C:\Users\elacpol\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd"
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 155.
+LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <12> not available
+(Font)              Font shape `T1/phv/b/sc' tried instead on input line 155.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 155.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 155.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 155.
+ [1 <C:/Users/elacpol/Desktop/VMAF/writting/aghdpl-v3.1/agh.jpg>] [2
+
+] [1
+
+]
+[2
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 168.
+
+No file praca.toc.
+\tf@toc=\write5
+\openout5 = `praca.toc'.
+
+[5
+
+]
+\openout2 = `content.aux'.
+
+ (C:/Users/elacpol/Desktop/VMAF/writting/aghdpl-v3.1\content.tex [6
+
+
+
+]
+Rozdzia\l  1.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
+! Undefined control sequence.
+l.6 \lipsum
+           [11]\unsure{Is this correct?}\unsure{I'm unsure about also!}
+? 
+! Undefined control sequence.
+l.6 \lipsum[11]\unsure
+                      {Is this correct?}\unsure{I'm unsure about also!}
+? 
+! Undefined control sequence.
+l.6 \lipsum[11]\unsure{Is this correct?}\unsure
+                                               {I'm unsure about also!}
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \item M
+           otywacja badań
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \item M
+           otywacja badań
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \item M
+           otywacja badań
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \item I
+           nformacja o  'historii' badań QoE.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \item I
+           nformacja o  'historii' badań QoE.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \item I
+           nformacja o  'historii' badań QoE.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \item C
+           o już w zadanej dziedzine zostało uzyskane.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \item C
+           o już w zadanej dziedzine zostało uzyskane.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \item C
+           o już w zadanej dziedzine zostało uzyskane.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \item C
+            o poszerza moja  praca i jej cel.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \item C
+            o poszerza moja  praca i jej cel.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \item C
+            o poszerza moja  praca i jej cel.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \end{itemize}
+                  
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--11
+[]
+ []
+
+[7] [8
+
+]
+Rozdzia\l  2.
+[9] [10
+
+]
+Rozdzia\l  3.
+[11] [12
+
+]
+Rozdzia\l  4.
+[13] [14
+
+]
+Rozdzia\l  5.
+) [15]
+
+LaTeX Warning: Empty bibliography on input line 184.
+
+(praca.aux (content.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                praca
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'praca.run.xml'.
+\openout1 = `praca.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 38031 strings out of 492945
+ 747102 string characters out of 3125364
+ 1143770 words of memory out of 3000000
+ 41363 multiletter control sequences out of 15000+200000
+ 604960 words of font info for 105 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,14n,82p,1507b,1868s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/elacpol/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
+nc} <C:\Users\elacpol\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
+00\ecrm1095.pk><C:/Users/elacpol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+urw/helvetic/uhvb8a.pfb><C:/Users/elacpol/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/elacpol/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/elacpol/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/elacpol/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/elacpol/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/elacpol/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on praca.pdf (16 pages, 184735 bytes).
+PDF statistics:
+ 120 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+

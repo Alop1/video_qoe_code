@@ -1,0 +1,157 @@
+Stats on testing data: (SRCC: nan, PCC: nan, RMSE: 0.100)
+Italy_switz_cif_0_0_foreman_352x288_vs_foreman_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999675, SSIM_score:0.999675
+Italy_switz_cif_0_1_foreman_352x288_vs_foreman_plr0.1_5462_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999973, SSIM_feature_ssim_l_score:0.999998, SSIM_feature_ssim_s_score:0.999600, SSIM_score:0.999580
+Italy_switz_cif_0_2_foreman_352x288_vs_foreman_plr0.1_8552_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999978, SSIM_feature_ssim_l_score:0.999999, SSIM_feature_ssim_s_score:0.999586, SSIM_score:0.999573
+Italy_switz_cif_0_3_foreman_352x288_vs_foreman_plr0.4_4374_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999044, SSIM_feature_ssim_l_score:0.999955, SSIM_feature_ssim_s_score:0.997259, SSIM_score:0.996551
+Italy_switz_cif_0_4_foreman_352x288_vs_foreman_plr0.4_89_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999484, SSIM_feature_ssim_l_score:0.999970, SSIM_feature_ssim_s_score:0.998340, SSIM_score:0.997979
+Italy_switz_cif_0_5_foreman_352x288_vs_foreman_plr10_4374_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.962735, SSIM_feature_ssim_l_score:0.996649, SSIM_feature_ssim_s_score:0.929251, SSIM_score:0.904849
+Italy_switz_cif_0_6_foreman_352x288_vs_foreman_plr10_8022_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.965558, SSIM_feature_ssim_l_score:0.995476, SSIM_feature_ssim_s_score:0.930346, SSIM_score:0.907226
+Italy_switz_cif_0_7_foreman_352x288_vs_foreman_plr1_4374_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998152, SSIM_feature_ssim_l_score:0.999875, SSIM_feature_ssim_s_score:0.993443, SSIM_score:0.992307
+Italy_switz_cif_0_8_foreman_352x288_vs_foreman_plr1_6859_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998142, SSIM_feature_ssim_l_score:0.999843, SSIM_feature_ssim_s_score:0.994728, SSIM_score:0.993499
+Italy_switz_cif_0_9_foreman_352x288_vs_foreman_plr3_3652_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991660, SSIM_feature_ssim_l_score:0.999446, SSIM_feature_ssim_s_score:0.979365, SSIM_score:0.973819
+Italy_switz_cif_0_10_foreman_352x288_vs_foreman_plr3_8022_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990095, SSIM_feature_ssim_l_score:0.999191, SSIM_feature_ssim_s_score:0.976384, SSIM_score:0.969921
+Italy_switz_cif_0_11_foreman_352x288_vs_foreman_plr5_4109_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.981753, SSIM_feature_ssim_l_score:0.997878, SSIM_feature_ssim_s_score:0.957058, SSIM_score:0.944837
+Italy_switz_cif_0_12_foreman_352x288_vs_foreman_plr5_7128_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982284, SSIM_feature_ssim_l_score:0.997781, SSIM_feature_ssim_s_score:0.962773, SSIM_score:0.951618
+Italy_switz_cif_1_13_hall_352x288_vs_hall_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999809, SSIM_score:0.999809
+Italy_switz_cif_1_14_hall_352x288_vs_hall_plr0.1_2081_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999769, SSIM_feature_ssim_l_score:0.999954, SSIM_feature_ssim_s_score:0.999239, SSIM_score:0.999096
+Italy_switz_cif_1_15_hall_352x288_vs_hall_plr0.1_6644_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999969, SSIM_feature_ssim_l_score:0.999999, SSIM_feature_ssim_s_score:0.999561, SSIM_score:0.999531
+Italy_switz_cif_1_16_hall_352x288_vs_hall_plr0.4_522_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999202, SSIM_feature_ssim_l_score:0.999865, SSIM_feature_ssim_s_score:0.998213, SSIM_score:0.997654
+Italy_switz_cif_1_17_hall_352x288_vs_hall_plr0.4_7393_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999195, SSIM_feature_ssim_l_score:0.999962, SSIM_feature_ssim_s_score:0.998026, SSIM_score:0.997481
+Italy_switz_cif_1_18_hall_352x288_vs_hall_plr10_3693_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.974432, SSIM_feature_ssim_l_score:0.994888, SSIM_feature_ssim_s_score:0.948634, SSIM_score:0.933633
+Italy_switz_cif_1_19_hall_352x288_vs_hall_plr10_8420_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.975698, SSIM_feature_ssim_l_score:0.997083, SSIM_feature_ssim_s_score:0.959480, SSIM_score:0.944282
+Italy_switz_cif_1_20_hall_352x288_vs_hall_plr1_8552_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996742, SSIM_feature_ssim_l_score:0.999425, SSIM_feature_ssim_s_score:0.993722, SSIM_score:0.991773
+Italy_switz_cif_1_21_hall_352x288_vs_hall_plr1_89_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.993329, SSIM_feature_ssim_l_score:0.999646, SSIM_feature_ssim_s_score:0.987613, SSIM_score:0.983308
+Italy_switz_cif_1_22_hall_352x288_vs_hall_plr3_1825_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.978318, SSIM_feature_ssim_l_score:0.997533, SSIM_feature_ssim_s_score:0.968921, SSIM_score:0.956589
+Italy_switz_cif_1_23_hall_352x288_vs_hall_plr3_3176_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.976472, SSIM_feature_ssim_l_score:0.996566, SSIM_feature_ssim_s_score:0.962924, SSIM_score:0.950098
+Italy_switz_cif_1_24_hall_352x288_vs_hall_plr5_3652_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.985953, SSIM_feature_ssim_l_score:0.997948, SSIM_feature_ssim_s_score:0.974112, SSIM_score:0.966026
+Italy_switz_cif_1_25_hall_352x288_vs_hall_plr5_8253_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987655, SSIM_feature_ssim_l_score:0.998154, SSIM_feature_ssim_s_score:0.976194, SSIM_score:0.968066
+Italy_switz_cif_2_26_mobile_352x288_vs_mobile_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999963, SSIM_score:0.999963
+Italy_switz_cif_2_27_mobile_352x288_vs_mobile_plr0.1_8022_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999814, SSIM_feature_ssim_l_score:0.999957, SSIM_feature_ssim_s_score:0.998609, SSIM_score:0.998487
+Italy_switz_cif_2_28_mobile_352x288_vs_mobile_plr0.1_8253_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999836, SSIM_feature_ssim_l_score:0.999982, SSIM_feature_ssim_s_score:0.997436, SSIM_score:0.997327
+Italy_switz_cif_2_29_mobile_352x288_vs_mobile_plr0.4_2081_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999179, SSIM_feature_ssim_l_score:0.999883, SSIM_feature_ssim_s_score:0.993853, SSIM_score:0.993404
+Italy_switz_cif_2_30_mobile_352x288_vs_mobile_plr0.4_8043_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999049, SSIM_feature_ssim_l_score:0.999743, SSIM_feature_ssim_s_score:0.994876, SSIM_score:0.994403
+Italy_switz_cif_2_31_mobile_352x288_vs_mobile_plr10_167_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.956145, SSIM_feature_ssim_l_score:0.991047, SSIM_feature_ssim_s_score:0.854776, SSIM_score:0.833584
+Italy_switz_cif_2_32_mobile_352x288_vs_mobile_plr10_2081_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.956128, SSIM_feature_ssim_l_score:0.991177, SSIM_feature_ssim_s_score:0.855858, SSIM_score:0.835471
+Italy_switz_cif_2_33_mobile_352x288_vs_mobile_plr1_5462_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997792, SSIM_feature_ssim_l_score:0.999555, SSIM_feature_ssim_s_score:0.989817, SSIM_score:0.988664
+Italy_switz_cif_2_34_mobile_352x288_vs_mobile_plr1_8022_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997211, SSIM_feature_ssim_l_score:0.999693, SSIM_feature_ssim_s_score:0.988011, SSIM_score:0.986654
+Italy_switz_cif_2_35_mobile_352x288_vs_mobile_plr3_5539_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.986930, SSIM_feature_ssim_l_score:0.997714, SSIM_feature_ssim_s_score:0.954574, SSIM_score:0.948667
+Italy_switz_cif_2_36_mobile_352x288_vs_mobile_plr3_7128_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.981719, SSIM_feature_ssim_l_score:0.997769, SSIM_feature_ssim_s_score:0.949631, SSIM_score:0.940838
+Italy_switz_cif_2_37_mobile_352x288_vs_mobile_plr5_1251_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.980575, SSIM_feature_ssim_l_score:0.996175, SSIM_feature_ssim_s_score:0.919600, SSIM_score:0.910187
+Italy_switz_cif_2_38_mobile_352x288_vs_mobile_plr5_7393_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.977318, SSIM_feature_ssim_l_score:0.996519, SSIM_feature_ssim_s_score:0.917079, SSIM_score:0.905123
+Italy_switz_cif_3_39_mother_352x288_vs_mother_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999726, SSIM_score:0.999726
+Italy_switz_cif_3_40_mother_352x288_vs_mother_plr0.1_3176_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999740, SSIM_feature_ssim_l_score:0.999990, SSIM_feature_ssim_s_score:0.999061, SSIM_score:0.998860
+Italy_switz_cif_3_41_mother_352x288_vs_mother_plr0.1_522_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999531, SSIM_feature_ssim_l_score:0.999953, SSIM_feature_ssim_s_score:0.998621, SSIM_score:0.998253
+Italy_switz_cif_3_42_mother_352x288_vs_mother_plr0.4_1587_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998937, SSIM_feature_ssim_l_score:0.999913, SSIM_feature_ssim_s_score:0.997518, SSIM_score:0.996628
+Italy_switz_cif_3_43_mother_352x288_vs_mother_plr0.4_5435_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998133, SSIM_feature_ssim_l_score:0.999818, SSIM_feature_ssim_s_score:0.996214, SSIM_score:0.994736
+Italy_switz_cif_3_44_mother_352x288_vs_mother_plr10_1587_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.984115, SSIM_feature_ssim_l_score:0.998525, SSIM_feature_ssim_s_score:0.971644, SSIM_score:0.958955
+Italy_switz_cif_3_45_mother_352x288_vs_mother_plr10_8420_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.977741, SSIM_feature_ssim_l_score:0.997816, SSIM_feature_ssim_s_score:0.962707, SSIM_score:0.945933
+Italy_switz_cif_3_46_mother_352x288_vs_mother_plr1_2081_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997485, SSIM_feature_ssim_l_score:0.999703, SSIM_feature_ssim_s_score:0.995901, SSIM_score:0.993706
+Italy_switz_cif_3_47_mother_352x288_vs_mother_plr1_522_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996796, SSIM_feature_ssim_l_score:0.999649, SSIM_feature_ssim_s_score:0.995046, SSIM_score:0.992795
+Italy_switz_cif_3_48_mother_352x288_vs_mother_plr3_167_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995670, SSIM_feature_ssim_l_score:0.999652, SSIM_feature_ssim_s_score:0.990100, SSIM_score:0.986916
+Italy_switz_cif_3_49_mother_352x288_vs_mother_plr3_8253_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998056, SSIM_feature_ssim_l_score:0.999911, SSIM_feature_ssim_s_score:0.993451, SSIM_score:0.991862
+Italy_switz_cif_3_50_mother_352x288_vs_mother_plr5_5452_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987855, SSIM_feature_ssim_l_score:0.998637, SSIM_feature_ssim_s_score:0.979334, SSIM_score:0.969717
+Italy_switz_cif_3_51_mother_352x288_vs_mother_plr5_8420_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.993685, SSIM_feature_ssim_l_score:0.999554, SSIM_feature_ssim_s_score:0.983537, SSIM_score:0.978847
+Italy_switz_cif_4_52_news_352x288_vs_news_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999979, SSIM_score:0.999979
+Italy_switz_cif_4_53_news_352x288_vs_news_plr0.1_2081_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999971, SSIM_feature_ssim_l_score:0.999998, SSIM_feature_ssim_s_score:0.999753, SSIM_score:0.999727
+Italy_switz_cif_4_54_news_352x288_vs_news_plr0.1_8022_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999957, SSIM_feature_ssim_l_score:0.999996, SSIM_feature_ssim_s_score:0.999838, SSIM_score:0.999814
+Italy_switz_cif_4_55_news_352x288_vs_news_plr0.4_8253_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999215, SSIM_feature_ssim_l_score:0.999777, SSIM_feature_ssim_s_score:0.998720, SSIM_score:0.998179
+Italy_switz_cif_4_56_news_352x288_vs_news_plr0.4_8297_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999412, SSIM_feature_ssim_l_score:0.999908, SSIM_feature_ssim_s_score:0.997897, SSIM_score:0.997500
+Italy_switz_cif_4_57_news_352x288_vs_news_plr10_1790_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.973435, SSIM_feature_ssim_l_score:0.992052, SSIM_feature_ssim_s_score:0.955054, SSIM_score:0.936661
+Italy_switz_cif_4_58_news_352x288_vs_news_plr10_8297_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.976059, SSIM_feature_ssim_l_score:0.992006, SSIM_feature_ssim_s_score:0.961806, SSIM_score:0.942402
+Italy_switz_cif_4_59_news_352x288_vs_news_plr1_8022_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997791, SSIM_feature_ssim_l_score:0.999499, SSIM_feature_ssim_s_score:0.996377, SSIM_score:0.994837
+Italy_switz_cif_4_60_news_352x288_vs_news_plr1_8297_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998014, SSIM_feature_ssim_l_score:0.999461, SSIM_feature_ssim_s_score:0.995654, SSIM_score:0.994237
+Italy_switz_cif_4_61_news_352x288_vs_news_plr3_2081_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.988816, SSIM_feature_ssim_l_score:0.996293, SSIM_feature_ssim_s_score:0.984540, SSIM_score:0.975087
+Italy_switz_cif_4_62_news_352x288_vs_news_plr3_8022_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989532, SSIM_feature_ssim_l_score:0.996772, SSIM_feature_ssim_s_score:0.985782, SSIM_score:0.977138
+Italy_switz_cif_4_63_news_352x288_vs_news_plr5_1587_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.984111, SSIM_feature_ssim_l_score:0.995336, SSIM_feature_ssim_s_score:0.977822, SSIM_score:0.965384
+Italy_switz_cif_4_64_news_352x288_vs_news_plr5_8022_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.985155, SSIM_feature_ssim_l_score:0.996374, SSIM_feature_ssim_s_score:0.976275, SSIM_score:0.966509
+Italy_switz_cif_5_65_paris_352x288_vs_paris_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999990, SSIM_score:0.999990
+Italy_switz_cif_5_66_paris_352x288_vs_paris_plr0.1_1825_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999833, SSIM_feature_ssim_l_score:0.999985, SSIM_feature_ssim_s_score:0.999466, SSIM_score:0.999362
+Italy_switz_cif_5_67_paris_352x288_vs_paris_plr0.1_3176_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999227, SSIM_feature_ssim_l_score:0.999894, SSIM_feature_ssim_s_score:0.998429, SSIM_score:0.997858
+Italy_switz_cif_5_68_paris_352x288_vs_paris_plr0.4_2081_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999487, SSIM_feature_ssim_l_score:0.999953, SSIM_feature_ssim_s_score:0.998268, SSIM_score:0.997996
+Italy_switz_cif_5_69_paris_352x288_vs_paris_plr0.4_3176_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999543, SSIM_feature_ssim_l_score:0.999919, SSIM_feature_ssim_s_score:0.997562, SSIM_score:0.997294
+Italy_switz_cif_5_70_paris_352x288_vs_paris_plr10_3652_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.961411, SSIM_feature_ssim_l_score:0.992112, SSIM_feature_ssim_s_score:0.918527, SSIM_score:0.896987
+Italy_switz_cif_5_71_paris_352x288_vs_paris_plr10_5462_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.958263, SSIM_feature_ssim_l_score:0.991676, SSIM_feature_ssim_s_score:0.918083, SSIM_score:0.892759
+Italy_switz_cif_5_72_paris_352x288_vs_paris_plr1_3176_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997757, SSIM_feature_ssim_l_score:0.999428, SSIM_feature_ssim_s_score:0.993687, SSIM_score:0.992426
+Italy_switz_cif_5_73_paris_352x288_vs_paris_plr1_8043_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998253, SSIM_feature_ssim_l_score:0.999726, SSIM_feature_ssim_s_score:0.993848, SSIM_score:0.993031
+Italy_switz_cif_5_74_paris_352x288_vs_paris_plr3_522_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982674, SSIM_feature_ssim_l_score:0.995174, SSIM_feature_ssim_s_score:0.967819, SSIM_score:0.956382
+Italy_switz_cif_5_75_paris_352x288_vs_paris_plr3_7393_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982115, SSIM_feature_ssim_l_score:0.996243, SSIM_feature_ssim_s_score:0.966782, SSIM_score:0.956253
+Italy_switz_cif_5_76_paris_352x288_vs_paris_plr5_3652_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.978920, SSIM_feature_ssim_l_score:0.996344, SSIM_feature_ssim_s_score:0.954710, SSIM_score:0.942767
+Italy_switz_cif_5_77_paris_352x288_vs_paris_plr5_8253_352x288_q_352x288
+Aggregate (mean): SSIM_feature_ssim_c_score:0.975870, SSIM_feature_ssim_l_score:0.994413, SSIM_feature_ssim_s_score:0.953336, SSIM_score:0.937283

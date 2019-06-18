@@ -1,0 +1,6 @@
+cmd_0_0_src25_ref_640x480_yuv422p_vs_src_25_hrc26_640x480_yuv422p_q_640x480aggregate: 44.7427601278
+
+cmd_0_1_src25_ref_640x480_yuv422p_vs_src_25_hrc25_640x480_yuv422p_q_640x480aggregate: 46.969281201
+
+cmd_0_2_src25_ref_640x480_yuv422p_vs_src_25_hrc27_640x480_yuv422p_q_640x480aggregate: 47.2166064175
+

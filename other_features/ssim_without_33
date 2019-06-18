@@ -1,0 +1,637 @@
+Stats on testing data: (SRCC: nan, PCC: nan, RMSE: 0.100)
+example_0_0_src21_ref_640x480_yuv422p_vs_src21_ref_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_0_1_src21_ref_640x480_yuv422p_vs_src_21_hrc25_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990750, SSIM_feature_ssim_l_score:0.999008, SSIM_feature_ssim_s_score:0.958535, SSIM_score:0.950544
+example_0_2_src21_ref_640x480_yuv422p_vs_src_21_hrc26_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.968571, SSIM_feature_ssim_l_score:0.998836, SSIM_feature_ssim_s_score:0.933347, SSIM_score:0.907184
+example_0_3_src21_ref_640x480_yuv422p_vs_src_21_hrc27_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990787, SSIM_feature_ssim_l_score:0.999010, SSIM_feature_ssim_s_score:0.958526, SSIM_score:0.950553
+example_1_4_src01_hrc00_640x480_yuv422p_vs_src01_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_1_5_src01_hrc00_640x480_yuv422p_vs_src_1_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998999, SSIM_feature_ssim_l_score:0.999994, SSIM_feature_ssim_s_score:0.989491, SSIM_score:0.988496
+example_1_6_src01_hrc00_640x480_yuv422p_vs_src_1_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996496, SSIM_feature_ssim_l_score:0.999980, SSIM_feature_ssim_s_score:0.977068, SSIM_score:0.973637
+example_1_7_src01_hrc00_640x480_yuv422p_vs_src_1_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987849, SSIM_feature_ssim_l_score:0.999941, SSIM_feature_ssim_s_score:0.951326, SSIM_score:0.939794
+example_1_8_src01_hrc00_640x480_yuv422p_vs_src_1_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.962742, SSIM_feature_ssim_l_score:0.999881, SSIM_feature_ssim_s_score:0.907498, SSIM_score:0.874409
+example_1_9_src01_hrc00_640x480_yuv422p_vs_src_1_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999052, SSIM_feature_ssim_l_score:0.999993, SSIM_feature_ssim_s_score:0.989768, SSIM_score:0.988825
+example_1_10_src01_hrc00_640x480_yuv422p_vs_src_1_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996615, SSIM_feature_ssim_l_score:0.999980, SSIM_feature_ssim_s_score:0.977113, SSIM_score:0.973798
+example_1_11_src01_hrc00_640x480_yuv422p_vs_src_1_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987633, SSIM_feature_ssim_l_score:0.999941, SSIM_feature_ssim_s_score:0.951815, SSIM_score:0.940085
+example_1_12_src01_hrc00_640x480_yuv422p_vs_src_1_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.960324, SSIM_feature_ssim_l_score:0.999829, SSIM_feature_ssim_s_score:0.902715, SSIM_score:0.867595
+example_1_13_src01_hrc00_640x480_yuv422p_vs_src_1_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.919392, SSIM_feature_ssim_l_score:0.999940, SSIM_feature_ssim_s_score:0.894220, SSIM_score:0.827574
+example_1_14_src01_hrc00_640x480_yuv422p_vs_src_1_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.906806, SSIM_feature_ssim_l_score:0.999915, SSIM_feature_ssim_s_score:0.880286, SSIM_score:0.804603
+example_1_15_src01_hrc00_640x480_yuv422p_vs_src_1_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.883533, SSIM_feature_ssim_l_score:0.999845, SSIM_feature_ssim_s_score:0.853007, SSIM_score:0.762577
+example_1_16_src01_hrc00_640x480_yuv422p_vs_src_1_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996502, SSIM_feature_ssim_l_score:0.999985, SSIM_feature_ssim_s_score:0.977148, SSIM_score:0.973727
+example_1_17_src01_hrc00_640x480_yuv422p_vs_src_1_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.826521, SSIM_feature_ssim_l_score:0.999684, SSIM_feature_ssim_s_score:0.831544, SSIM_score:0.698631
+example_1_18_src01_hrc00_640x480_yuv422p_vs_src_1_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999255, SSIM_feature_ssim_l_score:0.999994, SSIM_feature_ssim_s_score:0.990418, SSIM_score:0.989676
+example_1_19_src01_hrc00_640x480_yuv422p_vs_src_1_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997090, SSIM_feature_ssim_l_score:0.999983, SSIM_feature_ssim_s_score:0.978544, SSIM_score:0.975690
+example_1_20_src01_hrc00_640x480_yuv422p_vs_src_1_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.988708, SSIM_feature_ssim_l_score:0.999946, SSIM_feature_ssim_s_score:0.954408, SSIM_score:0.943648
+example_1_21_src01_hrc00_640x480_yuv422p_vs_src_1_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.960887, SSIM_feature_ssim_l_score:0.999849, SSIM_feature_ssim_s_score:0.910137, SSIM_score:0.875137
+example_1_22_src01_hrc00_640x480_yuv422p_vs_src_1_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.889593, SSIM_feature_ssim_l_score:0.999810, SSIM_feature_ssim_s_score:0.889297, SSIM_score:0.804681
+example_1_23_src01_hrc00_640x480_yuv422p_vs_src_1_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.988638, SSIM_feature_ssim_l_score:0.999976, SSIM_feature_ssim_s_score:0.958199, SSIM_score:0.947387
+example_1_24_src01_hrc00_640x480_yuv422p_vs_src_1_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.966390, SSIM_feature_ssim_l_score:0.999968, SSIM_feature_ssim_s_score:0.929295, SSIM_score:0.899036
+example_1_25_src01_hrc00_640x480_yuv422p_vs_src_1_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999021, SSIM_feature_ssim_l_score:0.999994, SSIM_feature_ssim_s_score:0.989644, SSIM_score:0.988670
+example_1_26_src01_hrc00_640x480_yuv422p_vs_src_1_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996578, SSIM_feature_ssim_l_score:0.999981, SSIM_feature_ssim_s_score:0.976929, SSIM_score:0.973579
+example_1_27_src01_hrc00_640x480_yuv422p_vs_src_1_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987927, SSIM_feature_ssim_l_score:0.999958, SSIM_feature_ssim_s_score:0.953105, SSIM_score:0.941646
+example_1_28_src01_hrc00_640x480_yuv422p_vs_src_1_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.964884, SSIM_feature_ssim_l_score:0.999943, SSIM_feature_ssim_s_score:0.920432, SSIM_score:0.888969
+example_1_29_src01_hrc00_640x480_yuv422p_vs_src_1_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999028, SSIM_feature_ssim_l_score:0.999993, SSIM_feature_ssim_s_score:0.989741, SSIM_score:0.988774
+example_2_30_src10_hrc00_640x480_yuv422p_vs_src10_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_2_31_src10_hrc00_640x480_yuv422p_vs_src_10_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998619, SSIM_feature_ssim_l_score:0.999987, SSIM_feature_ssim_s_score:0.984284, SSIM_score:0.982914
+example_2_32_src10_hrc00_640x480_yuv422p_vs_src_10_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995642, SSIM_feature_ssim_l_score:0.999961, SSIM_feature_ssim_s_score:0.964993, SSIM_score:0.960771
+example_2_33_src10_hrc00_640x480_yuv422p_vs_src_10_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.988333, SSIM_feature_ssim_l_score:0.999883, SSIM_feature_ssim_s_score:0.929830, SSIM_score:0.919082
+example_2_34_src10_hrc00_640x480_yuv422p_vs_src_10_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.972900, SSIM_feature_ssim_l_score:0.999774, SSIM_feature_ssim_s_score:0.892741, SSIM_score:0.869583
+example_2_35_src10_hrc00_640x480_yuv422p_vs_src_10_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998617, SSIM_feature_ssim_l_score:0.999986, SSIM_feature_ssim_s_score:0.984580, SSIM_score:0.983206
+example_2_36_src10_hrc00_640x480_yuv422p_vs_src_10_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995443, SSIM_feature_ssim_l_score:0.999961, SSIM_feature_ssim_s_score:0.965035, SSIM_score:0.960621
+example_2_37_src10_hrc00_640x480_yuv422p_vs_src_10_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987586, SSIM_feature_ssim_l_score:0.999878, SSIM_feature_ssim_s_score:0.930885, SSIM_score:0.919439
+example_2_38_src10_hrc00_640x480_yuv422p_vs_src_10_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.970825, SSIM_feature_ssim_l_score:0.999666, SSIM_feature_ssim_s_score:0.890317, SSIM_score:0.865407
+example_2_39_src10_hrc00_640x480_yuv422p_vs_src_10_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.981981, SSIM_feature_ssim_l_score:0.999920, SSIM_feature_ssim_s_score:0.913535, SSIM_score:0.898098
+example_2_40_src10_hrc00_640x480_yuv422p_vs_src_10_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.974587, SSIM_feature_ssim_l_score:0.999864, SSIM_feature_ssim_s_score:0.897929, SSIM_score:0.876467
+example_2_41_src10_hrc00_640x480_yuv422p_vs_src_10_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.962787, SSIM_feature_ssim_l_score:0.999731, SSIM_feature_ssim_s_score:0.877795, SSIM_score:0.847434
+example_2_42_src10_hrc00_640x480_yuv422p_vs_src_10_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995890, SSIM_feature_ssim_l_score:0.999969, SSIM_feature_ssim_s_score:0.964421, SSIM_score:0.960453
+example_2_43_src10_hrc00_640x480_yuv422p_vs_src_10_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.947142, SSIM_feature_ssim_l_score:0.999468, SSIM_feature_ssim_s_score:0.864122, SSIM_score:0.822771
+example_2_44_src10_hrc00_640x480_yuv422p_vs_src_10_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998956, SSIM_feature_ssim_l_score:0.999988, SSIM_feature_ssim_s_score:0.986383, SSIM_score:0.985342
+example_2_45_src10_hrc00_640x480_yuv422p_vs_src_10_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996260, SSIM_feature_ssim_l_score:0.999966, SSIM_feature_ssim_s_score:0.967923, SSIM_score:0.964290
+example_2_46_src10_hrc00_640x480_yuv422p_vs_src_10_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987661, SSIM_feature_ssim_l_score:0.999895, SSIM_feature_ssim_s_score:0.934063, SSIM_score:0.922654
+example_2_47_src10_hrc00_640x480_yuv422p_vs_src_10_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.967839, SSIM_feature_ssim_l_score:0.999727, SSIM_feature_ssim_s_score:0.894237, SSIM_score:0.866722
+example_2_48_src10_hrc00_640x480_yuv422p_vs_src_10_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.967687, SSIM_feature_ssim_l_score:0.999675, SSIM_feature_ssim_s_score:0.906549, SSIM_score:0.880905
+example_2_49_src10_hrc00_640x480_yuv422p_vs_src_10_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.988112, SSIM_feature_ssim_l_score:0.999958, SSIM_feature_ssim_s_score:0.939197, SSIM_score:0.928242
+example_2_50_src10_hrc00_640x480_yuv422p_vs_src_10_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.977743, SSIM_feature_ssim_l_score:0.999950, SSIM_feature_ssim_s_score:0.924191, SSIM_score:0.904560
+example_2_51_src10_hrc00_640x480_yuv422p_vs_src_10_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998618, SSIM_feature_ssim_l_score:0.999986, SSIM_feature_ssim_s_score:0.984453, SSIM_score:0.983081
+example_2_52_src10_hrc00_640x480_yuv422p_vs_src_10_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995937, SSIM_feature_ssim_l_score:0.999962, SSIM_feature_ssim_s_score:0.964692, SSIM_score:0.960757
+example_2_53_src10_hrc00_640x480_yuv422p_vs_src_10_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987987, SSIM_feature_ssim_l_score:0.999914, SSIM_feature_ssim_s_score:0.930785, SSIM_score:0.919753
+example_2_54_src10_hrc00_640x480_yuv422p_vs_src_10_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.975101, SSIM_feature_ssim_l_score:0.999898, SSIM_feature_ssim_s_score:0.910982, SSIM_score:0.889260
+example_2_55_src10_hrc00_640x480_yuv422p_vs_src_10_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998618, SSIM_feature_ssim_l_score:0.999986, SSIM_feature_ssim_s_score:0.984537, SSIM_score:0.983165
+example_3_56_src11_hrc00_640x480_yuv422p_vs_src11_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_3_57_src11_hrc00_640x480_yuv422p_vs_src_11_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998998, SSIM_feature_ssim_l_score:0.999993, SSIM_feature_ssim_s_score:0.990241, SSIM_score:0.989243
+example_3_58_src11_hrc00_640x480_yuv422p_vs_src_11_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997035, SSIM_feature_ssim_l_score:0.999979, SSIM_feature_ssim_s_score:0.980169, SSIM_score:0.977256
+example_3_59_src11_hrc00_640x480_yuv422p_vs_src_11_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991282, SSIM_feature_ssim_l_score:0.999939, SSIM_feature_ssim_s_score:0.958444, SSIM_score:0.950144
+example_3_60_src11_hrc00_640x480_yuv422p_vs_src_11_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.979614, SSIM_feature_ssim_l_score:0.999863, SSIM_feature_ssim_s_score:0.930175, SSIM_score:0.911866
+example_3_61_src11_hrc00_640x480_yuv422p_vs_src_11_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999047, SSIM_feature_ssim_l_score:0.999993, SSIM_feature_ssim_s_score:0.990671, SSIM_score:0.989721
+example_3_62_src11_hrc00_640x480_yuv422p_vs_src_11_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997085, SSIM_feature_ssim_l_score:0.999980, SSIM_feature_ssim_s_score:0.980289, SSIM_score:0.977424
+example_3_63_src11_hrc00_640x480_yuv422p_vs_src_11_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991497, SSIM_feature_ssim_l_score:0.999937, SSIM_feature_ssim_s_score:0.959559, SSIM_score:0.951460
+example_3_64_src11_hrc00_640x480_yuv422p_vs_src_11_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.977339, SSIM_feature_ssim_l_score:0.999795, SSIM_feature_ssim_s_score:0.924942, SSIM_score:0.904648
+example_3_65_src11_hrc00_640x480_yuv422p_vs_src_11_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987930, SSIM_feature_ssim_l_score:0.999943, SSIM_feature_ssim_s_score:0.944114, SSIM_score:0.933336
+example_3_66_src11_hrc00_640x480_yuv422p_vs_src_11_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982736, SSIM_feature_ssim_l_score:0.999915, SSIM_feature_ssim_s_score:0.933080, SSIM_score:0.917778
+example_3_67_src11_hrc00_640x480_yuv422p_vs_src_11_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.970926, SSIM_feature_ssim_l_score:0.999826, SSIM_feature_ssim_s_score:0.915887, SSIM_score:0.890748
+example_3_68_src11_hrc00_640x480_yuv422p_vs_src_11_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997266, SSIM_feature_ssim_l_score:0.999984, SSIM_feature_ssim_s_score:0.979517, SSIM_score:0.976838
+example_3_69_src11_hrc00_640x480_yuv422p_vs_src_11_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.950292, SSIM_feature_ssim_l_score:0.999555, SSIM_feature_ssim_s_score:0.893613, SSIM_score:0.852423
+example_3_70_src11_hrc00_640x480_yuv422p_vs_src_11_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999112, SSIM_feature_ssim_l_score:0.999993, SSIM_feature_ssim_s_score:0.990898, SSIM_score:0.990012
+example_3_71_src11_hrc00_640x480_yuv422p_vs_src_11_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997227, SSIM_feature_ssim_l_score:0.999981, SSIM_feature_ssim_s_score:0.980962, SSIM_score:0.978234
+example_3_72_src11_hrc00_640x480_yuv422p_vs_src_11_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991071, SSIM_feature_ssim_l_score:0.999940, SSIM_feature_ssim_s_score:0.960677, SSIM_score:0.952175
+example_3_73_src11_hrc00_640x480_yuv422p_vs_src_11_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.975740, SSIM_feature_ssim_l_score:0.999811, SSIM_feature_ssim_s_score:0.928836, SSIM_score:0.907095
+example_3_74_src11_hrc00_640x480_yuv422p_vs_src_11_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.966211, SSIM_feature_ssim_l_score:0.999720, SSIM_feature_ssim_s_score:0.926511, SSIM_score:0.898604
+example_3_75_src11_hrc00_640x480_yuv422p_vs_src_11_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.993613, SSIM_feature_ssim_l_score:0.999978, SSIM_feature_ssim_s_score:0.965827, SSIM_score:0.959750
+example_3_76_src11_hrc00_640x480_yuv422p_vs_src_11_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.988338, SSIM_feature_ssim_l_score:0.999976, SSIM_feature_ssim_s_score:0.956200, SSIM_score:0.945478
+example_3_77_src11_hrc00_640x480_yuv422p_vs_src_11_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999016, SSIM_feature_ssim_l_score:0.999993, SSIM_feature_ssim_s_score:0.990533, SSIM_score:0.989553
+example_3_78_src11_hrc00_640x480_yuv422p_vs_src_11_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997149, SSIM_feature_ssim_l_score:0.999980, SSIM_feature_ssim_s_score:0.979452, SSIM_score:0.976652
+example_3_79_src11_hrc00_640x480_yuv422p_vs_src_11_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.992107, SSIM_feature_ssim_l_score:0.999955, SSIM_feature_ssim_s_score:0.959214, SSIM_score:0.951720
+example_3_80_src11_hrc00_640x480_yuv422p_vs_src_11_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.984821, SSIM_feature_ssim_l_score:0.999945, SSIM_feature_ssim_s_score:0.945100, SSIM_score:0.931262
+example_3_81_src11_hrc00_640x480_yuv422p_vs_src_11_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999040, SSIM_feature_ssim_l_score:0.999993, SSIM_feature_ssim_s_score:0.990678, SSIM_score:0.989720
+example_4_82_src13_hrc00_640x480_yuv422p_vs_src13_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_4_83_src13_hrc00_640x480_yuv422p_vs_src_13_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998637, SSIM_feature_ssim_l_score:0.999986, SSIM_feature_ssim_s_score:0.987201, SSIM_score:0.985843
+example_4_84_src13_hrc00_640x480_yuv422p_vs_src_13_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995329, SSIM_feature_ssim_l_score:0.999967, SSIM_feature_ssim_s_score:0.971702, SSIM_score:0.967159
+example_4_85_src13_hrc00_640x480_yuv422p_vs_src_13_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.983950, SSIM_feature_ssim_l_score:0.999914, SSIM_feature_ssim_s_score:0.937309, SSIM_score:0.922430
+example_4_86_src13_hrc00_640x480_yuv422p_vs_src_13_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.956707, SSIM_feature_ssim_l_score:0.999823, SSIM_feature_ssim_s_score:0.888250, SSIM_score:0.851244
+example_4_87_src13_hrc00_640x480_yuv422p_vs_src_13_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998628, SSIM_feature_ssim_l_score:0.999986, SSIM_feature_ssim_s_score:0.987482, SSIM_score:0.986115
+example_4_88_src13_hrc00_640x480_yuv422p_vs_src_13_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995267, SSIM_feature_ssim_l_score:0.999967, SSIM_feature_ssim_s_score:0.972054, SSIM_score:0.967450
+example_4_89_src13_hrc00_640x480_yuv422p_vs_src_13_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.983069, SSIM_feature_ssim_l_score:0.999913, SSIM_feature_ssim_s_score:0.939049, SSIM_score:0.923343
+example_4_90_src13_hrc00_640x480_yuv422p_vs_src_13_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.950905, SSIM_feature_ssim_l_score:0.999752, SSIM_feature_ssim_s_score:0.887411, SSIM_score:0.845483
+example_4_91_src13_hrc00_640x480_yuv422p_vs_src_13_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.966889, SSIM_feature_ssim_l_score:0.999924, SSIM_feature_ssim_s_score:0.891249, SSIM_score:0.864237
+example_4_92_src13_hrc00_640x480_yuv422p_vs_src_13_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.955637, SSIM_feature_ssim_l_score:0.999885, SSIM_feature_ssim_s_score:0.877826, SSIM_score:0.841991
+example_4_93_src13_hrc00_640x480_yuv422p_vs_src_13_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.925593, SSIM_feature_ssim_l_score:0.999766, SSIM_feature_ssim_s_score:0.859415, SSIM_score:0.800199
+example_4_94_src13_hrc00_640x480_yuv422p_vs_src_13_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995902, SSIM_feature_ssim_l_score:0.999972, SSIM_feature_ssim_s_score:0.970636, SSIM_score:0.966659
+example_4_95_src13_hrc00_640x480_yuv422p_vs_src_13_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.869588, SSIM_feature_ssim_l_score:0.999434, SSIM_feature_ssim_s_score:0.844480, SSIM_score:0.743428
+example_4_96_src13_hrc00_640x480_yuv422p_vs_src_13_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999008, SSIM_feature_ssim_l_score:0.999987, SSIM_feature_ssim_s_score:0.988430, SSIM_score:0.987438
+example_4_97_src13_hrc00_640x480_yuv422p_vs_src_13_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996586, SSIM_feature_ssim_l_score:0.999970, SSIM_feature_ssim_s_score:0.973347, SSIM_score:0.970015
+example_4_98_src13_hrc00_640x480_yuv422p_vs_src_13_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.983972, SSIM_feature_ssim_l_score:0.999917, SSIM_feature_ssim_s_score:0.940541, SSIM_score:0.925667
+example_4_99_src13_hrc00_640x480_yuv422p_vs_src_13_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.946821, SSIM_feature_ssim_l_score:0.999773, SSIM_feature_ssim_s_score:0.891358, SSIM_score:0.846019
+example_4_100_src13_hrc00_640x480_yuv422p_vs_src_13_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.922710, SSIM_feature_ssim_l_score:0.999660, SSIM_feature_ssim_s_score:0.898374, SSIM_score:0.838123
+example_4_101_src13_hrc00_640x480_yuv422p_vs_src_13_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987420, SSIM_feature_ssim_l_score:0.999962, SSIM_feature_ssim_s_score:0.942143, SSIM_score:0.930510
+example_4_102_src13_hrc00_640x480_yuv422p_vs_src_13_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.970863, SSIM_feature_ssim_l_score:0.999958, SSIM_feature_ssim_s_score:0.918616, SSIM_score:0.893129
+example_4_103_src13_hrc00_640x480_yuv422p_vs_src_13_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998602, SSIM_feature_ssim_l_score:0.999986, SSIM_feature_ssim_s_score:0.987382, SSIM_score:0.985990
+example_4_104_src13_hrc00_640x480_yuv422p_vs_src_13_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995660, SSIM_feature_ssim_l_score:0.999966, SSIM_feature_ssim_s_score:0.971094, SSIM_score:0.966872
+example_4_105_src13_hrc00_640x480_yuv422p_vs_src_13_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.986221, SSIM_feature_ssim_l_score:0.999935, SSIM_feature_ssim_s_score:0.935863, SSIM_score:0.923169
+example_4_106_src13_hrc00_640x480_yuv422p_vs_src_13_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.966881, SSIM_feature_ssim_l_score:0.999920, SSIM_feature_ssim_s_score:0.904713, SSIM_score:0.876058
+example_4_107_src13_hrc00_640x480_yuv422p_vs_src_13_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998653, SSIM_feature_ssim_l_score:0.999986, SSIM_feature_ssim_s_score:0.987468, SSIM_score:0.986126
+example_5_108_src02_hrc00_640x480_yuv422p_vs_src02_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_5_109_src02_hrc00_640x480_yuv422p_vs_src_2_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999063, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.992175, SSIM_score:0.991240
+example_5_110_src02_hrc00_640x480_yuv422p_vs_src_2_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997283, SSIM_feature_ssim_l_score:0.999978, SSIM_feature_ssim_s_score:0.983738, SSIM_score:0.981057
+example_5_111_src02_hrc00_640x480_yuv422p_vs_src_2_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.992195, SSIM_feature_ssim_l_score:0.999934, SSIM_feature_ssim_s_score:0.964610, SSIM_score:0.957135
+example_5_112_src02_hrc00_640x480_yuv422p_vs_src_2_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.980735, SSIM_feature_ssim_l_score:0.999862, SSIM_feature_ssim_s_score:0.935181, SSIM_score:0.917932
+example_5_113_src02_hrc00_640x480_yuv422p_vs_src_2_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999056, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.992481, SSIM_score:0.991538
+example_5_114_src02_hrc00_640x480_yuv422p_vs_src_2_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997251, SSIM_feature_ssim_l_score:0.999978, SSIM_feature_ssim_s_score:0.983967, SSIM_score:0.981254
+example_5_115_src02_hrc00_640x480_yuv422p_vs_src_2_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991965, SSIM_feature_ssim_l_score:0.999936, SSIM_feature_ssim_s_score:0.966129, SSIM_score:0.958426
+example_5_116_src02_hrc00_640x480_yuv422p_vs_src_2_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.978332, SSIM_feature_ssim_l_score:0.999805, SSIM_feature_ssim_s_score:0.932301, SSIM_score:0.912830
+example_5_117_src02_hrc00_640x480_yuv422p_vs_src_2_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.985811, SSIM_feature_ssim_l_score:0.999925, SSIM_feature_ssim_s_score:0.939914, SSIM_score:0.927660
+example_5_118_src02_hrc00_640x480_yuv422p_vs_src_2_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.980949, SSIM_feature_ssim_l_score:0.999898, SSIM_feature_ssim_s_score:0.930294, SSIM_score:0.913886
+example_5_119_src02_hrc00_640x480_yuv422p_vs_src_2_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.968982, SSIM_feature_ssim_l_score:0.999809, SSIM_feature_ssim_s_score:0.912752, SSIM_score:0.886433
+example_5_120_src02_hrc00_640x480_yuv422p_vs_src_2_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997518, SSIM_feature_ssim_l_score:0.999982, SSIM_feature_ssim_s_score:0.983265, SSIM_score:0.980823
+example_5_121_src02_hrc00_640x480_yuv422p_vs_src_2_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.948246, SSIM_feature_ssim_l_score:0.999540, SSIM_feature_ssim_s_score:0.888328, SSIM_score:0.845763
+example_5_122_src02_hrc00_640x480_yuv422p_vs_src_2_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999169, SSIM_feature_ssim_l_score:0.999993, SSIM_feature_ssim_s_score:0.992654, SSIM_score:0.991823
+example_5_123_src02_hrc00_640x480_yuv422p_vs_src_2_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997599, SSIM_feature_ssim_l_score:0.999979, SSIM_feature_ssim_s_score:0.984277, SSIM_score:0.981905
+example_5_124_src02_hrc00_640x480_yuv422p_vs_src_2_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.992159, SSIM_feature_ssim_l_score:0.999935, SSIM_feature_ssim_s_score:0.966543, SSIM_score:0.959033
+example_5_125_src02_hrc00_640x480_yuv422p_vs_src_2_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.977527, SSIM_feature_ssim_l_score:0.999810, SSIM_feature_ssim_s_score:0.935912, SSIM_score:0.915799
+example_5_126_src02_hrc00_640x480_yuv422p_vs_src_2_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.968043, SSIM_feature_ssim_l_score:0.999732, SSIM_feature_ssim_s_score:0.928098, SSIM_score:0.901655
+example_5_127_src02_hrc00_640x480_yuv422p_vs_src_2_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.994231, SSIM_feature_ssim_l_score:0.999975, SSIM_feature_ssim_s_score:0.970450, SSIM_score:0.964956
+example_5_128_src02_hrc00_640x480_yuv422p_vs_src_2_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.988102, SSIM_feature_ssim_l_score:0.999970, SSIM_feature_ssim_s_score:0.957533, SSIM_score:0.946778
+example_5_129_src02_hrc00_640x480_yuv422p_vs_src_2_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999044, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.992359, SSIM_score:0.991404
+example_5_130_src02_hrc00_640x480_yuv422p_vs_src_2_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997272, SSIM_feature_ssim_l_score:0.999978, SSIM_feature_ssim_s_score:0.983155, SSIM_score:0.980466
+example_5_131_src02_hrc00_640x480_yuv422p_vs_src_2_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.992972, SSIM_feature_ssim_l_score:0.999952, SSIM_feature_ssim_s_score:0.965357, SSIM_score:0.958655
+example_5_132_src02_hrc00_640x480_yuv422p_vs_src_2_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.985577, SSIM_feature_ssim_l_score:0.999940, SSIM_feature_ssim_s_score:0.948663, SSIM_score:0.935650
+example_5_133_src02_hrc00_640x480_yuv422p_vs_src_2_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999053, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.992481, SSIM_score:0.991535
+example_6_134_src22_ref_640x480_yuv422p_vs_src22_ref_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_6_135_src22_ref_640x480_yuv422p_vs_src_22_hrc25_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.965018, SSIM_feature_ssim_l_score:0.997061, SSIM_feature_ssim_s_score:0.877922, SSIM_score:0.852930
+example_6_136_src22_ref_640x480_yuv422p_vs_src_22_hrc26_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.971609, SSIM_feature_ssim_l_score:0.997947, SSIM_feature_ssim_s_score:0.898387, SSIM_score:0.875467
+example_6_137_src22_ref_640x480_yuv422p_vs_src_22_hrc27_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.976552, SSIM_feature_ssim_l_score:0.998023, SSIM_feature_ssim_s_score:0.909813, SSIM_score:0.890620
+example_7_138_src24_ref_640x480_yuv422p_vs_src24_ref_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_7_139_src24_ref_640x480_yuv422p_vs_src_24_hrc25_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990158, SSIM_feature_ssim_l_score:0.999533, SSIM_feature_ssim_s_score:0.958402, SSIM_score:0.950165
+example_7_140_src24_ref_640x480_yuv422p_vs_src_24_hrc26_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989531, SSIM_feature_ssim_l_score:0.999497, SSIM_feature_ssim_s_score:0.957075, SSIM_score:0.948163
+example_7_141_src24_ref_640x480_yuv422p_vs_src_24_hrc27_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991115, SSIM_feature_ssim_l_score:0.999545, SSIM_feature_ssim_s_score:0.958843, SSIM_score:0.951472
+example_8_142_src25_ref_640x480_yuv422p_vs_src25_ref_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_8_143_src25_ref_640x480_yuv422p_vs_src_25_hrc25_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991765, SSIM_feature_ssim_l_score:0.999824, SSIM_feature_ssim_s_score:0.883199, SSIM_score:0.876508
+example_8_144_src25_ref_640x480_yuv422p_vs_src_25_hrc26_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.985080, SSIM_feature_ssim_l_score:0.999725, SSIM_feature_ssim_s_score:0.872299, SSIM_score:0.861548
+example_8_145_src25_ref_640x480_yuv422p_vs_src_25_hrc27_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991767, SSIM_feature_ssim_l_score:0.999824, SSIM_feature_ssim_s_score:0.883169, SSIM_score:0.876479
+example_9_146_src27_ref_640x480_yuv422p_vs_src27_ref_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_9_147_src27_ref_640x480_yuv422p_vs_src_27_hrc25_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.993352, SSIM_feature_ssim_l_score:0.999494, SSIM_feature_ssim_s_score:0.947258, SSIM_score:0.941504
+example_9_148_src27_ref_640x480_yuv422p_vs_src_27_hrc26_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.992869, SSIM_feature_ssim_l_score:0.999413, SSIM_feature_ssim_s_score:0.945786, SSIM_score:0.939603
+example_9_149_src27_ref_640x480_yuv422p_vs_src_27_hrc27_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.993780, SSIM_feature_ssim_l_score:0.999511, SSIM_feature_ssim_s_score:0.947229, SSIM_score:0.941870
+example_10_150_src28_ref_640x480_yuv422p_vs_src28_ref_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_10_151_src28_ref_640x480_yuv422p_vs_src_28_hrc25_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.993369, SSIM_feature_ssim_l_score:0.999639, SSIM_feature_ssim_s_score:0.953866, SSIM_score:0.948368
+example_10_152_src28_ref_640x480_yuv422p_vs_src_28_hrc26_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990133, SSIM_feature_ssim_l_score:0.999534, SSIM_feature_ssim_s_score:0.946891, SSIM_score:0.938875
+example_10_153_src28_ref_640x480_yuv422p_vs_src_28_hrc27_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.993286, SSIM_feature_ssim_l_score:0.999638, SSIM_feature_ssim_s_score:0.952878, SSIM_score:0.947308
+example_11_154_src29_ref_640x480_yuv422p_vs_src29_ref_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_11_155_src29_ref_640x480_yuv422p_vs_src_29_hrc25_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999281, SSIM_feature_ssim_l_score:0.999982, SSIM_feature_ssim_s_score:0.992571, SSIM_score:0.991902
+example_11_156_src29_ref_640x480_yuv422p_vs_src_29_hrc26_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997385, SSIM_feature_ssim_l_score:0.999972, SSIM_feature_ssim_s_score:0.985264, SSIM_score:0.982988
+example_11_157_src29_ref_640x480_yuv422p_vs_src_29_hrc27_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999183, SSIM_feature_ssim_l_score:0.999982, SSIM_feature_ssim_s_score:0.991741, SSIM_score:0.990974
+example_12_158_src03_hrc00_640x480_yuv422p_vs_src03_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_12_159_src03_hrc00_640x480_yuv422p_vs_src_3_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998924, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.989711, SSIM_score:0.988639
+example_12_160_src03_hrc00_640x480_yuv422p_vs_src_3_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996663, SSIM_feature_ssim_l_score:0.999972, SSIM_feature_ssim_s_score:0.977329, SSIM_score:0.974055
+example_12_161_src03_hrc00_640x480_yuv422p_vs_src_3_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989767, SSIM_feature_ssim_l_score:0.999918, SSIM_feature_ssim_s_score:0.949931, SSIM_score:0.940311
+example_12_162_src03_hrc00_640x480_yuv422p_vs_src_3_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.968532, SSIM_feature_ssim_l_score:0.999818, SSIM_feature_ssim_s_score:0.905732, SSIM_score:0.879007
+example_12_163_src03_hrc00_640x480_yuv422p_vs_src_3_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998954, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.990151, SSIM_score:0.989107
+example_12_164_src03_hrc00_640x480_yuv422p_vs_src_3_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996710, SSIM_feature_ssim_l_score:0.999973, SSIM_feature_ssim_s_score:0.977666, SSIM_score:0.974438
+example_12_165_src03_hrc00_640x480_yuv422p_vs_src_3_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989401, SSIM_feature_ssim_l_score:0.999915, SSIM_feature_ssim_s_score:0.951962, SSIM_score:0.941978
+example_12_166_src03_hrc00_640x480_yuv422p_vs_src_3_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.967194, SSIM_feature_ssim_l_score:0.999751, SSIM_feature_ssim_s_score:0.904796, SSIM_score:0.876697
+example_12_167_src03_hrc00_640x480_yuv422p_vs_src_3_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.978030, SSIM_feature_ssim_l_score:0.999910, SSIM_feature_ssim_s_score:0.914650, SSIM_score:0.896227
+example_12_168_src03_hrc00_640x480_yuv422p_vs_src_3_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.970828, SSIM_feature_ssim_l_score:0.999872, SSIM_feature_ssim_s_score:0.902886, SSIM_score:0.878588
+example_12_169_src03_hrc00_640x480_yuv422p_vs_src_3_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.952901, SSIM_feature_ssim_l_score:0.999761, SSIM_feature_ssim_s_score:0.882025, SSIM_score:0.844001
+example_12_170_src03_hrc00_640x480_yuv422p_vs_src_3_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996888, SSIM_feature_ssim_l_score:0.999979, SSIM_feature_ssim_s_score:0.976767, SSIM_score:0.973723
+example_12_171_src03_hrc00_640x480_yuv422p_vs_src_3_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.918832, SSIM_feature_ssim_l_score:0.999439, SSIM_feature_ssim_s_score:0.858073, SSIM_score:0.795520
+example_12_172_src03_hrc00_640x480_yuv422p_vs_src_3_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999249, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.991075, SSIM_score:0.990323
+example_12_173_src03_hrc00_640x480_yuv422p_vs_src_3_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997493, SSIM_feature_ssim_l_score:0.999976, SSIM_feature_ssim_s_score:0.979268, SSIM_score:0.976800
+example_12_174_src03_hrc00_640x480_yuv422p_vs_src_3_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991350, SSIM_feature_ssim_l_score:0.999930, SSIM_feature_ssim_s_score:0.953311, SSIM_score:0.945190
+example_12_175_src03_hrc00_640x480_yuv422p_vs_src_3_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.965943, SSIM_feature_ssim_l_score:0.999762, SSIM_feature_ssim_s_score:0.906305, SSIM_score:0.877586
+example_12_176_src03_hrc00_640x480_yuv422p_vs_src_3_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.950696, SSIM_feature_ssim_l_score:0.999658, SSIM_feature_ssim_s_score:0.906901, SSIM_score:0.868943
+example_12_177_src03_hrc00_640x480_yuv422p_vs_src_3_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991277, SSIM_feature_ssim_l_score:0.999969, SSIM_feature_ssim_s_score:0.955060, SSIM_score:0.946922
+example_12_178_src03_hrc00_640x480_yuv422p_vs_src_3_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.979744, SSIM_feature_ssim_l_score:0.999965, SSIM_feature_ssim_s_score:0.936091, SSIM_score:0.918225
+example_12_179_src03_hrc00_640x480_yuv422p_vs_src_3_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998921, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.989947, SSIM_score:0.988871
+example_12_180_src03_hrc00_640x480_yuv422p_vs_src_3_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996748, SSIM_feature_ssim_l_score:0.999972, SSIM_feature_ssim_s_score:0.976646, SSIM_score:0.973456
+example_12_181_src03_hrc00_640x480_yuv422p_vs_src_3_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990155, SSIM_feature_ssim_l_score:0.999939, SSIM_feature_ssim_s_score:0.949564, SSIM_score:0.940359
+example_12_182_src03_hrc00_640x480_yuv422p_vs_src_3_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.974770, SSIM_feature_ssim_l_score:0.999922, SSIM_feature_ssim_s_score:0.923547, SSIM_score:0.901591
+example_12_183_src03_hrc00_640x480_yuv422p_vs_src_3_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998945, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.990103, SSIM_score:0.989050
+example_13_184_src31_ref_640x480_yuv422p_vs_src31_ref_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_13_185_src31_ref_640x480_yuv422p_vs_src_31_hrc25_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987396, SSIM_feature_ssim_l_score:0.999196, SSIM_feature_ssim_s_score:0.947844, SSIM_score:0.938705
+example_13_186_src31_ref_640x480_yuv422p_vs_src_31_hrc26_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989961, SSIM_feature_ssim_l_score:0.999606, SSIM_feature_ssim_s_score:0.957111, SSIM_score:0.948592
+example_13_187_src31_ref_640x480_yuv422p_vs_src_31_hrc27_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.993886, SSIM_feature_ssim_l_score:0.999647, SSIM_feature_ssim_s_score:0.968220, SSIM_score:0.962915
+example_15_191_src04_hrc00_640x480_yuv422p_vs_src04_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_15_192_src04_hrc00_640x480_yuv422p_vs_src_4_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999342, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.995644, SSIM_score:0.994982
+example_15_193_src04_hrc00_640x480_yuv422p_vs_src_4_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998033, SSIM_feature_ssim_l_score:0.999977, SSIM_feature_ssim_s_score:0.989977, SSIM_score:0.988016
+example_15_194_src04_hrc00_640x480_yuv422p_vs_src_4_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995498, SSIM_feature_ssim_l_score:0.999934, SSIM_feature_ssim_s_score:0.979041, SSIM_score:0.974622
+example_15_195_src04_hrc00_640x480_yuv422p_vs_src_4_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991890, SSIM_feature_ssim_l_score:0.999860, SSIM_feature_ssim_s_score:0.966496, SSIM_score:0.958733
+example_15_196_src04_hrc00_640x480_yuv422p_vs_src_4_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999269, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.995357, SSIM_score:0.994623
+example_15_197_src04_hrc00_640x480_yuv422p_vs_src_4_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997952, SSIM_feature_ssim_l_score:0.999977, SSIM_feature_ssim_s_score:0.989867, SSIM_score:0.987826
+example_15_198_src04_hrc00_640x480_yuv422p_vs_src_4_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.994844, SSIM_feature_ssim_l_score:0.999931, SSIM_feature_ssim_s_score:0.978897, SSIM_score:0.973844
+example_15_199_src04_hrc00_640x480_yuv422p_vs_src_4_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.988785, SSIM_feature_ssim_l_score:0.999800, SSIM_feature_ssim_s_score:0.958546, SSIM_score:0.947976
+example_15_200_src04_hrc00_640x480_yuv422p_vs_src_4_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997556, SSIM_feature_ssim_l_score:0.999932, SSIM_feature_ssim_s_score:0.980255, SSIM_score:0.977827
+example_15_201_src04_hrc00_640x480_yuv422p_vs_src_4_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995308, SSIM_feature_ssim_l_score:0.999903, SSIM_feature_ssim_s_score:0.972615, SSIM_score:0.968026
+example_15_202_src04_hrc00_640x480_yuv422p_vs_src_4_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989642, SSIM_feature_ssim_l_score:0.999812, SSIM_feature_ssim_s_score:0.957104, SSIM_score:0.947283
+example_15_203_src04_hrc00_640x480_yuv422p_vs_src_4_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998636, SSIM_feature_ssim_l_score:0.999983, SSIM_feature_ssim_s_score:0.992169, SSIM_score:0.990806
+example_15_204_src04_hrc00_640x480_yuv422p_vs_src_4_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.978151, SSIM_feature_ssim_l_score:0.999561, SSIM_feature_ssim_s_score:0.933784, SSIM_score:0.914182
+example_15_205_src04_hrc00_640x480_yuv422p_vs_src_4_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999279, SSIM_feature_ssim_l_score:0.999993, SSIM_feature_ssim_s_score:0.995482, SSIM_score:0.994759
+example_15_206_src04_hrc00_640x480_yuv422p_vs_src_4_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998059, SSIM_feature_ssim_l_score:0.999978, SSIM_feature_ssim_s_score:0.990141, SSIM_score:0.988207
+example_15_207_src04_hrc00_640x480_yuv422p_vs_src_4_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.994608, SSIM_feature_ssim_l_score:0.999929, SSIM_feature_ssim_s_score:0.978383, SSIM_score:0.973109
+example_15_208_src04_hrc00_640x480_yuv422p_vs_src_4_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.986295, SSIM_feature_ssim_l_score:0.999795, SSIM_feature_ssim_s_score:0.958631, SSIM_score:0.945761
+example_15_209_src04_hrc00_640x480_yuv422p_vs_src_4_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.985128, SSIM_feature_ssim_l_score:0.999711, SSIM_feature_ssim_s_score:0.953215, SSIM_score:0.939854
+example_15_210_src04_hrc00_640x480_yuv422p_vs_src_4_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998191, SSIM_feature_ssim_l_score:0.999979, SSIM_feature_ssim_s_score:0.990876, SSIM_score:0.989074
+example_15_211_src04_hrc00_640x480_yuv422p_vs_src_4_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997723, SSIM_feature_ssim_l_score:0.999975, SSIM_feature_ssim_s_score:0.989606, SSIM_score:0.987348
+example_15_212_src04_hrc00_640x480_yuv422p_vs_src_4_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999285, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.995459, SSIM_score:0.994741
+example_15_213_src04_hrc00_640x480_yuv422p_vs_src_4_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998276, SSIM_feature_ssim_l_score:0.999978, SSIM_feature_ssim_s_score:0.990306, SSIM_score:0.988586
+example_15_214_src04_hrc00_640x480_yuv422p_vs_src_4_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996542, SSIM_feature_ssim_l_score:0.999952, SSIM_feature_ssim_s_score:0.983296, SSIM_score:0.979885
+example_15_215_src04_hrc00_640x480_yuv422p_vs_src_4_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.995643, SSIM_feature_ssim_l_score:0.999945, SSIM_feature_ssim_s_score:0.981888, SSIM_score:0.977609
+example_15_216_src04_hrc00_640x480_yuv422p_vs_src_4_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999268, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.995384, SSIM_score:0.994648
+example_16_217_src05_hrc00_640x480_yuv422p_vs_src_5_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996643, SSIM_feature_ssim_l_score:0.999978, SSIM_feature_ssim_s_score:0.976857, SSIM_score:0.973600
+example_16_218_src05_hrc00_640x480_yuv422p_vs_src_5_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.986951, SSIM_feature_ssim_l_score:0.999938, SSIM_feature_ssim_s_score:0.949861, SSIM_score:0.937793
+example_16_219_src05_hrc00_640x480_yuv422p_vs_src_5_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.963185, SSIM_feature_ssim_l_score:0.999824, SSIM_feature_ssim_s_score:0.911542, SSIM_score:0.879659
+example_16_220_src05_hrc00_640x480_yuv422p_vs_src_5_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.984606, SSIM_feature_ssim_l_score:0.999948, SSIM_feature_ssim_s_score:0.925929, SSIM_score:0.912514
+example_16_221_src05_hrc00_640x480_yuv422p_vs_src_5_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.977584, SSIM_feature_ssim_l_score:0.999924, SSIM_feature_ssim_s_score:0.915637, SSIM_score:0.896286
+example_16_222_src05_hrc00_640x480_yuv422p_vs_src_5_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.960211, SSIM_feature_ssim_l_score:0.999846, SSIM_feature_ssim_s_score:0.900124, SSIM_score:0.866336
+example_16_223_src05_hrc00_640x480_yuv422p_vs_src_5_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997028, SSIM_feature_ssim_l_score:0.999982, SSIM_feature_ssim_s_score:0.975807, SSIM_score:0.972933
+example_16_224_src05_hrc00_640x480_yuv422p_vs_src_5_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.934018, SSIM_feature_ssim_l_score:0.999639, SSIM_feature_ssim_s_score:0.884570, SSIM_score:0.829878
+example_16_225_src05_hrc00_640x480_yuv422p_vs_src_5_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999329, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.990967, SSIM_score:0.990296
+example_16_226_src05_hrc00_640x480_yuv422p_vs_src_5_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997291, SSIM_feature_ssim_l_score:0.999976, SSIM_feature_ssim_s_score:0.978337, SSIM_score:0.975695
+example_16_227_src05_hrc00_640x480_yuv422p_vs_src_5_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987976, SSIM_feature_ssim_l_score:0.999926, SSIM_feature_ssim_s_score:0.952366, SSIM_score:0.941195
+example_16_228_src05_hrc00_640x480_yuv422p_vs_src_5_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.962275, SSIM_feature_ssim_l_score:0.999796, SSIM_feature_ssim_s_score:0.915058, SSIM_score:0.882197
+example_16_229_src05_hrc00_640x480_yuv422p_vs_src05_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_16_230_src05_hrc00_640x480_yuv422p_vs_src_5_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999111, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.989853, SSIM_score:0.988968
+example_16_231_src05_hrc00_640x480_yuv422p_vs_src_5_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996687, SSIM_feature_ssim_l_score:0.999978, SSIM_feature_ssim_s_score:0.976708, SSIM_score:0.973494
+example_16_232_src05_hrc00_640x480_yuv422p_vs_src_5_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987896, SSIM_feature_ssim_l_score:0.999942, SSIM_feature_ssim_s_score:0.948770, SSIM_score:0.937587
+example_16_233_src05_hrc00_640x480_yuv422p_vs_src_5_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.968834, SSIM_feature_ssim_l_score:0.999877, SSIM_feature_ssim_s_score:0.913580, SSIM_score:0.886522
+example_16_234_src05_hrc00_640x480_yuv422p_vs_src_5_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999099, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.990112, SSIM_score:0.989215
+example_16_235_src05_hrc00_640x480_yuv422p_vs_src_5_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.953623, SSIM_feature_ssim_l_score:0.999763, SSIM_feature_ssim_s_score:0.916968, SSIM_score:0.878543
+example_16_236_src05_hrc00_640x480_yuv422p_vs_src_5_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989897, SSIM_feature_ssim_l_score:0.999975, SSIM_feature_ssim_s_score:0.953537, SSIM_score:0.944207
+example_16_237_src05_hrc00_640x480_yuv422p_vs_src_5_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.981213, SSIM_feature_ssim_l_score:0.999973, SSIM_feature_ssim_s_score:0.940058, SSIM_score:0.923225
+example_16_238_src05_hrc00_640x480_yuv422p_vs_src_5_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999091, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.990016, SSIM_score:0.989111
+example_16_239_src05_hrc00_640x480_yuv422p_vs_src_5_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996908, SSIM_feature_ssim_l_score:0.999979, SSIM_feature_ssim_s_score:0.976253, SSIM_score:0.973254
+example_16_240_src05_hrc00_640x480_yuv422p_vs_src_5_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989006, SSIM_feature_ssim_l_score:0.999956, SSIM_feature_ssim_s_score:0.948459, SSIM_score:0.938334
+example_16_241_src05_hrc00_640x480_yuv422p_vs_src_5_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.977379, SSIM_feature_ssim_l_score:0.999948, SSIM_feature_ssim_s_score:0.928991, SSIM_score:0.908985
+example_16_242_src05_hrc00_640x480_yuv422p_vs_src_5_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999097, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.990117, SSIM_score:0.989218
+example_17_243_src07_hrc00_640x480_yuv422p_vs_src07_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_17_244_src07_hrc00_640x480_yuv422p_vs_src_7_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998931, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.992046, SSIM_score:0.990983
+example_17_245_src07_hrc00_640x480_yuv422p_vs_src_7_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996654, SSIM_feature_ssim_l_score:0.999977, SSIM_feature_ssim_s_score:0.983796, SSIM_score:0.980518
+example_17_246_src07_hrc00_640x480_yuv422p_vs_src_7_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990499, SSIM_feature_ssim_l_score:0.999938, SSIM_feature_ssim_s_score:0.969313, SSIM_score:0.960281
+example_17_247_src07_hrc00_640x480_yuv422p_vs_src_7_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.980998, SSIM_feature_ssim_l_score:0.999878, SSIM_feature_ssim_s_score:0.952247, SSIM_score:0.934966
+example_17_248_src07_hrc00_640x480_yuv422p_vs_src_7_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998911, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.992269, SSIM_score:0.991184
+example_17_249_src07_hrc00_640x480_yuv422p_vs_src_7_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996522, SSIM_feature_ssim_l_score:0.999976, SSIM_feature_ssim_s_score:0.983981, SSIM_score:0.980574
+example_17_250_src07_hrc00_640x480_yuv422p_vs_src_7_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990369, SSIM_feature_ssim_l_score:0.999936, SSIM_feature_ssim_s_score:0.970211, SSIM_score:0.961070
+example_17_251_src07_hrc00_640x480_yuv422p_vs_src_7_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.978630, SSIM_feature_ssim_l_score:0.999823, SSIM_feature_ssim_s_score:0.949407, SSIM_score:0.930101
+example_17_252_src07_hrc00_640x480_yuv422p_vs_src_7_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989230, SSIM_feature_ssim_l_score:0.999938, SSIM_feature_ssim_s_score:0.957790, SSIM_score:0.948182
+example_17_253_src07_hrc00_640x480_yuv422p_vs_src_7_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.984538, SSIM_feature_ssim_l_score:0.999910, SSIM_feature_ssim_s_score:0.950819, SSIM_score:0.937098
+example_17_254_src07_hrc00_640x480_yuv422p_vs_src_7_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.973942, SSIM_feature_ssim_l_score:0.999833, SSIM_feature_ssim_s_score:0.942074, SSIM_score:0.919180
+example_17_255_src07_hrc00_640x480_yuv422p_vs_src_7_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997139, SSIM_feature_ssim_l_score:0.999983, SSIM_feature_ssim_s_score:0.983409, SSIM_score:0.980613
+example_17_256_src07_hrc00_640x480_yuv422p_vs_src_7_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.959938, SSIM_feature_ssim_l_score:0.999636, SSIM_feature_ssim_s_score:0.929969, SSIM_score:0.895867
+example_17_257_src07_hrc00_640x480_yuv422p_vs_src_7_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999031, SSIM_feature_ssim_l_score:0.999992, SSIM_feature_ssim_s_score:0.992676, SSIM_score:0.991710
+example_17_258_src07_hrc00_640x480_yuv422p_vs_src_7_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996645, SSIM_feature_ssim_l_score:0.999977, SSIM_feature_ssim_s_score:0.984284, SSIM_score:0.980995
+example_17_259_src07_hrc00_640x480_yuv422p_vs_src_7_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989818, SSIM_feature_ssim_l_score:0.999937, SSIM_feature_ssim_s_score:0.970162, SSIM_score:0.960503
+example_17_260_src07_hrc00_640x480_yuv422p_vs_src_7_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.975542, SSIM_feature_ssim_l_score:0.999835, SSIM_feature_ssim_s_score:0.952389, SSIM_score:0.930297
+example_17_261_src07_hrc00_640x480_yuv422p_vs_src_7_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982041, SSIM_feature_ssim_l_score:0.999810, SSIM_feature_ssim_s_score:0.960546, SSIM_score:0.944564
+example_17_262_src07_hrc00_640x480_yuv422p_vs_src_7_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.993627, SSIM_feature_ssim_l_score:0.999978, SSIM_feature_ssim_s_score:0.973755, SSIM_score:0.967713
+example_17_263_src07_hrc00_640x480_yuv422p_vs_src_7_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.989991, SSIM_feature_ssim_l_score:0.999974, SSIM_feature_ssim_s_score:0.967692, SSIM_score:0.958455
+example_17_264_src07_hrc00_640x480_yuv422p_vs_src_7_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998940, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.992148, SSIM_score:0.991092
+example_17_265_src07_hrc00_640x480_yuv422p_vs_src_7_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996906, SSIM_feature_ssim_l_score:0.999978, SSIM_feature_ssim_s_score:0.983413, SSIM_score:0.980383
+example_17_266_src07_hrc00_640x480_yuv422p_vs_src_7_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.992231, SSIM_feature_ssim_l_score:0.999955, SSIM_feature_ssim_s_score:0.969264, SSIM_score:0.961907
+example_17_267_src07_hrc00_640x480_yuv422p_vs_src_7_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987137, SSIM_feature_ssim_l_score:0.999946, SSIM_feature_ssim_s_score:0.960279, SSIM_score:0.948491
+example_17_268_src07_hrc00_640x480_yuv422p_vs_src_7_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998924, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.992266, SSIM_score:0.991195
+example_18_269_src08_hrc00_640x480_yuv422p_vs_src08_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_18_270_src08_hrc00_640x480_yuv422p_vs_src_8_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999301, SSIM_feature_ssim_l_score:0.999996, SSIM_feature_ssim_s_score:0.994283, SSIM_score:0.993587
+example_18_271_src08_hrc00_640x480_yuv422p_vs_src_8_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997900, SSIM_feature_ssim_l_score:0.999989, SSIM_feature_ssim_s_score:0.987865, SSIM_score:0.985805
+example_18_272_src08_hrc00_640x480_yuv422p_vs_src_8_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.993284, SSIM_feature_ssim_l_score:0.999970, SSIM_feature_ssim_s_score:0.974377, SSIM_score:0.968033
+example_18_273_src08_hrc00_640x480_yuv422p_vs_src_8_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.984520, SSIM_feature_ssim_l_score:0.999936, SSIM_feature_ssim_s_score:0.957859, SSIM_score:0.943898
+example_18_274_src08_hrc00_640x480_yuv422p_vs_src_8_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999310, SSIM_feature_ssim_l_score:0.999995, SSIM_feature_ssim_s_score:0.994469, SSIM_score:0.993781
+example_18_275_src08_hrc00_640x480_yuv422p_vs_src_8_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997859, SSIM_feature_ssim_l_score:0.999988, SSIM_feature_ssim_s_score:0.987987, SSIM_score:0.985887
+example_18_276_src08_hrc00_640x480_yuv422p_vs_src_8_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.992972, SSIM_feature_ssim_l_score:0.999967, SSIM_feature_ssim_s_score:0.975210, SSIM_score:0.968561
+example_18_277_src08_hrc00_640x480_yuv422p_vs_src_8_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982370, SSIM_feature_ssim_l_score:0.999907, SSIM_feature_ssim_s_score:0.956603, SSIM_score:0.940692
+example_18_278_src08_hrc00_640x480_yuv422p_vs_src_8_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991312, SSIM_feature_ssim_l_score:0.999966, SSIM_feature_ssim_s_score:0.962507, SSIM_score:0.954805
+example_18_279_src08_hrc00_640x480_yuv422p_vs_src_8_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987387, SSIM_feature_ssim_l_score:0.999952, SSIM_feature_ssim_s_score:0.956260, SSIM_score:0.945097
+example_18_280_src08_hrc00_640x480_yuv422p_vs_src_8_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.978449, SSIM_feature_ssim_l_score:0.999913, SSIM_feature_ssim_s_score:0.946663, SSIM_score:0.927737
+example_18_281_src08_hrc00_640x480_yuv422p_vs_src_8_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998150, SSIM_feature_ssim_l_score:0.999991, SSIM_feature_ssim_s_score:0.987491, SSIM_score:0.985680
+example_18_282_src08_hrc00_640x480_yuv422p_vs_src_8_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.966299, SSIM_feature_ssim_l_score:0.999789, SSIM_feature_ssim_s_score:0.933720, SSIM_score:0.905050
+example_18_283_src08_hrc00_640x480_yuv422p_vs_src_8_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999344, SSIM_feature_ssim_l_score:0.999996, SSIM_feature_ssim_s_score:0.993955, SSIM_score:0.993303
+example_18_284_src08_hrc00_640x480_yuv422p_vs_src_8_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997995, SSIM_feature_ssim_l_score:0.999989, SSIM_feature_ssim_s_score:0.987337, SSIM_score:0.985373
+example_18_285_src08_hrc00_640x480_yuv422p_vs_src_8_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.992241, SSIM_feature_ssim_l_score:0.999968, SSIM_feature_ssim_s_score:0.974181, SSIM_score:0.966837
+example_18_286_src08_hrc00_640x480_yuv422p_vs_src_8_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.980998, SSIM_feature_ssim_l_score:0.999903, SSIM_feature_ssim_s_score:0.956866, SSIM_score:0.939738
+example_18_287_src08_hrc00_640x480_yuv422p_vs_src_8_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982573, SSIM_feature_ssim_l_score:0.999869, SSIM_feature_ssim_s_score:0.958214, SSIM_score:0.943111
+example_18_288_src08_hrc00_640x480_yuv422p_vs_src_8_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.994985, SSIM_feature_ssim_l_score:0.999987, SSIM_feature_ssim_s_score:0.977707, SSIM_score:0.972983
+example_18_289_src08_hrc00_640x480_yuv422p_vs_src_8_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991385, SSIM_feature_ssim_l_score:0.999985, SSIM_feature_ssim_s_score:0.971655, SSIM_score:0.963769
+example_18_290_src08_hrc00_640x480_yuv422p_vs_src_8_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999283, SSIM_feature_ssim_l_score:0.999995, SSIM_feature_ssim_s_score:0.994381, SSIM_score:0.993666
+example_18_291_src08_hrc00_640x480_yuv422p_vs_src_8_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997993, SSIM_feature_ssim_l_score:0.999989, SSIM_feature_ssim_s_score:0.987499, SSIM_score:0.985531
+example_18_292_src08_hrc00_640x480_yuv422p_vs_src_8_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.994271, SSIM_feature_ssim_l_score:0.999977, SSIM_feature_ssim_s_score:0.974443, SSIM_score:0.969049
+example_18_293_src08_hrc00_640x480_yuv422p_vs_src_8_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.988984, SSIM_feature_ssim_l_score:0.999972, SSIM_feature_ssim_s_score:0.965290, SSIM_score:0.955276
+example_18_294_src08_hrc00_640x480_yuv422p_vs_src_8_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.999308, SSIM_feature_ssim_l_score:0.999995, SSIM_feature_ssim_s_score:0.994449, SSIM_score:0.993759
+example_19_295_src09_hrc00_640x480_yuv422p_vs_src09_hrc00_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+example_19_296_src09_hrc00_640x480_yuv422p_vs_src_9_hrc1_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998716, SSIM_feature_ssim_l_score:0.999989, SSIM_feature_ssim_s_score:0.991401, SSIM_score:0.990118
+example_19_297_src09_hrc00_640x480_yuv422p_vs_src_9_hrc10_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996680, SSIM_feature_ssim_l_score:0.999972, SSIM_feature_ssim_s_score:0.983794, SSIM_score:0.980521
+example_19_298_src09_hrc00_640x480_yuv422p_vs_src_9_hrc11_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991230, SSIM_feature_ssim_l_score:0.999925, SSIM_feature_ssim_s_score:0.969077, SSIM_score:0.960701
+example_19_299_src09_hrc00_640x480_yuv422p_vs_src_9_hrc12_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.980869, SSIM_feature_ssim_l_score:0.999866, SSIM_feature_ssim_s_score:0.952386, SSIM_score:0.935086
+example_19_300_src09_hrc00_640x480_yuv422p_vs_src_9_hrc13_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998723, SSIM_feature_ssim_l_score:0.999989, SSIM_feature_ssim_s_score:0.991828, SSIM_score:0.990552
+example_19_301_src09_hrc00_640x480_yuv422p_vs_src_9_hrc14_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996684, SSIM_feature_ssim_l_score:0.999973, SSIM_feature_ssim_s_score:0.983891, SSIM_score:0.980626
+example_19_302_src09_hrc00_640x480_yuv422p_vs_src_9_hrc15_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990659, SSIM_feature_ssim_l_score:0.999923, SSIM_feature_ssim_s_score:0.970441, SSIM_score:0.961520
+example_19_303_src09_hrc00_640x480_yuv422p_vs_src_9_hrc16_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.976555, SSIM_feature_ssim_l_score:0.999809, SSIM_feature_ssim_s_score:0.951934, SSIM_score:0.930704
+example_19_304_src09_hrc00_640x480_yuv422p_vs_src_9_hrc17_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.987675, SSIM_feature_ssim_l_score:0.999945, SSIM_feature_ssim_s_score:0.954972, SSIM_score:0.944340
+example_19_305_src09_hrc00_640x480_yuv422p_vs_src_9_hrc18_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.982538, SSIM_feature_ssim_l_score:0.999917, SSIM_feature_ssim_s_score:0.948534, SSIM_score:0.933471
+example_19_306_src09_hrc00_640x480_yuv422p_vs_src_9_hrc19_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.969030, SSIM_feature_ssim_l_score:0.999827, SSIM_feature_ssim_s_score:0.941028, SSIM_score:0.914671
+example_19_307_src09_hrc00_640x480_yuv422p_vs_src_9_hrc2_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997411, SSIM_feature_ssim_l_score:0.999979, SSIM_feature_ssim_s_score:0.983418, SSIM_score:0.980872
+example_19_308_src09_hrc00_640x480_yuv422p_vs_src_9_hrc20_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.944857, SSIM_feature_ssim_l_score:0.999611, SSIM_feature_ssim_s_score:0.939321, SSIM_score:0.892653
+example_19_309_src09_hrc00_640x480_yuv422p_vs_src_9_hrc21_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998857, SSIM_feature_ssim_l_score:0.999990, SSIM_feature_ssim_s_score:0.991895, SSIM_score:0.990752
+example_19_310_src09_hrc00_640x480_yuv422p_vs_src_9_hrc22_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.997081, SSIM_feature_ssim_l_score:0.999977, SSIM_feature_ssim_s_score:0.984324, SSIM_score:0.981447
+example_19_311_src09_hrc00_640x480_yuv422p_vs_src_9_hrc23_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.991093, SSIM_feature_ssim_l_score:0.999931, SSIM_feature_ssim_s_score:0.971248, SSIM_score:0.962751
+example_19_312_src09_hrc00_640x480_yuv422p_vs_src_9_hrc24_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.976961, SSIM_feature_ssim_l_score:0.999832, SSIM_feature_ssim_s_score:0.953975, SSIM_score:0.933144
+example_19_313_src09_hrc00_640x480_yuv422p_vs_src_9_hrc28_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.966689, SSIM_feature_ssim_l_score:0.999764, SSIM_feature_ssim_s_score:0.958336, SSIM_score:0.929900
+example_19_314_src09_hrc00_640x480_yuv422p_vs_src_9_hrc3_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.994256, SSIM_feature_ssim_l_score:0.999974, SSIM_feature_ssim_s_score:0.973409, SSIM_score:0.967959
+example_19_315_src09_hrc00_640x480_yuv422p_vs_src_9_hrc4_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.990060, SSIM_feature_ssim_l_score:0.999972, SSIM_feature_ssim_s_score:0.966075, SSIM_score:0.957104
+example_19_316_src09_hrc00_640x480_yuv422p_vs_src_9_hrc5_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998649, SSIM_feature_ssim_l_score:0.999990, SSIM_feature_ssim_s_score:0.991717, SSIM_score:0.990367
+example_19_317_src09_hrc00_640x480_yuv422p_vs_src_9_hrc6_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.996959, SSIM_feature_ssim_l_score:0.999975, SSIM_feature_ssim_s_score:0.983228, SSIM_score:0.980232
+example_19_318_src09_hrc00_640x480_yuv422p_vs_src_9_hrc7_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.992563, SSIM_feature_ssim_l_score:0.999950, SSIM_feature_ssim_s_score:0.969135, SSIM_score:0.962060
+example_19_319_src09_hrc00_640x480_yuv422p_vs_src_9_hrc8_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.986890, SSIM_feature_ssim_l_score:0.999942, SSIM_feature_ssim_s_score:0.959194, SSIM_score:0.947305
+example_19_320_src09_hrc00_640x480_yuv422p_vs_src_9_hrc9_640x480_yuv422p_q_640x480
+Aggregate (mean): SSIM_feature_ssim_c_score:0.998665, SSIM_feature_ssim_l_score:0.999989, SSIM_feature_ssim_s_score:0.991802, SSIM_score:0.990468

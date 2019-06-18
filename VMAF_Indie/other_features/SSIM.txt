@@ -1,0 +1,100 @@
+india_1_3_RV02_1080p30_1920x1080_vs_RV02_1080p30_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999996, SSIM_score:0.999996
+india_1_4_RV02_1080p30_1920x1080_vs_TV02_1080p30_2_5s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.664175, SSIM_feature_ssim_l_score:0.835753, SSIM_feature_ssim_s_score:0.627684, SSIM_score:0.364061
+india_1_5_RV02_1080p30_1920x1080_vs_TV02_1080p30_4_9s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.678044, SSIM_feature_ssim_l_score:0.847872, SSIM_feature_ssim_s_score:0.611316, SSIM_score:0.370999
+india_2_7_RV03_1080p30_1920x1080_vs_TV03_1080p30_2_9s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.666048, SSIM_feature_ssim_l_score:0.921809, SSIM_feature_ssim_s_score:0.564734, SSIM_score:0.367410
+india_4_12_RV05_1080p25_1920x1080_vs_RV05_1080p25_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999958, SSIM_score:0.999958
+india_4_13_RV05_1080p25_1920x1080_vs_TV05_1080p25_0.5_2s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.678499, SSIM_feature_ssim_l_score:0.873684, SSIM_feature_ssim_s_score:0.363383, SSIM_score:0.200260
+india_4_14_RV05_1080p25_1920x1080_vs_TV05_1080p25_5_3s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.680797, SSIM_feature_ssim_l_score:0.877605, SSIM_feature_ssim_s_score:0.334952, SSIM_score:0.188858
+india_0_0_RV07_1080p30_1920x1080_vs_RV07_1080p30_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999998, SSIM_score:0.999999
+india_0_0_RV07_1080p30_1920x1080_vs_TV07_1080p30_0.5_9s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.907552, SSIM_feature_ssim_l_score:0.948711, SSIM_feature_ssim_s_score:0.890112, SSIM_score:0.813398
+india_0_0_RV08_1080p24_1920x1080_vs_RV08_1080p24_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999731, SSIM_score:0.999731
+india_0_0_RV08_1080p24_1920x1080_vs_TV08_1080p24_3_7s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.754597, SSIM_feature_ssim_l_score:0.836240, SSIM_feature_ssim_s_score:0.650075, SSIM_score:0.427421
+india_0_0_RV08_1080p24_1920x1080_vs_TV08_1080p24_5_1s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.794485, SSIM_feature_ssim_l_score:0.909731, SSIM_feature_ssim_s_score:0.628330, SSIM_score:0.464952
+india_0_0_RV09_1080p30_1920x1080_vs_RV09_1080p30_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999995, SSIM_score:0.999995
+india_0_0_RV09_1080p30_1920x1080_vs_TV09_1080p30_1_1s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.907418, SSIM_feature_ssim_l_score:0.959506, SSIM_feature_ssim_s_score:0.775761, SSIM_score:0.720110
+india_0_0_RV11_2160p30_3840x2160_vs_TV11_2160p30_5_2s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.840091, SSIM_feature_ssim_l_score:0.939127, SSIM_feature_ssim_s_score:0.621237, SSIM_score:0.539669
+india_0_0_RV12_2160p30_3840x2160_vs_RV12_2160p30_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999992, SSIM_score:0.999992
+india_0_0_RV12_2160p30_3840x2160_vs_TV12_2160p30_0.5_3s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.943911, SSIM_feature_ssim_l_score:0.991555, SSIM_feature_ssim_s_score:0.708097, SSIM_score:0.683979
+india_0_0_RV12_2160p30_3840x2160_vs_TV12_2160p30_4_7s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.890595, SSIM_feature_ssim_l_score:0.981642, SSIM_feature_ssim_s_score:0.706068, SSIM_score:0.647055
+india_0_0_RV13_2160p30_3840x2160_vs_RV13_2160p30_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999996, SSIM_score:0.999996
+india_0_0_RV13_2160p30_3840x2160_vs_TV13_2160p30_2_7s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.774303, SSIM_feature_ssim_l_score:0.824509, SSIM_feature_ssim_s_score:0.628047, SSIM_score:0.436157
+india_0_0_RV13_2160p30_3840x2160_vs_TV13_2160p30_3_2s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.797816, SSIM_feature_ssim_l_score:0.884002, SSIM_feature_ssim_s_score:0.625934, SSIM_score:0.485905
+india_0_0_RV14_2160p30_3840x2160_vs_RV14_2160p30_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999910, SSIM_score:0.999910
+india_0_0_RV14_2160p30_3840x2160_vs_TV14_2160p30_1_5s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.715927, SSIM_feature_ssim_l_score:0.886483, SSIM_feature_ssim_s_score:0.476233, SSIM_score:0.330153
+india_0_0_RV14_2160p30_3840x2160_vs_TV14_2160p30_4_1s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.774783, SSIM_feature_ssim_l_score:0.924051, SSIM_feature_ssim_s_score:0.537515, SSIM_score:0.431002
+india_0_0_RV15_2160p30_3840x2160_vs_RV15_2160p30_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999961, SSIM_score:0.999961
+india_0_0_RV15_2160p30_3840x2160_vs_TV15_2160p30_1_9s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.944495, SSIM_feature_ssim_l_score:0.982731, SSIM_feature_ssim_s_score:0.891146, SSIM_score:0.865529
+india_0_0_RV15_2160p30_3840x2160_vs_TV15_2160p30_2_3s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.961959, SSIM_feature_ssim_l_score:0.988040, SSIM_feature_ssim_s_score:0.924385, SSIM_score:0.906932
+india_0_0_RV16_2160p30_3840x2160_vs_RV16_2160p30_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999872, SSIM_score:0.999872
+india_0_0_RV16_2160p30_3840x2160_vs_TV16_2160p30_2_1s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.972278, SSIM_feature_ssim_l_score:0.989871, SSIM_feature_ssim_s_score:0.936406, SSIM_score:0.918093
+india_0_0_RV16_2160p30_3840x2160_vs_TV16_2160p30_3_9s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.894912, SSIM_feature_ssim_l_score:0.968691, SSIM_feature_ssim_s_score:0.784130, SSIM_score:0.716633
+india_0_0_RV17_2160p30_3840x2160_vs_RV17_2160p30_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999981, SSIM_score:0.999981
+india_0_0_RV17_2160p30_3840x2160_vs_TV17_2160p30_3_5s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.803923, SSIM_feature_ssim_l_score:0.909638, SSIM_feature_ssim_s_score:0.413564, SSIM_score:0.341912
+india_0_0_RV17_2160p30_3840x2160_vs_TV17_2160p30_4_3s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.847787, SSIM_feature_ssim_l_score:0.925584, SSIM_feature_ssim_s_score:0.512944, SSIM_score:0.455539
+india_0_0_RV18_2160p30_3840x2160_vs_RV18_2160p30_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999767, SSIM_score:0.999767
+india_0_0_RV18_2160p30_3840x2160_vs_TV18_2160p30_1_2s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.948580, SSIM_feature_ssim_l_score:0.990350, SSIM_feature_ssim_s_score:0.841810, SSIM_score:0.815468
+india_0_0_RV18_2160p30_3840x2160_vs_TV18_2160p30_5_9s_3840x2160_q_3840x2160
+Aggregate (mean): SSIM_feature_ssim_c_score:0.813569, SSIM_feature_ssim_l_score:0.934380, SSIM_feature_ssim_s_score:0.644144, SSIM_score:0.535049
+india_0_0_RV01_1080p30_1920x1080_vs_RV01_1080p30_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999959, SSIM_score:0.999959
+india_0_1_RV01_1080p30_1920x1080_vs_TV01_1080p30_1_7s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.821028, SSIM_feature_ssim_l_score:0.859395, SSIM_feature_ssim_s_score:0.668732, SSIM_score:0.522765
+india_0_2_RV01_1080p30_1920x1080_vs_TV01_1080p30_2_2s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.832714, SSIM_feature_ssim_l_score:0.883680, SSIM_feature_ssim_s_score:0.593763, SSIM_score:0.471459
+india_2_6_RV03_1080p30_1920x1080_vs_RV03_1080p30_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:1.000000, SSIM_score:1.000000
+india_2_8_RV03_1080p30_1920x1080_vs_TV03_1080p30_4_2s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.745296, SSIM_feature_ssim_l_score:0.943590, SSIM_feature_ssim_s_score:0.458749, SSIM_score:0.350668
+india_3_9_RV04_1080p30_1920x1080_vs_RV04_1080p30_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999984, SSIM_score:0.999984
+india_3_10_RV04_1080p30_1920x1080_vs_TV04_1080p30_0.5_5s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.788739, SSIM_feature_ssim_l_score:0.927309, SSIM_feature_ssim_s_score:0.599034, SSIM_score:0.478919
+india_3_11_RV04_1080p30_1920x1080_vs_TV04_1080p30_3_1s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.819778, SSIM_feature_ssim_l_score:0.935871, SSIM_feature_ssim_s_score:0.583275, SSIM_score:0.482573
+india_5_15_RV06_1080p60_1920x1080_vs_RV06_1080p60_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:1.000000, SSIM_feature_ssim_l_score:1.000000, SSIM_feature_ssim_s_score:0.999971, SSIM_score:0.999971
+india_5_16_RV06_1080p60_1920x1080_vs_TV06_1080p60_1_3s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.857237, SSIM_feature_ssim_l_score:0.911716, SSIM_feature_ssim_s_score:0.656975, SSIM_score:0.544575
+india_5_17_RV06_1080p60_1920x1080_vs_TV06_1080p60_5_7s_1920x1080_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.773417, SSIM_feature_ssim_l_score:0.844097, SSIM_feature_ssim_s_score:0.556144, SSIM_score:0.381552
+india_0_0_RV11_2160p30_1920x1080_yuv422p_vs_TV11_2160p30_0.5_7s_1920x1080_yuv422p_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.930520, SSIM_feature_ssim_l_score:0.986166, SSIM_feature_ssim_s_score:0.853561, SSIM_score:0.803258
+india_0_0_RV07_1080p30_1920x1080_yuv422p_vs_TV07_1080p30_4_5s_1920x1080_yuv422p_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.742846, SSIM_feature_ssim_l_score:0.791976, SSIM_feature_ssim_s_score:0.744207, SSIM_score:0.455072
+india_0_0_RV09_1080p30_1920x1080_yuv422p_vs_TV09_1080p30_3_3s_1920x1080_yuv422p_q_1920x1080
+Aggregate (mean): SSIM_feature_ssim_c_score:0.742646, SSIM_feature_ssim_l_score:0.790769, SSIM_feature_ssim_s_score:0.690174, SSIM_score:0.426838

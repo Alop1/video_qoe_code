@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="PSNR <= 0.1\nmse = 0.8\nsamples = 410\nvalue = 0.0"] ;
+1 [label="PSNR <= -0.4\nmse = 0.4\nsamples = 227\nvalue = -0.5"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="frame <= 2.0\nmse = 0.4\nsamples = 135\nvalue = -0.8"] ;
+1 -> 2 ;
+3 [label="mse = 0.3\nsamples = 119\nvalue = -0.8"] ;
+2 -> 3 ;
+4 [label="mse = 0.7\nsamples = 16\nvalue = -0.1"] ;
+2 -> 4 ;
+5 [label="Aggregate_vmaf <= -0.6\nmse = 0.2\nsamples = 92\nvalue = -0.2"] ;
+1 -> 5 ;
+6 [label="mse = 0.1\nsamples = 23\nvalue = -0.5"] ;
+5 -> 6 ;
+7 [label="mse = 0.2\nsamples = 69\nvalue = -0.1"] ;
+5 -> 7 ;
+8 [label="MS_SSIM <= 0.5\nmse = 0.3\nsamples = 183\nvalue = 0.7"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="blockiness <= -0.1\nmse = 0.2\nsamples = 127\nvalue = 0.5"] ;
+8 -> 9 ;
+10 [label="mse = 0.2\nsamples = 71\nvalue = 0.3"] ;
+9 -> 10 ;
+11 [label="mse = 0.1\nsamples = 56\nvalue = 0.8"] ;
+9 -> 11 ;
+12 [label="frame <= -0.4\nmse = 0.2\nsamples = 56\nvalue = 1.2"] ;
+8 -> 12 ;
+13 [label="mse = 0.2\nsamples = 30\nvalue = 1.1"] ;
+12 -> 13 ;
+14 [label="mse = 0.0\nsamples = 26\nvalue = 1.4"] ;
+12 -> 14 ;
+}

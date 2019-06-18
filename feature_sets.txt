@@ -1,0 +1,82 @@
+AGH indicators:
+blockiness	 - widoczne bloki, przez 'zly' proces kodowania, stracenie danych pomiedzy korelacj a w blokach 
+spatialactivity	 
+letterbox	 
+pillarbox	 
+blockloss	 
+blur	 
+temporalact	 
+blockout	 blacscreen , przez zagubione bity 
+freezing	 
+exposure	srednia z 3 najciemniejszych i 3 najasnieszych bolkow w ramce => im wiekszy exposue tym wiekszy kontrast  
+contrast	 
+brightness	 
+interlace	kiedy ramki typu interlance sa 'zle' zlozone
+noise	
+!slice	 
+!flickering
+
+
+netflix:
+PSNR
+SSIM
+MS_SSIM
+VMAF
+
+rest:
+resolution
+farme_numbers
+fps
+resolution_quantity
+duration
+
+datasets:
+# Z resolution_quantity
+features_all_full = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness",
+                    "spatialactivity", "pillarbox", "blockloss", "blur", "temporalact",
+                    "blockout", "exposure", "contrast", "brightness", "interlace",
+                    "slice", "fps", "1920x1080", "352x288", "3840x2160", "640x480", "704x576", 'two_res', 'one_res',
+					"duration"]
+features_test_0_full = ["frame", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness", "1920x1080", "352x288",
+                     "3840x2160", "640x480", "704x576", 'two_res', 'one_res']
+features_test_2_full = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness", "1920x1080", "352x288",
+                      "3840x2160", "640x480", "704x576", 'two_res', 'one_res']
+features_test_3_full = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
+                      "3840x2160", "640x480", "704x576", 'two_res', 'one_res']
+agh_features_full = ["frame", "blockiness", "spatialactivity", "pillarbox", "blockloss", "blur",
+                    "temporalact", "blockout", "exposure", "contrast", "brightness", "interlace",
+                    "slice", "fps",'duration','two_res', 'one_res', ]
+netflix_features_psnr_full = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288", "3840x2160", "640x480",
+                        "704x576",'duration', 'two_res', 'one_res']
+netflix_features_nopsnr_full = ["Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288", "3840x2160", "640x480",
+                        "704x576",'duration', 'two_res', 'one_res']
+						
+features_test_1_dark_full = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
+                      "3840x2160", "640x480", "704x576", 'brightness', 'two_res', 'one_res']						
+features_test_2_dark_full = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
+                      "3840x2160", "640x480", "704x576", 'brightness', 'exposure','two_res', 'one_res']	
+					  
+# BEZ resolution_quantity
+features_all = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness",
+                    "spatialactivity", "pillarbox", "blockloss", "blur", "temporalact",
+                    "blockout", "exposure", "contrast", "brightness", "interlace",
+                    "slice", "fps", "1920x1080", "352x288", "3840x2160", "640x480", "704x576", "duration"]
+features_test_0 = ["frame", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness", "1920x1080", "352x288",
+                     "3840x2160", "640x480", "704x576"]
+features_test_2 = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness", "1920x1080", "352x288",
+                      "3840x2160", "640x480", "704x576"]
+features_test_3 = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
+                      "3840x2160", "640x480", "704x576"]
+agh_features = ["frame", "blockiness", "spatialactivity", "pillarbox", "blockloss", "blur",
+                    "temporalact", "blockout", "exposure", "contrast", "brightness", "interlace",
+                    "slice", "fps",'duration']
+					
+netflix_features_psnr = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288", "3840x2160", "640x480",
+                        "704x576",'duration']
+netflix_features_nopsnr = ["Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288", "3840x2160", "640x480",
+                        "704x576",'duration']
+						
+features_test_1_dark = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
+                      "3840x2160", "640x480", "704x576", 'brightness']						
+features_test_2_dark = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
+                      "3840x2160", "640x480", "704x576", 'brightness', 'exposure']	
