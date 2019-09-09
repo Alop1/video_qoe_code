@@ -193,7 +193,7 @@ def main():
     # cif_DB_analyzer.create_feature_bar_chart("fsp")
 
     DB1 = DataObj()
-    DB1.load_data(path=r"C:\Users\elacpol\Desktop\VMAF\csv-ki\final_csv\DB1.csv")
+    DB1.load_data(path=r"data_analysis/csv_bds/DB1.csv")
     DB1_analyzer = SingleDBDataAnalyzer(DB1)
     # DB1_analyzer.create_feature_bar_chart("fsp")
 

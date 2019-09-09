@@ -1,4 +1,4 @@
-from collections import Counter, defaultdict
+from collections import Counter
 from matplotlib import pyplot as plt
 
 
@@ -87,18 +87,40 @@ def create_nominal_value_to_mos_chart(DB, type, save=False):
         plt.show()
     plt.clf()
 
-def create_correlation_chart(DB):
+def create_correlation_chart(merged_DB):
     import numpy as np
-    corr = DB.corr()
+    from data_analysis.models import map_to_polish
+    data_for_correlation = merged_DB[["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM",
+                                      "blockiness", "spatialactivity", "pillarbox",
+                                      "blockloss", "blur", "temporalact", "blockout",
+                                      "exposure", "contrast", "brightness", 'duration']]
+    data_for_correlation = merged_DB[["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM",
+                                      "blockiness", "pillarbox",
+                                      "blockloss", "blur", "temporalact", "blockout",
+                                      "exposure", "contrast", "spatialactivity", "brightness", ]]
+    # data_for_correlation = merged_DB[["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM"]]
+    labels_names = []
+    mapping_dir = map_to_polish()
+    for column_name in data_for_correlation.columns:
+        if column_name in mapping_dir:
+            labels_names.append(mapping_dir[column_name])
+        else:
+            labels_names.append(column_name)
+
+    DB_copy = data_for_correlation.copy(deep=True)
+    corr = DB_copy.corr()
     fig = plt.figure()
     ax = fig.add_subplot(111)
     cax = ax.matshow(corr, cmap='coolwarm', vmin=-1, vmax=1)
     fig.colorbar(cax)
-    ticks = np.arange(0, len(DB.columns), 1)
-    ax.set_xticks(ticks)
-    plt.xticks(rotation=90)
+    ticks = np.arange(0, len(data_for_correlation.columns), 1)
+    x_ticks = ticks.copy()
+    x_ticks[-2] = 12.7
+    ax.set_xticks(x_ticks)
+    # plt.xticks(rotation=90)
     ax.set_yticks(ticks)
-    ax.set_xticklabels(DB.columns)
-    ax.set_yticklabels(DB.columns)
+    # ax.set_xticklabels(labels_names, )
+    ax.set_xticklabels(labels_names, rotation=40)
+    ax.set_yticklabels(labels_names, rotation=45)
     plt.show()
 

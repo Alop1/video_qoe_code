@@ -3,10 +3,11 @@ from matplotlib import pyplot as plt
 from collections import Counter
 import os, re
 import pandas as pd
-import models
+import models as models
 import data_preparation
 import charts_generator
 from charts_generator import create_correlation_chart, create_feature_bar_chart, create_quantitative_to_mos_chart, create_nominal_value_to_mos_chart
+import random
 
 
 
@@ -43,12 +44,7 @@ def chart_module_based_on_merged_DB(merged_DB):
 
 
 @data_preparation.duration_measurement
-def execute_LR(training_dataset, testing_dataset, features_all, features_test_0, features_test_2, features_test_3,
-               agh_features, netflix_features_psnr, netflix_features_nopsnr, features_test_1_dark,
-               features_test_2_dark,
-               features_all_full, features_test_0_full, features_test_2_full, features_test_3_full,
-               agh_features_full, netflix_features_psnr_full, netflix_features_nopsnr_full, features_test_1_dark_full,
-               features_test_2_dark_full):
+def execute_LR(training_dataset, testing_dataset, *features):
     models.linear_regresion_model(training_dataset, testing_dataset, "PSNR", "Aggregate_vmaf")
     models.linear_regresion_model(training_dataset, testing_dataset, "PSNR", "SSIM")
     models.linear_regresion_model(training_dataset, testing_dataset, "Aggregate_vmaf", "SSIM")
@@ -57,53 +53,28 @@ def execute_LR(training_dataset, testing_dataset, features_all, features_test_0,
     models.linear_regresion_model(training_dataset, testing_dataset, "SSIM")
     models.linear_regresion_model(training_dataset, testing_dataset, "MS_SSIM")
     models.linear_regresion_model(training_dataset, testing_dataset, "blockiness")
-    models.linear_regresion_model(training_dataset, testing_dataset, "frame")
-    models.linear_regresion_model(training_dataset, testing_dataset, "spatialactivity")
-    models.linear_regresion_model(training_dataset, testing_dataset, "pillarbox")
+    # models.linear_regresion_model(training_dataset, testing_dataset, "frame")
+    # models.linear_regresion_model(training_dataset, testing_dataset, "spatialactivity")
+    # models.linear_regresion_model(training_dataset, testing_dataset, "pillarbox")
     models.linear_regresion_model(training_dataset, testing_dataset, "blockloss")
     models.linear_regresion_model(training_dataset, testing_dataset, "blur")
-    models.linear_regresion_model(training_dataset, testing_dataset, "temporalact")
-    models.linear_regresion_model(training_dataset, testing_dataset, "blockout")
+    # models.linear_regresion_model(training_dataset, testing_dataset, "temporalact")
+    # models.linear_regresion_model(training_dataset, testing_dataset, "blockout")
     models.linear_regresion_model(training_dataset, testing_dataset, "exposure")
     models.linear_regresion_model(training_dataset, testing_dataset, "contrast")
     models.linear_regresion_model(training_dataset, testing_dataset, "brightness")
-    models.linear_regresion_model(training_dataset, testing_dataset, "interlace")
-    models.linear_regresion_model(training_dataset, testing_dataset, "slice")
-    models.linear_regresion_model(training_dataset, testing_dataset, "fps")
+    # models.linear_regresion_model(training_dataset, testing_dataset, "fps")
 
-    models.linear_regresion_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
-    models.linear_regresion_model(training_dataset, testing_dataset, "duration")
+    # models.linear_regresion_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
+    # models.linear_regresion_model(training_dataset, testing_dataset, "duration")
+    # print features[0]
+    for feature_set in features[0]:
+        # print "feature set ", feature_set
+        models.linear_regresion_model(training_dataset, testing_dataset, *feature_set)
 
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_all)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_test_0)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_test_2)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_test_3)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_all)
-    models.linear_regresion_model(training_dataset, testing_dataset, *agh_features)
-    models.linear_regresion_model(training_dataset, testing_dataset, *netflix_features_psnr)
-    models.linear_regresion_model(training_dataset, testing_dataset, *netflix_features_nopsnr)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_test_1_dark)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_test_2_dark)
-
-
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_all_full)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_test_0_full)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_test_2_full)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_test_3_full)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_all_full)
-    models.linear_regresion_model(training_dataset, testing_dataset, *agh_features_full)
-    models.linear_regresion_model(training_dataset, testing_dataset, *netflix_features_psnr_full)
-    models.linear_regresion_model(training_dataset, testing_dataset, *netflix_features_nopsnr_full)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_test_1_dark_full)
-    models.linear_regresion_model(training_dataset, testing_dataset, *features_test_2_dark_full)
 
 @data_preparation.duration_measurement
-def execute_SVR(training_dataset, testing_dataset, features_all, features_test_0, features_test_2, features_test_3,
-               agh_features, netflix_features_psnr, netflix_features_nopsnr, features_test_1_dark,
-               features_test_2_dark,
-               features_all_full, features_test_0_full, features_test_2_full, features_test_3_full,
-               agh_features_full, netflix_features_psnr_full, netflix_features_nopsnr_full, features_test_1_dark_full,
-               features_test_2_dark_full):
+def execute_SVR(training_dataset, testing_dataset, *features):
     models.support_vector_regresion_model(training_dataset, testing_dataset, "PSNR", "Aggregate_vmaf")
     models.support_vector_regresion_model(training_dataset, testing_dataset, "PSNR", "SSIM")
     models.support_vector_regresion_model(training_dataset, testing_dataset, "Aggregate_vmaf", "SSIM")
@@ -112,54 +83,27 @@ def execute_SVR(training_dataset, testing_dataset, features_all, features_test_0
     models.support_vector_regresion_model(training_dataset, testing_dataset, "SSIM")
     models.support_vector_regresion_model(training_dataset, testing_dataset, "MS_SSIM")
     models.support_vector_regresion_model(training_dataset, testing_dataset, "blockiness")
-    models.support_vector_regresion_model(training_dataset, testing_dataset, "frame")
-    models.support_vector_regresion_model(training_dataset, testing_dataset, "spatialactivity")
-    models.support_vector_regresion_model(training_dataset, testing_dataset, "pillarbox")
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "frame")
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "spatialactivity")
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "pillarbox")
     models.support_vector_regresion_model(training_dataset, testing_dataset, "blockloss")
     models.support_vector_regresion_model(training_dataset, testing_dataset, "blur")
-    models.support_vector_regresion_model(training_dataset, testing_dataset, "temporalact")
-    models.support_vector_regresion_model(training_dataset, testing_dataset, "blockout")
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "temporalact")
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "blockout")
     models.support_vector_regresion_model(training_dataset, testing_dataset, "exposure")
     models.support_vector_regresion_model(training_dataset, testing_dataset, "contrast")
     models.support_vector_regresion_model(training_dataset, testing_dataset, "brightness")
-    models.support_vector_regresion_model(training_dataset, testing_dataset, "interlace")
-    models.support_vector_regresion_model(training_dataset, testing_dataset, "slice")
-    models.support_vector_regresion_model(training_dataset, testing_dataset, "fps")
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "fps")
 
-    models.support_vector_regresion_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
-    models.support_vector_regresion_model(training_dataset, testing_dataset, "duration")
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "duration")
 
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_all)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_test_0)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_test_2)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_test_3)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_all)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *agh_features)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *netflix_features_psnr)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *netflix_features_nopsnr)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_test_1_dark)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_test_2_dark)
-
-
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_all_full)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_test_0_full)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_test_2_full)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_test_3_full)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_all_full)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *agh_features_full)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *netflix_features_psnr_full)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *netflix_features_nopsnr_full)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_test_1_dark_full)
-    models.support_vector_regresion_model(training_dataset, testing_dataset, *features_test_2_dark_full)
-
+    for feature_set in features[0]:
+        # print "feature set ", feature_set[0]
+        models.support_vector_regresion_model(training_dataset, testing_dataset, *feature_set)
 
 @data_preparation.duration_measurement
-def execute_NN(training_dataset, testing_dataset, features_all, features_test_0, features_test_2, features_test_3,
-               agh_features, netflix_features_psnr, netflix_features_nopsnr, features_test_1_dark,
-               features_test_2_dark,
-               features_all_full, features_test_0_full, features_test_2_full, features_test_3_full,
-               agh_features_full, netflix_features_psnr_full, netflix_features_nopsnr_full, features_test_1_dark_full,
-               features_test_2_dark_full):
+def execute_NN(training_dataset, testing_dataset, *features):
     models.nn_model(training_dataset, testing_dataset, "PSNR", "Aggregate_vmaf")
     models.nn_model(training_dataset, testing_dataset, "PSNR", "SSIM")
     models.nn_model(training_dataset, testing_dataset, "Aggregate_vmaf", "SSIM")
@@ -168,104 +112,174 @@ def execute_NN(training_dataset, testing_dataset, features_all, features_test_0,
     models.nn_model(training_dataset, testing_dataset, "SSIM")
     models.nn_model(training_dataset, testing_dataset, "MS_SSIM")
     models.nn_model(training_dataset, testing_dataset, "blockiness")
-    models.nn_model(training_dataset, testing_dataset, "frame")
-    models.nn_model(training_dataset, testing_dataset, "spatialactivity")
-    models.nn_model(training_dataset, testing_dataset, "pillarbox")
+    # models.nn_model(training_dataset, testing_dataset, "frame")
+    # models.nn_model(training_dataset, testing_dataset, "spatialactivity")
+    # models.nn_model(training_dataset, testing_dataset, "pillarbox")
     models.nn_model(training_dataset, testing_dataset, "blockloss")
     models.nn_model(training_dataset, testing_dataset, "blur")
-    models.nn_model(training_dataset, testing_dataset, "temporalact")
-    models.nn_model(training_dataset, testing_dataset, "blockout")
+    # models.nn_model(training_dataset, testing_dataset, "temporalact")
+    # models.nn_model(training_dataset, testing_dataset, "blockout")
     models.nn_model(training_dataset, testing_dataset, "exposure")
     models.nn_model(training_dataset, testing_dataset, "contrast")
     models.nn_model(training_dataset, testing_dataset, "brightness")
-    models.nn_model(training_dataset, testing_dataset, "interlace")
-    models.nn_model(training_dataset, testing_dataset, "slice")
-    models.nn_model(training_dataset, testing_dataset, "fps")
+    # models.nn_model(training_dataset, testing_dataset, "fps")
 
-    models.nn_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
-    models.nn_model(training_dataset, testing_dataset, "duration")
-
-    models.nn_model(training_dataset, testing_dataset, *features_all)
-    models.nn_model(training_dataset, testing_dataset, *features_test_0)
-    models.nn_model(training_dataset, testing_dataset, *features_test_2)
-    models.nn_model(training_dataset, testing_dataset, *features_test_3)
-    models.nn_model(training_dataset, testing_dataset, *features_all)
-    models.nn_model(training_dataset, testing_dataset, *agh_features)
-    models.nn_model(training_dataset, testing_dataset, *netflix_features_psnr)
-    models.nn_model(training_dataset, testing_dataset, *netflix_features_nopsnr)
-    models.nn_model(training_dataset, testing_dataset, *features_test_1_dark)
-    models.nn_model(training_dataset, testing_dataset, *features_test_2_dark)
-
-
-    models.nn_model(training_dataset, testing_dataset, *features_all_full)
-    models.nn_model(training_dataset, testing_dataset, *features_test_0_full)
-    models.nn_model(training_dataset, testing_dataset, *features_test_2_full)
-    models.nn_model(training_dataset, testing_dataset, *features_test_3_full)
-    models.nn_model(training_dataset, testing_dataset, *features_all_full)
-    models.nn_model(training_dataset, testing_dataset, *agh_features_full)
-    models.nn_model(training_dataset, testing_dataset, *netflix_features_psnr_full)
-    models.nn_model(training_dataset, testing_dataset, *netflix_features_nopsnr_full)
-    models.nn_model(training_dataset, testing_dataset, *features_test_1_dark_full)
-    models.nn_model(training_dataset, testing_dataset, *features_test_2_dark_full)
+    # models.nn_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
+    # models.nn_model(training_dataset, testing_dataset, "duration")
+    for feature_set in features[0]:
+        # print "feature set ", feature_set[0]
+        models.nn_model(training_dataset, testing_dataset, *feature_set)
 
 
 @data_preparation.duration_measurement
-def execute_RF(training_dataset, testing_dataset, features_all, features_test_0, features_test_2, features_test_3,
-               agh_features, netflix_features_psnr, netflix_features_nopsnr, features_test_1_dark,
-               features_test_2_dark,
-               features_all_full, features_test_0_full, features_test_2_full, features_test_3_full,
-               agh_features_full, netflix_features_psnr_full, netflix_features_nopsnr_full, features_test_1_dark_full,
-               features_test_2_dark_full):
-    models.RF_model(training_dataset, testing_dataset, "PSNR", "Aggregate_vmaf")
-    models.RF_model(training_dataset, testing_dataset, "PSNR", "SSIM")
-    models.RF_model(training_dataset, testing_dataset, "Aggregate_vmaf", "SSIM")
-    models.RF_model(training_dataset, testing_dataset, "Aggregate_vmaf")
-    models.RF_model(training_dataset, testing_dataset, "PSNR")
-    models.RF_model(training_dataset, testing_dataset, "SSIM")
-    models.RF_model(training_dataset, testing_dataset, "MS_SSIM")
-    models.RF_model(training_dataset, testing_dataset, "blockiness")
-    models.RF_model(training_dataset, testing_dataset, "frame")
-    models.RF_model(training_dataset, testing_dataset, "spatialactivity")
-    models.RF_model(training_dataset, testing_dataset, "pillarbox")
-    models.RF_model(training_dataset, testing_dataset, "blockloss")
-    models.RF_model(training_dataset, testing_dataset, "blur")
-    models.RF_model(training_dataset, testing_dataset, "temporalact")
-    models.RF_model(training_dataset, testing_dataset, "blockout")
-    models.RF_model(training_dataset, testing_dataset, "exposure")
-    models.RF_model(training_dataset, testing_dataset, "contrast")
-    models.RF_model(training_dataset, testing_dataset, "brightness")
-    models.RF_model(training_dataset, testing_dataset, "interlace")
-    models.RF_model(training_dataset, testing_dataset, "slice")
-    models.RF_model(training_dataset, testing_dataset, "fps")
-
-    models.RF_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
-    models.RF_model(training_dataset, testing_dataset, "duration")
-
-    models.RF_model(training_dataset, testing_dataset, *features_all)
-    models.RF_model(training_dataset, testing_dataset, *features_test_0)
-    models.RF_model(training_dataset, testing_dataset, *features_test_2)
-    models.RF_model(training_dataset, testing_dataset, *features_test_3)
-    models.RF_model(training_dataset, testing_dataset, *features_all)
-    models.RF_model(training_dataset, testing_dataset, *agh_features)
-    models.RF_model(training_dataset, testing_dataset, *netflix_features_psnr)
-    models.RF_model(training_dataset, testing_dataset, *netflix_features_nopsnr)
-    models.RF_model(training_dataset, testing_dataset, *features_test_1_dark)
-    models.RF_model(training_dataset, testing_dataset, *features_test_2_dark)
+def execute_RF(training_dataset, testing_dataset, *features):
+    # models.RF_model(training_dataset, testing_dataset, "PSNR", "Aggregate_vmaf")
+    # models.RF_model(training_dataset, testing_dataset, "PSNR", "SSIM")
+    # models.RF_model(training_dataset, testing_dataset, "Aggregate_vmaf", "SSIM")
+    # models.RF_model(training_dataset, testing_dataset, "Aggregate_vmaf")
+    # models.RF_model(training_dataset, testing_dataset, "PSNR")
+    # models.RF_model(training_dataset, testing_dataset, "SSIM")
+    # models.RF_model(training_dataset, testing_dataset, "MS_SSIM")
+    # models.RF_model(training_dataset, testing_dataset, "blockiness")
+    # # models.RF_model(training_dataset, testing_dataset, "frame")
+    # # models.RF_model(training_dataset, testing_dataset, "spatialactivity")
+    # # models.RF_model(training_dataset, testing_dataset, "pillarbox")
+    # models.RF_model(training_dataset, testing_dataset, "blockloss")
+    # models.RF_model(training_dataset, testing_dataset, "blur")
+    # # models.RF_model(training_dataset, testing_dataset, "temporalact")
+    # # models.RF_model(training_dataset, testing_dataset, "blockout")
+    # models.RF_model(training_dataset, testing_dataset, "exposure")
+    # models.RF_model(training_dataset, testing_dataset, "contrast")
+    # models.RF_model(training_dataset, testing_dataset, "brightness")
+    # # models.RF_model(training_dataset, testing_dataset, "fps")
+    #
+    # # models.RF_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
+    # # models.RF_model(training_dataset, testing_dataset, "duration")
+    for feature_set in features[0]:
+          # print "feature set ", feature_set[0]
+          models.RF_model(training_dataset, testing_dataset, *feature_set)
 
 
-    models.RF_model(training_dataset, testing_dataset, *features_all_full)
-    models.RF_model(training_dataset, testing_dataset, *features_test_0_full)
-    models.RF_model(training_dataset, testing_dataset, *features_test_2_full)
-    models.RF_model(training_dataset, testing_dataset, *features_test_3_full)
-    models.RF_model(training_dataset, testing_dataset, *features_all_full)
-    models.RF_model(training_dataset, testing_dataset, *agh_features_full)
-    models.RF_model(training_dataset, testing_dataset, *netflix_features_psnr_full)
-    models.RF_model(training_dataset, testing_dataset, *netflix_features_nopsnr_full)
-    models.RF_model(training_dataset, testing_dataset, *features_test_1_dark_full)
-    models.RF_model(training_dataset, testing_dataset, *features_test_2_dark_full)
+@data_preparation.duration_measurement
+def execute_LR_k_fold(training_dataset, testing_dataset, *features):
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "PSNR", "Aggregate_vmaf")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "PSNR", "SSIM")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "Aggregate_vmaf", "SSIM")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "Aggregate_vmaf")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "PSNR")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "SSIM")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "MS_SSIM")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "blockiness")
+    # models.linear_regresion_mod_k_foldel(training_dataset, testing_dataset, "frame")
+    # models.linear_regresion_mod_k_foldel(training_dataset, testing_dataset, "spatialactivity")
+    # models.linear_regresion_mod_k_foldel(training_dataset, testing_dataset, "pillarbox")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "blockloss")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "blur")
+    # models.linear_regresion_mod_k_foldel(training_dataset, testing_dataset, "temporalact")
+    # models.linear_regresion_mod_k_foldel(training_dataset, testing_dataset, "blockout")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "exposure")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "contrast")
+    models.linear_regresion_model_k_fold(training_dataset, testing_dataset, "brightness")
+    # models.linear_regresion_model(training_dataset, testing_dataset, "fps")
+
+    # models.linear_regresion_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
+    # models.linear_regresion_model(training_dataset, testing_dataset, "duration")
+    # print features[0]
+    for feature_set in features[0]:
+        # print "feature set ", feature_set
+        models.linear_regresion_model_k_fold(training_dataset, testing_dataset, *feature_set)
 
 
-def main():
+@data_preparation.duration_measurement
+def execute_SVR_k_fold(training_dataset, testing_dataset, *features):
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "PSNR", "Aggregate_vmaf")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "PSNR", "SSIM")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "Aggregate_vmaf", "SSIM")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "Aggregate_vmaf")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "PSNR")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "SSIM")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "MS_SSIM")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "blockiness")
+    # models.support_vector_regresion_mod_k_foldel(training_dataset, testing_dataset, "frame")
+    # models.support_vector_regresion_mod_k_foldel(training_dataset, testing_dataset, "spatialactivity")
+    # models.support_vector_regresion_mod_k_foldel(training_dataset, testing_dataset, "pillarbox")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "blockloss")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "blur")
+    # models.support_vector_regresion_mod_k_foldel(training_dataset, testing_dataset, "temporalact")
+    # models.support_vector_regresion_mod_k_foldel(training_dataset, testing_dataset, "blockout")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "exposure")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "contrast")
+    models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, "brightness")
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "fps")
+
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
+    # models.support_vector_regresion_model(training_dataset, testing_dataset, "duration")
+
+    for feature_set in features[0]:
+        # print "feature set ", feature_set[0]
+        models.support_vector_regresion_model_k_fold(training_dataset, testing_dataset, *feature_set)
+
+@data_preparation.duration_measurement
+def execute_NN_k_fold(training_dataset, testing_dataset, *features):
+    models.nn_model_k_fold(training_dataset, testing_dataset, "PSNR", "Aggregate_vmaf")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "PSNR", "SSIM")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "Aggregate_vmaf", "SSIM")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "Aggregate_vmaf")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "PSNR")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "SSIM")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "MS_SSIM")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "blockiness")
+    # models.nn_model(training_dataset, testing_dataset, "frame")
+    # models.nn_model(training_dataset, testing_dataset, "spatialactivity")
+    # models.nn_model(training_dataset, testing_dataset, "pillarbox")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "blockloss")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "blur")
+    # models.nn_model(training_dataset, testing_dataset, "temporalact")
+    # models.nn_model(training_dataset, testing_dataset, "blockout")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "exposure")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "contrast")
+    models.nn_model_k_fold(training_dataset, testing_dataset, "brightness")
+    # models.nn_model(training_dataset, testing_dataset, "fps")
+
+    # models.nn_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
+    # models.nn_model(training_dataset, testing_dataset, "duration")
+    for feature_set in features[0]:
+        # print "feature set ", feature_set[0]
+        models.nn_model_k_fold(training_dataset, testing_dataset, *feature_set)
+
+
+@data_preparation.duration_measurement
+def execute_RF_k_fold(training_dataset, testing_dataset, *features):
+    models.RF_model_k_fold(training_dataset, testing_dataset, "PSNR", "Aggregate_vmaf")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "PSNR", "SSIM")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "Aggregate_vmaf", "SSIM")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "Aggregate_vmaf")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "PSNR")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "SSIM")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "MS_SSIM")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "blockiness")
+    # models.RF_mod_k_foldel(training_dataset, testing_dataset, "frame")
+    # models.RF_mod_k_foldel(training_dataset, testing_dataset, "spatialactivity")
+    # models.RF_mod_k_foldel(training_dataset, testing_dataset, "pillarbox")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "blockloss")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "blur")
+    # models.RF_mod_k_foldel(training_dataset, testing_dataset, "temporalact")
+    # models.RF_mod_k_foldel(training_dataset, testing_dataset, "blockout")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "exposure")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "contrast")
+    models.RF_model_k_fold(training_dataset, testing_dataset, "brightness")
+    # models.RF_model(training_dataset, testing_dataset, "fps")
+
+    # models.RF_model(training_dataset, testing_dataset, "1920x1080", "352x288", "3840x2160", "640x480", "704x576" )
+    # models.RF_model(training_dataset, testing_dataset, "duration")
+    for feature_set in features[0]:
+          # print "feature set ", feature_set[0]
+          models.RF_model_k_fold(training_dataset, testing_dataset, *feature_set)
+
+
+
+def main(sim_quantity=1):
+
 
     ##############################################################
     #           PREPARE DATA
@@ -323,9 +337,9 @@ def main():
     splited_netflix2 = data_preparation.split_netflix_to_video_groups(pd_netflix2)
 
 
-
-    # for sub_DB in splited_netflix2:
-    #     sub_DB.dropna(subset=["blockiness"], inplace=True)
+    ###############################################################
+    #     prepare DB for k - fold CV
+    ###############################################################
     # sub_DB_list =[]
     # sub_DB_list.extend(splited_pd_DB_cif)
     # sub_DB_list.extend(splited_pd_DB_cif4)
@@ -333,8 +347,15 @@ def main():
     # sub_DB_list.extend(splited_pd_netflix1)
     # sub_DB_list.extend(splited_netflix2)
     # sub_DB_list.extend(splited_pd_DB1)
-    # print len(sub_DB_list)
+    # for group in sub_DB_list:
+    #     group.dropna(subset=["fps"], inplace=True)
+    #     group.dropna(subset=["blockiness"], inplace=True)
+    #     group.dropna(subset=["MS_SSIM"], inplace=True)
+    # random.shuffle(sub_DB_list)
 
+    #############################################################
+    #  prepare data fro MCCCV
+    ############################################################
     #split data for training and testing dataset
     pd_cif_training, pd_cif_testing = data_preparation.split_DB_for_train_test(splited_pd_DB_cif)
     pd_cif4_trainig, pd_cif4_testing = data_preparation.split_DB_for_train_test(splited_pd_DB_cif4)
@@ -342,17 +363,14 @@ def main():
     pd_netflix1_training, pd_netflix1_testing = data_preparation.split_DB_for_train_test(splited_pd_netflix1)
     pd_DB1_training, pd_DB1_testing = data_preparation.split_DB_for_train_test(splited_pd_DB1)
     pd_netflix2_trainig, pd_netflix2_testing = data_preparation.split_DB_for_train_test(splited_netflix2)
-
     # test = join_DBes(pd_cif_testing)
     training_dataset = data_preparation.join_DBes(pd_cif_training,pd_cif4_trainig,
                                pd_india_agh_training,pd_netflix1_training,
                                pd_DB1_training, pd_netflix2_trainig)
-
     # testing_dataset = join_DBes(pd_cif_testing)
     testing_dataset = data_preparation.join_DBes(pd_cif_testing, pd_cif4_testing,
                                 pd_india_agh_testing, pd_DB1_testing,
                                 pd_netflix1_testing, pd_netflix2_testing)
-
     # clear data phase two
     training_dataset.dropna(subset=["fps"], inplace=True)
     testing_dataset.dropna(subset=["fps"], inplace=True)
@@ -361,20 +379,17 @@ def main():
     training_dataset.dropna(subset=["MS_SSIM"], inplace=True)
     testing_dataset.dropna(subset=["MS_SSIM"], inplace=True)
 
+    ############################################################
+    # # merge training and testing dataset just for chart purpose
+    # merged_DB = pd.concat([training_dataset, testing_dataset], ignore_index=True)
+    # merged_DB.dropna(subset=["fps"], inplace=False)
+    # #  print "train + test shape : {} ".format(merged_DB.shape)
+    # #  chart_module_based_on_merged_DB(merged_DB)
+    # create_correlation_chart(merged_DB)
+    # # import sys
+    # # sys.exit(-1)
+    ###########################################################
 
-
-    # merge training and testing dataset just for chart purpose
-    merged_DB = pd.concat([training_dataset, testing_dataset], ignore_index=True)
-    merged_DB.dropna(subset=["fps"], inplace=False)
-    # print "train + test shape : {} ".format(merged_DB.shape)
-
-    # chart_module_based_on_merged_DB(merged_DB)
-    data_for_correlation = merged_DB[["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM",
-                                       "frame", "blockiness", "spatialactivity", "pillarbox",
-                                       "blockloss","blur", "temporalact", "blockout",
-                                       "exposure", "contrast", "brightness",'duration', 'fps']]
-    create_correlation_chart(data_for_correlation)
-    os.sys.exit(-1)
     # final dataset for training and testing
     # training_dataset                      )
     # testing_dataset
@@ -383,89 +398,81 @@ def main():
     #           MODELING
     ##############################################################
 
-    # sets of features
-    # Z resolution_quantity
-    features_all_full = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness",
+    # #no resoltutions - already studied
+    features = []
+    #all
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness",
                          "spatialactivity", "pillarbox", "blockloss", "blur", "temporalact",
-                         "blockout", "exposure", "contrast", "brightness", "interlace",
-                         "slice", "fps", "1920x1080", "352x288", "3840x2160", "640x480", "704x576", 'two_res',
-                         'one_res',
-                         "duration"]
-    features_test_0_full = ["frame", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness", "1920x1080", "352x288",
-                            "3840x2160", "640x480", "704x576", 'two_res', 'one_res']
-    features_test_2_full = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness", "1920x1080",
-                            "352x288",
-                            "3840x2160", "640x480", "704x576", 'two_res', 'one_res']
-    features_test_3_full = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
-                            "3840x2160", "640x480", "704x576", 'two_res', 'one_res']
-    agh_features_full = ["frame", "blockiness", "spatialactivity", "pillarbox", "blockloss", "blur",
-                         "temporalact", "blockout", "exposure", "contrast", "brightness", "interlace",
-                         "slice", "fps", 'duration', 'two_res', 'one_res', ]
-    netflix_features_psnr_full = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288", "3840x2160",
-                                  "640x480",
-                                  "704x576", 'duration', 'two_res', 'one_res']
-    netflix_features_nopsnr_full = ["Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288", "3840x2160", "640x480",
-                                    "704x576", 'duration', 'two_res', 'one_res']
-
-    features_test_1_dark_full = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
-                                 "3840x2160", "640x480", "704x576", 'brightness', 'two_res', 'one_res']
-    features_test_2_dark_full = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
-                                 "3840x2160", "640x480", "704x576", 'brightness', 'exposure', 'two_res', 'one_res']
-
-    # BEZ resolution_quantity
-    features_all = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness",
+                         "blockout", "exposure", "contrast", "brightness",
+                         "duration", "1920x1080", "352x288", "3840x2160", "640x480","704x576",  'one_res',])
+    # all no one_res
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness",
                     "spatialactivity", "pillarbox", "blockloss", "blur", "temporalact",
-                    "blockout", "exposure", "contrast", "brightness", "interlace",
-                    "slice", "fps", "1920x1080", "352x288", "3840x2160", "640x480", "704x576", "duration"]
-    features_test_0 = ["frame", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness", "1920x1080", "352x288",
-                       "3840x2160", "640x480", "704x576"]
-    features_test_2 = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness", "1920x1080", "352x288",
-                       "3840x2160", "640x480", "704x576"]
-    features_test_3 = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
-                       "3840x2160", "640x480", "704x576"]
-    agh_features = ["frame", "blockiness", "spatialactivity", "pillarbox", "blockloss", "blur",
-                    "temporalact", "blockout", "exposure", "contrast", "brightness", "interlace",
-                    "slice", "fps", 'duration']
+                    "blockout", "exposure", "contrast", "brightness",
+                     "duration", "1920x1080", "352x288", "3840x2160", "640x480","704x576"])
 
-    netflix_features_psnr = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288", "3840x2160",
-                             "640x480",
-                             "704x576", 'duration']
-    netflix_features_nopsnr = ["Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288", "3840x2160", "640x480",
-                               "704x576", 'duration']
 
-    features_test_1_dark = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
-                            "3840x2160", "640x480", "704x576", 'brightness']
-    features_test_2_dark = ["duration", "PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "1920x1080", "352x288",
-                            "3840x2160", "640x480", "704x576", 'brightness', 'exposure']
+    # NR
+    features.append(["blockiness", "spatialactivity", "pillarbox", "blockloss", "blur",
+                         "temporalact", "blockout", "exposure", "contrast", "brightness",
+                          'duration', "1920x1080", "352x288", "3840x2160", "640x480","704x576"])
+    # with one_res
+    features.append(["blockiness", "spatialactivity", "pillarbox", "blockloss", "blur",
+                    "temporalact", "blockout", "exposure", "contrast", "brightness",
+                     'duration', "1920x1080", "352x288", "3840x2160", "640x480","704x576", 'one_res', ])
+    # with res , without duration
+    features.append(["blockiness", "spatialactivity", "pillarbox", "blockloss", "blur",
+                     "temporalact", "blockout", "exposure", "contrast", "brightness",
+                      "1920x1080", "352x288", "3840x2160", "640x480", "704x576", 'one_res', ])
 
+
+
+
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM",])
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", 'duration'])
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "duration",  'one_res', ])
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "duration", 'one_res', "1920x1080", "352x288", "3840x2160", "640x480", "704x576", ])
+
+
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "brightness"])
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "brightness", "exposure"])
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blur", "blockloss", ])
+
+
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "brightness",  'one_res'])
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "brightness", "exposure",  'one_res'])
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blur", "blockloss",  'one_res'])
+
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "brightness", "blockiness",
+                     "blockloss", "blur",
+                     'one_res'])
+    # napodstawie wykresow pojedynczych cech
+    features.append(["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "brightness", "blockiness",
+                     "blockloss", "blur"
+                    ])
+
+    empty = []
+    #
     print "processing Linear Regression..."
-    execute_LR(training_dataset, testing_dataset, features_all, features_test_0, features_test_2, features_test_3,
-               agh_features, netflix_features_psnr, netflix_features_nopsnr, features_test_1_dark,
-               features_test_2_dark,
-               features_all_full, features_test_0_full, features_test_2_full, features_test_3_full,
-               agh_features_full, netflix_features_psnr_full, netflix_features_nopsnr_full, features_test_1_dark_full,
-               features_test_2_dark_full)
+    execute_LR(training_dataset, testing_dataset, features)
+    # # k-fold
+    # execute_LR_k_fold(sub_DB_list, empty, features)
+    #
     print "processing support_vector_regresion..."
-    execute_SVR(training_dataset, testing_dataset, features_all, features_test_0, features_test_2, features_test_3,
-               agh_features, netflix_features_psnr, netflix_features_nopsnr, features_test_1_dark,
-               features_test_2_dark,
-               features_all_full, features_test_0_full, features_test_2_full, features_test_3_full,
-               agh_features_full, netflix_features_psnr_full, netflix_features_nopsnr_full, features_test_1_dark_full,
-               features_test_2_dark_full)
+    execute_SVR(training_dataset, testing_dataset, features)
+    # k-fold
+    # execute_SVR_k_fold(sub_DB_list, empty, features)
+
     print "processing MLPRegressor..."
-    execute_NN(training_dataset, testing_dataset, features_all, features_test_0, features_test_2, features_test_3,
-               agh_features, netflix_features_psnr, netflix_features_nopsnr, features_test_1_dark,
-               features_test_2_dark,
-               features_all_full, features_test_0_full, features_test_2_full, features_test_3_full,
-               agh_features_full, netflix_features_psnr_full, netflix_features_nopsnr_full, features_test_1_dark_full,
-               features_test_2_dark_full)
+    execute_NN(training_dataset, testing_dataset, features)
+    # k-fold
+    # execute_NN_k_fold(sub_DB_list, empty, features)
+
     print "processing RandomForestRegressor..."
-    execute_RF(training_dataset, testing_dataset, features_all, features_test_0, features_test_2, features_test_3,
-               agh_features, netflix_features_psnr, netflix_features_nopsnr, features_test_1_dark,
-               features_test_2_dark,
-               features_all_full, features_test_0_full, features_test_2_full, features_test_3_full,
-               agh_features_full, netflix_features_psnr_full, netflix_features_nopsnr_full, features_test_1_dark_full,
-               features_test_2_dark_full)
+    execute_RF(training_dataset, testing_dataset, features)
+    # k-fold
+    # execute_RF_k_fold(sub_DB_list, empty, features)
+
 
 
 if __name__ == '__main__':

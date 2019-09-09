@@ -14,12 +14,12 @@ def create_single_chart(vmaf_values):
 def read_all_csv():
     pd.set_option("display.max_colwidth", 100)
 
-    pd_DB1 = pd.read_csv(r"C:\Users\elacpol\Desktop\VMAF\csv-ki\final_csv\DB1.csv", skipinitialspace=True)
-    pd_DB_cif = pd.read_csv(r"C:\Users\elacpol\Desktop\VMAF\csv-ki\final_csv\DB_cif.csv", skipinitialspace=True)
-    pd_DB_cif4 = pd.read_csv(r"C:\Users\elacpol\Desktop\VMAF\csv-ki\final_csv\DB_cif4.csv", skipinitialspace=True)
-    pd_india_agh = pd.read_csv(r"C:\Users\elacpol\Desktop\VMAF\csv-ki\final_csv\india_agh.csv", skipinitialspace=True)
-    pd_netflix1 = pd.read_csv(r"C:\Users\elacpol\Desktop\VMAF\csv-ki\final_csv\netflix1.csv", skipinitialspace=True)
-    pd_netflix2 = pd.read_csv(r"C:\Users\elacpol\Desktop\VMAF\csv-ki\final_csv\netflix2.csv", skipinitialspace=True)
+    pd_DB1 = pd.read_csv(r"csv_bds/DB1.csv", skipinitialspace=True)
+    pd_DB_cif = pd.read_csv(r"csv_bds/DB_cif.csv", skipinitialspace=True)
+    pd_DB_cif4 = pd.read_csv(r"csv_bds/DB_cif4.csv", skipinitialspace=True)
+    pd_india_agh = pd.read_csv(r"csv_bds/india_agh.csv", skipinitialspace=True)
+    pd_netflix1 = pd.read_csv(r"csv_bds/netflix1.csv", skipinitialspace=True)
+    pd_netflix2 = pd.read_csv(r"csv_bds/netflix2.csv", skipinitialspace=True)
 
     return pd_DB1, pd_DB_cif, pd_DB_cif4, pd_india_agh, pd_netflix1, pd_netflix2
 
@@ -139,6 +139,29 @@ def split_netflix_to_video_groups(DB):
 
 
 def split_DB_for_train_test(DB, isRandom=True):
+    # print Counter(foo)
+    # bar = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16"]
+    # print len(DB)
+    # print (len(DB) * 20) / 100
+    test_data_quantity = (len(DB) * 20) / 100
+    if isRandom:
+        test_idxes = random.sample(xrange(len(DB)-1), test_data_quantity)
+        test_idxes.sort()
+        test_idxes = test_idxes[::-1]
+    else:
+        test_idxes = range(test_data_quantity)
+        for id, el in enumerate(test_idxes):
+            if el%2: test_idxes[id] = - el
+
+    testing_data = []
+    map(lambda x: testing_data.append(DB[x]), test_idxes)
+    training_data = DB[:]
+    map(lambda x: training_data.pop(x), test_idxes)
+    # print len(training_data)
+    return training_data, testing_data
+
+
+def split_DB_for_for_r_group(DB, isRandom=True):
     # print Counter(foo)
     # bar = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16"]
     # print len(DB)

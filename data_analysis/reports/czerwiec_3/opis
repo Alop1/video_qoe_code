@@ -1,0 +1,5 @@
+bez rozdzielczosci
+bez niedzialajacych  cech
+svr rbf
+nn = MLPRegressor(hidden_layer_sizes=(13,13,13,13), max_iter=10000) # max_iter=500
+RF 150/10

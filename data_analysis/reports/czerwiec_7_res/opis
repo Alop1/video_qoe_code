@@ -1,0 +1,8 @@
+RF: 150/10
+NN: epsilon=1e-08|hidden_layer_sizes=(13| 13| 13| 13)
+SVR:  rfb
+cechy: bez zlych
+with res
+podobne do _3
+c =0.7
+RF = 40, 8

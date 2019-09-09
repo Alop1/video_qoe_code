@@ -1,0 +1,33 @@
+ # #no resoltutions - already studied
+    ALL = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness",
+                         "spatialactivity", "pillarbox", "blockloss", "blur", "temporalact",
+                         "blockout", "exposure", "contrast", "brightness",
+                         'one_res', "duration", "1920x1080", "352x288", "3840x2160", "640x480","704x576"]
+    ALL_no_oneres = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness",
+                    "spatialactivity", "pillarbox", "blockloss", "blur", "temporalact",
+                    "blockout", "exposure", "contrast", "brightness",
+                     "duration", "1920x1080", "352x288", "3840x2160", "640x480","704x576"]
+
+    agh_features2 = ["blockiness", "spatialactivity", "pillarbox", "blockloss", "blur",
+                         "temporalact", "blockout", "exposure", "contrast", "brightness",
+                          'duration', 'one_res', "1920x1080", "352x288", "3840x2160", "640x480","704x576"]
+    agh_features_no_res2 = ["blockiness", "spatialactivity", "pillarbox", "blockloss", "blur",
+                    "temporalact", "blockout", "exposure", "contrast", "brightness",
+                    "fps", 'duration', "1920x1080", "352x288", "3840x2160", "640x480","704x576" ]
+
+    FR_dur_oneres = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "duration",  'one_res']
+    FR_dur =["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", 'duration']
+    FR_blockBright_oneres1 = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness","brightness", 'one_res']
+    FR_blockBright_oneres_dur1 = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "duration",  "blockiness","brightness", 'one_res']
+    FR_bloc =      ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness"]
+    FR_blockBright_1 =  ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "duration", "brightness", "blockiness"]
+
+    res_FR_dur_oneres = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "duration",  'one_res', "1920x1080", "352x288", "3840x2160", "640x480","704x576"]
+    res_FR_dur =["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", 'duration', "1920x1080", "352x288", "3840x2160", "640x480","704x576"]
+    res_FR_blockBright_oneres1 = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness","brightness", 'one_res', "1920x1080", "352x288", "3840x2160", "640x480","704x576"]
+    res_FR_blockBright_oneres_dur1 = ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "duration",  "blockiness","brightness", 'one_res', "1920x1080", "352x288", "3840x2160", "640x480","704x576"]
+    res_FR_bloc =      ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "blockiness", "1920x1080", "352x288", "3840x2160", "640x480","704x576"]
+    res_FR_blockBright_1 =  ["PSNR", "Aggregate_vmaf", "SSIM", "MS_SSIM", "duration", "brightness", "blockiness", "1920x1080", "352x288", "3840x2160", "640x480","704x576"]
+
+
+

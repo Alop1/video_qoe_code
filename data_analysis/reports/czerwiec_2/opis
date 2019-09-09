@@ -1,0 +1,4 @@
+RF: 150/10
+NN: epsilon=1e-08|hidden_layer_sizes=(13| 13| 13)
+SVR:  linear
+cechy: ze zlymi
