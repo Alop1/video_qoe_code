@@ -53,7 +53,6 @@ def main():
             r2_all_models.append(r2_list_per_featureset)
 
         for model in sorted_r2_for_file:
-            print model
             selected_dataset =  sorted_r2_for_file[model][18]      #0 - aggregate vmaf
             selected_dataset_2 = sorted_r2_for_file[model][7]  # 7 - PSNR, VMAF, SSIM, MS-SSIM, blokowość, aktywność przestrzenna, pillarbox, \\ straty bloków, rozmycie, aktywność czasowa, wyciemnienie, ekspozycja, kontrast, \\ jasność, czas trwania, rozdzielczości
             selected_dataset_3 = sorted_r2_for_file[model][25]  # 25-  blokowość, aktywność przestrzenna, pillarbox, straty bloków, rozmycie, aktywność czasowa,\\ wyciemnienie, ekspozycja,  kontrast, jasność, czas trwania, rozdzielczości, liczba dostępnych

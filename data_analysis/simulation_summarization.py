@@ -80,9 +80,7 @@ def main():
     # new_possitions = [ele + possition_offset for ele in two_slots_posistion]
     # foo = plt.bar(two_slots_posistion, r2_all_models[0], color='blue')
     for id, r2_per_model in enumerate(r2_all_models):
-        print id , " -> ", r2_per_model
         new_possitions = [ele + possition_offset for ele in two_slots_posistion]
-        print "new pos", new_possitions
         foo = plt.bar(new_possitions, r2_per_model, color=color_table[id])
         all_bars_table.append(foo)
         possition_offset += 1

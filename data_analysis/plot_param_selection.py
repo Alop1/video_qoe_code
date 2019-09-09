@@ -166,7 +166,6 @@ def main():
         #     break
 
 
-        print "final !!!!!"
         for key, val  in RF_charts.items():
             print "vect ", key, " ", val
 

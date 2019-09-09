@@ -196,10 +196,8 @@ def join_DBes(*args):
 def scale_data(data):
     from sklearn.preprocessing import StandardScaler
     scaler = StandardScaler()
-     # Don't cheat - fit only on training data
     scaler.fit(data)
     X_train = scaler.transform(data)
-     # apply same transformation to test data
     scaled_data = scaler.transform(data)
     return scaled_data
 
